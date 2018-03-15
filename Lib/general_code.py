@@ -1,6 +1,5 @@
 import pandas as pd
 from csv import DictReader
-from xml.etree.ElementTree import Element, SubElement, tostring
 import json
 from langdetect import detect
 import pystache
