@@ -7,4 +7,4 @@ language-Codes.json : Encoding ANSI (changed from utf-8)
 Python version: 3.6
 
 Libraries:
-pandas, ElementTree, langdetect.
+pandas, pystache, langdetect.
