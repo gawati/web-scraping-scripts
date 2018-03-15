@@ -1,17 +1,20 @@
 import pandas as pd
-import csv
 from csv import DictReader
 from xml.etree.ElementTree import Element, SubElement, tostring
 import json
 from langdetect import detect
+import pystache
 
 def main(url,xml):
  #grab the data and store it in a .csv file.
  page = pd.read_html(url)[0]
- page.to_csv("metadata.csv", header = ["1","2"], index = False) #A csv file with name "metadata" will be created.
+ page.to_csv("metadata.csv", header = ["1","2"], index = False)
  with open("metadata.csv") as f:
   values = [row["2"] for row in DictReader(f)]
- 
+
+ with open("metadata.csv") as f:
+  rows = [row["1"] for row in DictReader(f)]
+
  #fetch country's code.
  with open("country-codes.json") as countryCode:
   codes = json.load(countryCode)
@@ -35,38 +38,51 @@ def main(url,xml):
  
  #Split "legislationType" field.
  lType = values[3].split(",")
- 
- #build XML and store in a separate file.
- root = Element("doc source="+url+" identifier="+values[6])
- r = SubElement(root, "country code="+cc)
- r.text = values[1]
- a = SubElement(root, "language code="+lang)
- b = SubElement(root, "name")
- b.text = values[0]
- c = SubElement(root, "subjects")
- c.text = values[2]
- d = SubElement(root, "legislationType")
- d1 = SubElement(d, "docType")
- d1.text = lType[0]
- d2 = SubElement(d, "docType")
- d2.text = lType[1]
- e = SubElement(root, "adoptedOn")
- e.text = values[4]
- f = SubElement(root, "EntryIntoForce")
- f.text = values[5]
- g = SubElement(root, "ISN")
- g.text = values[6]
- h = SubElement(root, "bibliography")
- h.text = values[7]
- i = SubElement(root, "abstractOrCitation")
- i.text = values[8]
- j = SubElement(root, "repealedTexts")
- j.text = values[9]
- data = tostring(root,encoding="utf-8",method="xml").decode("utf-8")
- file = open(xml,"w+") #An XML file with the name passed by the user will be created.
- file.write(data)
+
+ #Converting to XML
+ dict = {"name": values[0], "country": values[1], "subject": values[2], "lType0": lType[0], "lType1": lType[1],
+         "adoptedOn": values[4], "entryIntoForce": values[5], "ISN": values[6], "bibliography": values[7],
+         "abstractOrCitation": values[8], "repealedTexts": values[9], "URL": url, "countrycode": cc,
+         "languagecode": lang}
+
+ root = pystache.render("<doc source={{{URL}}} identifier={{ISN}}>", dict)
+ t1 = pystache.render("<Country code={{{countrycode}}}>{{country}}</Country>", dict)
+ t2 = pystache.render("<Language code={{{languagecode}}}>", dict)
+ t3 = pystache.render("<name>{{{name}}}</name>", dict)
+ t4 = pystache.render("<subject(s)>{{{subject}}}</subject(s)>", dict)
+ t6 = pystache.render("<legislationType>")
+ t7 = pystache.render("</legislationType>")
+ t8 = pystache.render("<adoptedOn>{{{adoptedOn}}}</adoptedOn>", dict)
+ t9 = pystache.render("<entryIntoForce>{{{entryIntoForce}}}</entryIntoForce>", dict)
+ t10 = pystache.render("<bibliography>{{{bibliography}}}</bibliography>", dict)
+ t11 = pystache.render("<abstractOrCitation>{{{abstractOrCitation}}}</abstractOrCitation>", dict)
+ t12 = pystache.render("<repealedTexts>{{{repealedTexts}}}</repealedTexts>", dict)
+ rootend = pystache.render("</doc>")
+
+ file = open(xml, "w+", encoding="UTF-8")
+ file.write(root)
+ file.write("\n" + t1)
+ file.write("\n" + t2)
+ file.write("\n" + t3)
+ file.write("\n" + t4)
+ file.write("\n" + t5)
+ i = 0
+ while i < len(lType):
+  if lType[i] in ["Law", " Act", "Constitution", " Regulation", " Decree", " Ordinance", "Miscellaneous"]:
+   file.write("\n<docType>"+lType[i]+"</docType>")
+  i = i + 1
+ file.write("\n" + t7)
+ file.write("\n" + t8)
+ file.write("\n" + t9)
+ file.write("\n" + t10)
+ file.write("\n" + t11)
+ file.write("\n" + t12)
+ file.write("\n" + rootend)
  file.close()
 
-#function call. Pass two parameters: the webpage's URL and the name of the XML (with extension) file where the XML metadata will be stored.
-#both parameters must be within quotes.
-#main(,)
+'''Function takes 2 arguments:
+Argument 1 (url): URL of the webpage
+Argument 2 (xmlFile) : Name of the XML file to store the metadata.
+Both arguments must be within double quotes.
+'''
+main(url,xmlFile)
