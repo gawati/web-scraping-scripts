@@ -99,14 +99,14 @@ def main(url, xml):
     dict1 = {"name": values[2], "country": values[1], "subject": values[3], "adoptedOn": values[4], "ISN": values[0],
              "URL": url, "countrycode": country_code, "languagecode": lang, "docTypes": doc_types}
 
-    doc_template = """<doc source={{{URL}}} identifier={{ISN}}>
-             <Country code={{{countrycode}}}>{{country}}</Country>
-             <Language code={{{languagecode}}}>
+    doc_template = """<doc source="{{{URL}}}" identifier="{{ISN}}">
+             <Country code="{{{countrycode}}}">{{country}}</Country>
+             <Language code="{{{languagecode}}}">
              <name>{{{name}}}</name>
-             <subject(s)>{{{subject}}}</subject(s)>
-             <legislationType>
+             <subjects>{{{subject}}}</subjects>
+             <docTypes>
                 {{{docTypes}}}
-             </legislationType>
+             </docTypes>
              <adoptedOn>{{{adoptedOn}}}</adoptedOn>
         </doc>
     """
