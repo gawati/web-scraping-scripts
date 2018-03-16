@@ -61,16 +61,11 @@ def get_doc_types(lType):
     while i < len(lType):
         if lType[i] in [
                 "Law",
-                " Law"
                 "Act",
-                " Act",
                 "Constitution",
                 "Regulation",
-                " Regulation",
                 "Decree",
-                " Decree",
                 "Ordinance",
-                " Ordinance",
                 "Miscellaneous"
             ]:
             doc_types.append("<docType>" + lType[i] + "</docType>")
@@ -91,7 +86,7 @@ def main(url, xml):
     lang = get_language_code(detected_language)
 
     # Split "legislationType" field.
-    lType = values[5].split(",")
+    lType = values[5].split(", ")
 
     doc_types = get_doc_types(lType)
 
