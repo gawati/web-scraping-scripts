@@ -1,0 +1,12 @@
+<doc source="{{URL}}" identifier="{{ISN}}">
+     <country code="{{countrycode}}">{{country}}</country>
+     <language code="{{languagecode}}">
+     <name>{{{name}}}</name>
+     <subjects>{{subject}}</subjects>
+     <docTypes>
+        {{#docTypes}}
+            <docType>{{name}}</docType>
+        {{/docTypes}}
+     </docTypes>
+     <adoptedOn>{{adoptedOn}}</adoptedOn>
+</doc>
