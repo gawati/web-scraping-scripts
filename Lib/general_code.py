@@ -35,7 +35,7 @@ def get_html_from_url(url):
 
 def get_country_code(country_name):
     # fetch country's code.
-    with open("country-codes.json") as countryCode:
+    with open("countryCodes.json", encoding="utf-8") as countryCode:
         codes = json.load(countryCode)
         codeList = list(codes["countries"]["country"])
         for item in codeList:
@@ -45,7 +45,8 @@ def get_country_code(country_name):
 
 
 def get_language_code(detected_language):
-    with open("language-Codes.json", encoding="ANSI") as langCode:
+    # NEVER use ANSI encoding, always utf-8
+    with open("languageCodes.json", encoding="utf-8") as langCode:
         lcodes = json.load(langCode)
         lcodeList = list(lcodes["langs"]["lang"])
         found_lang = ''
