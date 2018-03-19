@@ -177,7 +177,8 @@ def main(url, output_xml):
 
     else:
         dict_for_template = {"name": values[2], "country": country_list[0], "subject": values[3], "adoptedOn": values[4],
-                             "ISN": values[0], "URL": url, "countrycode": country_code, "languagecode": lang, "docTypes": document_types_for_template,"relatedCountries": related_country_codes_for_template}
+                             "ISN": values[0], "URL": url, "countrycode": country_code, "languagecode": lang, "docTypes": document_types_for_template,
+                             "relatedCountries": related_country_codes_for_template}
 
         doc_template = __load_template("doc_with_multiple_countries.mxml")
 
