@@ -1,6 +1,6 @@
 <doc source="{{URL}}" identifier="{{ISN}}">
      <country code="{{countrycode}}">{{country}}</country>
-     <language code="{{languagecode}}">
+     <language code="{{languagecode}}"/>
      <name>{{{name}}}</name>
      <subjects>{{subject}}</subjects>
      <docTypes>
