@@ -112,15 +112,16 @@ def get_doc_types(document_types):
     doc_types  = [ {"name": document_type} for document_type in document_types]
     return doc_types
 
-def get_related_country_codes(related_country_names):
+def get_related_country_codes(country_names):
+    #related_names = []
     with open("countryCodes.json", encoding="utf-8") as countryCode:
         codes = json.load(countryCode)
         codeList = list(codes["countries"]["country"])
         country_codes = []
         i = 0
-        while i < len(related_country_names):
+        while i < len(country_names):
             for item in codeList:
-                if item["name"] == related_country_names[i]:
+                if item["name"] == country_names[i]:
                     country_codes.insert(i,(item["alpha-2"]))
             i = i + 1
 
@@ -132,20 +133,14 @@ def main(url, output_xml):
     print(" Getting metadata from url...")
     values = get_html_from_url(url)
 
-    country_list = values[1].split(", ")
-    country_names = []
-    i = 0
-    j = 1
-    while j < len(country_list):
-        country_names.insert(i,country_list[j])
-        i = i + 1
-        j = j + 1
+    country_list = values[1].split(",")
+    country_names = country_list[1:]
 
     # fetch country's code.
     print(" Getting country and language info...")
     country_code = get_country_code(country_list[0])
 
-     # detect the document's language from the language of the citation
+     # detect the document's language from the language of the name field.
     detected_language = detect(values[2])  # fetch language's code.
 
     lang = get_language_code(detected_language)
@@ -155,38 +150,24 @@ def main(url, output_xml):
     ## 'lType' is a bit vague changed it to documentTypes
 
     document_types = [aType.strip() for aType in values[5].split(",")]
-    related_country_names = [aType.strip() for aType in country_names]
+    country_names = [aType.strip() for aType in country_names]
 
     print(" Generating XML ... ", output_xml)
 
     document_types_for_template = get_doc_types(document_types)
-    related_country_codes_for_template = get_related_country_codes(related_country_names)
+    related_country_codes_for_template = get_related_country_codes(country_names)
 
     # Converting to XML
-    if len(country_list) == 1:
-        dict_for_template = {"name": values[2], "country": country_list[0], "subject": values[3], "adoptedOn": values[4], "ISN": values[0],
-             "URL": url, "countrycode": country_code, "languagecode": lang, "docTypes": document_types_for_template}
+    dict_for_template = {"name": values[2], "country": country_list[0], "subject": values[3], "adoptedOn": values[4],
+                         "ISN": values[0], "URL": url, "countrycode": country_code, "languagecode": lang, "docTypes": document_types_for_template,"relatedCountries": related_country_codes_for_template}
 
-        doc_template = __load_template("doc.mxml")
+    doc_template = __load_template("doc_with_multiple_countries.mxml")
 
-        # apply the mustache template on dict_for_template
-        generated_xml_file = pystache.render(doc_template, dict_for_template)
+    # apply the mustache template on dict_for_template
+    generated_xml_file = pystache.render(doc_template, dict_for_template)
 
-        with open(output_xml, "w+", encoding="UTF-8") as output_file:
-            output_file.write(generated_xml_file)
-
-    else:
-        dict_for_template = {"name": values[2], "country": country_list[0], "subject": values[3], "adoptedOn": values[4],
-                             "ISN": values[0], "URL": url, "countrycode": country_code, "languagecode": lang, "docTypes": document_types_for_template,
-                             "relatedCountries": related_country_codes_for_template}
-
-        doc_template = __load_template("doc_with_multiple_countries.mxml")
-
-        # apply the mustache template on dict_for_template
-        generated_xml_file = pystache.render(doc_template, dict_for_template)
-
-        with open(output_xml, "w+", encoding="UTF-8") as output_file:
-            output_file.write(generated_xml_file)
+    with open(output_xml, "w+", encoding="UTF-8") as output_file:
+        output_file.write(generated_xml_file)
 
 
 '''
