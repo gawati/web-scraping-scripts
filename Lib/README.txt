@@ -6,7 +6,7 @@ language-Codes.json : Encoding ANSI (changed from utf-8)
 
 Python version: 3.6
 
-Libraries: pandas, lxml, html5lib, BeautifulSoup4, pystache, langdetect, jellyfish
+Libraries: pandas, lxml, html5lib, BeautifulSoup4, pystache, langdetect
 
 Installing:
 
@@ -14,6 +14,6 @@ Installing:
  # then run :
 
     ```
-    pip install lxml html5lib BeautifulSoup4 pystache jellyfish langdetect
+    pip install lxml html5lib BeautifulSoup4 pystache langdetect
     pip install pandas
     ```
