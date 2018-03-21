@@ -1,14 +1,14 @@
 <doc source="{{URL}}" identifier="{{ISN}}">
      <country code="{{countrycode}}">{{country}}
      {{#hasRelatedCountries}}
-     <relatedCountries>
-		{{#relatedCountries}}
-			<country code="{{code}}" />
-		{{/relatedCountries}}
-	 </relatedCountries>
-	 {{/hasRelatedCountries}}
-	 </country>
-	 <language code="{{languagecode}}" />
+        <relatedCountries>  
+        {{#relatedCountries}}
+            <country code="{{code}}" />
+        {{/relatedCountries}}
+        </relatedCountries>
+     {{/hasRelatedCountries}}
+	  </country>
+     <language code="{{languagecode}}" />
      <name>{{{name}}}</name>
      <subjects>{{subject}}</subjects>
      <docTypes>
@@ -17,4 +17,19 @@
         {{/docTypes}}
      </docTypes>
      <adoptedOn>{{adoptedOn}}</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 {{#originSources}}
+	 <originSources>
+	 {{/originSources}}
+	 {{#originSources}}
+	 <originSource href="{{link}}"/>
+	 {{/originSources}}
+	 {{#originSources}}
+	 </originSources>
+	 {{/originSources}}
+	 <providerSource filetype="pdf" href="{{providerSource}}">
+	 <providerDocName>{{providerDocName}}</providerDocName>
+	 </providerSource>
+	 </bibliography>
 </doc>
