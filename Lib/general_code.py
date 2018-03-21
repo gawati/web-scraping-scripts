@@ -8,6 +8,7 @@ import pandas as pd
 from langdetect import detect
 from bs4 import BeautifulSoup
 import urllib3
+import requests
 
 def __delete_file(file_name):
     """
@@ -165,6 +166,21 @@ def get_provider_source_link(url):
 def main(url, output_xml):
     # grab the data and store it in a .csv file.
     print(" Getting metadata from url...")
+
+    #
+    # ASHOK: 21-03-2018
+    # You are requesting the same page 4 times from the same url
+    # this is very inefficient and unnessary, and some sites will likely ban you
+    #  Why do this when you have all the
+    # info neccessary from just 1 request. See the 2 lines below,
+    # they fetch the page, and the full html of the page is captured
+    # in the 'html_page' variable... you just pass that to get_html_for_url
+    # get_origin_source..get_bibliography_....etc.
+    # dont use urllib3, much easier and better to use the requests librarhy
+    #
+    response_page = requests.get(url)
+    html_page = response_page.text
+
     values = get_html_from_url(url)
 
     country_list = [value.strip() for value in values[1].split(",")]
@@ -209,7 +225,7 @@ def main(url, output_xml):
         dict_for_template["hasOriginSourceLinks"] = True
         dict_for_template["originSources"] = origin_source_links
 
-    doc_template = __load_template("doc_with_multiple_countries.mxml")
+    doc_template = __load_template("doc.mxml")
 
     # apply the mustache template on dict_for_template
     generated_xml_file = pystache.render(doc_template, dict_for_template)
