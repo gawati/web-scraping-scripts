@@ -74,12 +74,13 @@ def get_html_from_url(url):
 
 
 def get_country_code(country_name):
-    #
-    # ASHOK: You don't need to do this... you already have the alpha-3 country code in the url.
-    #  http://..... 67&p_country=ETH&p_count=164&p_classification=01&p_classcount=79
-    #                            ^^^
-    #                         See above you just need to the get the country code out of that.
-    # fetch country's code.
+    ##
+    ## ASHOK-2018-03-23
+    ## instead of item["name"] === country_name
+    ## use a similarity matcher, so we can handle cases where the
+    ## country name on the site is spelt or punctuated slightly differently
+    ## see https://github.com/jamesturk/jellyfish for example,
+    ## provides a levenstein similarity matcher
     with open("countryCodes.json", encoding="utf-8") as countryCode:
         codes = json.load(countryCode)
         codeList = list(codes["countries"]["country"])
