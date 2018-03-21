@@ -8,7 +8,6 @@ import pandas as pd
 from langdetect import detect
 from bs4 import BeautifulSoup
 import urllib3
-import jellyfish
 
 def __delete_file(file_name):
     """
