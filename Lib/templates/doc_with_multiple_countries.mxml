@@ -19,15 +19,13 @@
      <adoptedOn>{{adoptedOn}}</adoptedOn>
 	 <bibliography>
 	 <provider name="ILO" database="NATLEX"/>
-	 {{#originSources}}
+	 {{#hasOriginSourceLinks}}
 	 <originSources>
-	 {{/originSources}}
 	 {{#originSources}}
 	 <originSource href="{{link}}"/>
 	 {{/originSources}}
-	 {{#originSources}}
 	 </originSources>
-	 {{/originSources}}
+	 {{/hasOriginSourceLinks}}
 	 <providerSource filetype="pdf" href="{{providerSource}}">
 	 <providerDocName>{{providerDocName}}</providerDocName>
 	 </providerSource>
