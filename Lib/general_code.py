@@ -134,7 +134,7 @@ def main(url, output_xml):
     print(" Getting metadata from url...")
     values = get_html_from_url(url)
 
-    country_list = values[1].split(",")
+    country_list = [value.strip() for value in values[1].split(",")]
     country_names = country_list[1:]
 
     # fetch country's code.
@@ -159,8 +159,21 @@ def main(url, output_xml):
     related_country_codes_for_template = get_related_country_codes(country_names)
 
     # Converting to XML
-    dict_for_template = {"name": values[2], "country": country_list[0], "subject": values[3], "adoptedOn": values[4],
-                         "ISN": values[0], "URL": url, "countrycode": country_code, "languagecode": lang, "docTypes": document_types_for_template,"relatedCountries": related_country_codes_for_template}
+    dict_for_template = {
+        "name": values[2],
+        "country": country_list[0],
+        "subject": values[3],
+        "adoptedOn": values[4],
+        "ISN": values[0],
+        "URL": url,
+        "countrycode": country_code,
+        "languagecode": lang,
+        "docTypes": document_types_for_template
+    }
+
+    if (len(related_country_codes_for_template) > 0 ):
+        dict_for_template["hasRelatedCountries"] = True
+        dict_for_template["relatedCountries"] = related_country_codes_for_template
 
     doc_template = __load_template("doc_with_multiple_countries.mxml")
 

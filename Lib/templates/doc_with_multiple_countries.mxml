@@ -1,10 +1,12 @@
 <doc source="{{URL}}" identifier="{{ISN}}">
      <country code="{{countrycode}}">{{country}}
+     {{#hasRelatedCountries}}
      <relatedCountries>
 		{{#relatedCountries}}
 			<country code="{{code}}" />
 		{{/relatedCountries}}
 	 </relatedCountries>
+	 {{/hasRelatedCountries}}
 	 </country>
 	 <language code="{{languagecode}}" />
      <name>{{{name}}}</name>
