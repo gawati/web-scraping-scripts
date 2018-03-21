@@ -3,11 +3,12 @@ import json
 import os
 import uuid
 from csv import DictReader
-
 import pystache
 import pandas as pd
 from langdetect import detect
-
+from bs4 import BeautifulSoup
+import urllib3
+import jellyfish
 
 def __delete_file(file_name):
     """
@@ -20,7 +21,6 @@ def __delete_file(file_name):
     except OSError:
         pass
 
-
 def __load_template(template_name):
     """
     Loads the template from the file system './templates' folder
@@ -29,7 +29,6 @@ def __load_template(template_name):
     """
     with open(os.path.join("templates", template_name)) as tmpl_file:
         return tmpl_file.read()
-
 
 def get_html_from_url(url):
     """
@@ -72,24 +71,21 @@ def get_html_from_url(url):
 
     return data_list
 
-
 def get_country_code(country_name):
-    ##
-    ## ASHOK-2018-03-23
-    ## instead of item["name"] === country_name
-    ## use a similarity matcher, so we can handle cases where the
-    ## country name on the site is spelt or punctuated slightly differently
-    ## see https://github.com/jamesturk/jellyfish for example,
-    ## provides a levenstein similarity matcher
+    #
+    # ASHOK: You don't need to do this... you already have the alpha-3 country code in the url.
+    #  http://..... 67&p_country=ETH&p_count=164&p_classification=01&p_classcount=79
+    #                            ^^^
+    #                         See above you just need to the get the country code out of that.
+    # fetch country's code.
     with open("countryCodes.json", encoding="utf-8") as countryCode:
         codes = json.load(countryCode)
         codeList = list(codes["countries"]["country"])
         country_code = ""
         for item in codeList:
-            if item["name"] == country_name:
+            if jellyfish.damerau_levenshtein_distance(item["name"], country_name) <= 3:
                 country_code = (item["alpha-2"])
         return country_code
-
 
 def get_language_code(detected_language):
     # NEVER use ANSI encoding, always utf-8
@@ -102,12 +98,6 @@ def get_language_code(detected_language):
                 found_lang = (item["alpha3b"])
         return found_lang
 
-"""
-Generates an array of doctype objects like: 
-
-[ {"name": "Law"}, {"name": "Regulation"} .... ]
-
-"""
 def get_doc_types(document_types):
     doc_types = []
     doc_types  = [ {"name": document_type} for document_type in document_types]
@@ -128,6 +118,50 @@ def get_related_country_codes(country_names):
 
     related_country_codes = [{"code": country_code} for country_code in country_codes]
     return related_country_codes
+
+def get_bibliography_text(url):
+    http = urllib3.PoolManager()
+    response = http.request('GET', url)
+    soup = BeautifulSoup(response.data, "lxml")
+
+    bibliography_links = soup.find("td", text="Bibliography:").find_next_sibling("td").find_all("a")
+    last_bibliography_link = bibliography_links[-1]
+    text = last_bibliography_link.previous_sibling
+    bibliography_text = str(text)
+
+    return bibliography_text
+
+def get_origin_source_links(url):
+    http = urllib3.PoolManager()
+    response = http.request('GET', url)
+    soup = BeautifulSoup(response.data, "lxml")
+
+    bibliography_links = soup.find("td", text="Bibliography:").find_next_sibling("td").find_all("a")
+    list_of_bibliography_links = []
+    i = 0
+    for link in bibliography_links:
+        list_of_bibliography_links.insert(i, (link["href"]))
+        i = i + 1
+
+    del list_of_bibliography_links[-1]
+
+    list_of_origin_source_links = [{"link": link} for link in list_of_bibliography_links]
+    return list_of_origin_source_links
+
+def get_provider_source_link(url):
+    http = urllib3.PoolManager()
+    response = http.request('GET', url)
+    soup = BeautifulSoup(response.data, "lxml")
+
+    bibliography_links = soup.find("td", text="Bibliography:").find_next_sibling("td").find_all("a")
+    list_of_bibliography_links = []
+    i = 0
+    for link in bibliography_links:
+        list_of_bibliography_links.insert(i, (link["href"]))
+        i = i + 1
+
+    provider_source_link = list_of_bibliography_links[-1]
+    return provider_source_link
 
 def main(url, output_xml):
     # grab the data and store it in a .csv file.
@@ -153,27 +187,28 @@ def main(url, output_xml):
     document_types = [aType.strip() for aType in values[5].split(",")]
     country_names = [aType.strip() for aType in country_names]
 
-    print(" Generating XML ... ", output_xml)
-
     document_types_for_template = get_doc_types(document_types)
     related_country_codes_for_template = get_related_country_codes(country_names)
 
-    # Converting to XML
-    dict_for_template = {
-        "name": values[2],
-        "country": country_list[0],
-        "subject": values[3],
-        "adoptedOn": values[4],
-        "ISN": values[0],
-        "URL": url,
-        "countrycode": country_code,
-        "languagecode": lang,
-        "docTypes": document_types_for_template
-    }
+    origin_source_links = get_origin_source_links(url)
+    provider_source_link = get_provider_source_link(url)
+    bibliography_text = get_bibliography_text(url)
 
-    if (len(related_country_codes_for_template) > 0 ):
+    print(" Generating XML ... ", output_xml)
+
+    # Converting to XML
+    dict_for_template = {"name": values[2], "country": country_list[0], "subject": values[3], "adoptedOn": values[4],
+                        "ISN": values[0], "URL": url, "countrycode": country_code, "languagecode": lang, "docTypes": document_types_for_template,
+                        "relatedCountries": related_country_codes_for_template, "providerSource":provider_source_link,
+                         "providerDocName":bibliography_text,"originSources":origin_source_links}
+
+    if (len(related_country_codes_for_template) > 0):
         dict_for_template["hasRelatedCountries"] = True
         dict_for_template["relatedCountries"] = related_country_codes_for_template
+
+    if (len(origin_source_links) > 0):
+        dict_for_template["hasOriginSourceLinks"] = True
+        dict_for_template["originSources"] = origin_source_links
 
     doc_template = __load_template("doc_with_multiple_countries.mxml")
 
@@ -182,7 +217,6 @@ def main(url, output_xml):
 
     with open(output_xml, "w+", encoding="UTF-8") as output_file:
         output_file.write(generated_xml_file)
-
 
 '''
 Script takes 2 arguments:
