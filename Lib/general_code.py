@@ -83,7 +83,7 @@ def get_country_code(country_name):
         codeList = list(codes["countries"]["country"])
         country_code = ""
         for item in codeList:
-            if jellyfish.damerau_levenshtein_distance(item["name"], country_name) <= 3:
+            if item["name"] == country_name:
                 country_code = (item["alpha-2"])
         return country_code
 
