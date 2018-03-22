@@ -73,7 +73,7 @@ def get_country_code(country_name):
         for item in codeList:
             if item["name"] == country_name:
                 country_code = (item["alpha-2"])
-        return country_code
+        return country_code.lower()
 
 def get_language_code(detected_language):
     with open("languageCodes.json", encoding="utf-8") as langCode:
@@ -105,8 +105,8 @@ def get_related_country_codes(country_names):
     related_country_codes = [{"code": country_code} for country_code in country_codes]
     return related_country_codes
 
-def get_bibliography_text(html_page):
-    soup = BeautifulSoup(html_page, "lxml")
+def get_bibliography_text(soup):
+    #soup = BeautifulSoup(html_page, "lxml")
 
     bibliography_links = soup.find("td", text="Bibliography:").find_next_sibling("td").find_all("a")
     last_bibliography_link = bibliography_links[-1]
@@ -115,8 +115,8 @@ def get_bibliography_text(html_page):
 
     return bibliography_text
 
-def get_origin_source_links(html_page):
-    soup = BeautifulSoup(html_page, "lxml")
+def get_origin_source_links(soup):
+    #soup = BeautifulSoup(html_page, "lxml")
 
     bibliography_links = soup.find("td", text="Bibliography:").find_next_sibling("td").find_all("a")
     list_of_bibliography_links = []
@@ -130,8 +130,8 @@ def get_origin_source_links(html_page):
     list_of_origin_source_links = [{"link": link} for link in list_of_bibliography_links]
     return list_of_origin_source_links
 
-def get_provider_source_link(html_page):
-    soup = BeautifulSoup(html_page, "lxml")
+def get_provider_source_link(soup):
+    #soup = BeautifulSoup(html_page, "lxml")
 
     bibliography_links = soup.find("td", text="Bibliography:").find_next_sibling("td").find_all("a")
     list_of_bibliography_links = []
@@ -151,6 +151,17 @@ def download_provider_source_file(pdf_link,pdf_name):
             if chunk:
                 pdf.write(chunk)
 
+def generate_pdf_file_name(country_code, doc_type, official_date, doc_number, doc_lang):
+    return \
+    "akn_%(country_code)s_%(doc_type)s_%(official_date)s_%(doc_number)s_%(doc_lang)s_main.pdf" % {
+        "country_code": country_code,
+        "doc_type": doc_type,
+        "official_date": official_date,
+        "doc_number": doc_number,
+        "doc_lang": doc_lang
+    }
+
+
 def main(url, output_xml):
     # grab the data and store it in a .csv file.
     print(" Getting metadata from url...")
@@ -160,11 +171,16 @@ def main(url, output_xml):
 
     values = get_html_from_url(html_page)
 
-    provider_source_link = get_provider_source_link(html_page)
-    origin_source_links = get_origin_source_links(html_page)
-    bibliography_text = get_bibliography_text(html_page)
+    soup = BeautifulSoup(html_page, "lxml")
+
+    provider_source_link = get_provider_source_link(soup)
 
     if "docs" in provider_source_link:
+
+        origin_source_links = get_origin_source_links(soup)
+
+        bibliography_text = get_bibliography_text(soup)
+
         country_list = [value.strip() for value in values[1].split(",")]
         country_names = country_list[1:]
 
@@ -184,8 +200,7 @@ def main(url, output_xml):
         related_country_codes_for_template = get_related_country_codes(country_names)
 
         pdf_link = "http://www.ilo.org/dyn/natlex/" + provider_source_link
-        pdf_name = "akn_" + country_code + "_act_" + values[4] + "_" + values[0] + "_" + lang + "_main.pdf"
-        download_provider_source_file(pdf_link, pdf_name)
+        pdf_name = generate_pdf_file_name(country_code, "act", values[4], values[0], lang)
 
         print(" Generating XML... ", output_xml)
 
@@ -221,6 +236,9 @@ def main(url, output_xml):
         with open(output_xml, "w+", encoding="UTF-8") as output_file:
             output_file.write(generated_xml_file)
 
+        print(" Downloading PDF from ", pdf_link)
+        #download_provider_source_file(pdf_link, pdf_name)
+
     else:
         print("Unnecessary document. Move on to the next.")
 
@@ -229,7 +247,7 @@ Script takes 2 arguments:
 Argument 1 (url): URL of the webpage
 Argument 2 (xmlFile) : Name of the XML file to store the metadata.
 Both arguments must be within double quotes.
-python general_code.py <url> <xml_file_name>
+python general_code.py <url> <xml_file_name> 
 '''
 if __name__ == '__main__':
     main(sys.argv[1], sys.argv[2])
