@@ -119,11 +119,7 @@ def get_origin_source_links(soup):
     #soup = BeautifulSoup(html_page, "lxml")
 
     bibliography_links = soup.find("td", text="Bibliography:").find_next_sibling("td").find_all("a")
-    list_of_bibliography_links = []
-    i = 0
-    for link in bibliography_links:
-        list_of_bibliography_links.insert(i, (link["href"]))
-        i = i + 1
+    list_of_bibliography_links = [link["href"] for link in bibliography_links]
 
     del list_of_bibliography_links[-1]
 
@@ -134,12 +130,7 @@ def get_provider_source_link(soup):
     #soup = BeautifulSoup(html_page, "lxml")
 
     bibliography_links = soup.find("td", text="Bibliography:").find_next_sibling("td").find_all("a")
-    list_of_bibliography_links = []
-    i = 0
-    for link in bibliography_links:
-        list_of_bibliography_links.insert(i, (link["href"]))
-        i = i + 1
-
+    list_of_bibliography_links = [link["href"] for link in bibliography_links]
     provider_source_link = list_of_bibliography_links[-1]
     return provider_source_link
 

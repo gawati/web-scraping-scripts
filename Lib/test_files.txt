@@ -3,3 +3,4 @@ python general_code.py "http://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p
 python general_code.py "http://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=103965&p_country=ETH&p_count=164&p_classification=17&p_classcount=9" eth_003.txt
 python general_code.py "http://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=70034&p_country=ETH&p_count=164&p_classification=17&p_classcount=9" eth_004.txt
 python general_code.py "http://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=103980&p_country=ETH&p_count=164&p_classification=23&p_classcount=7" eth_005.txt
+python general_code.py "http://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=102829&p_country=TUR&p_count=778&p_classification=23&p_classcount=104" eth_006.txt
