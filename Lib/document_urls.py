@@ -43,6 +43,7 @@ def write_to_json_file(data,country_code):
 def main(url):
 
     country_code = url.split('p_country=')[1].split('&')[0]
+    print("Processing country ", country_code)
 
     relative_document_links = get_relative_links_of_documents(url)
     full_document_links = get_full_links_of_documents(relative_document_links)
