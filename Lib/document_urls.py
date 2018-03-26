@@ -8,7 +8,7 @@ import os
 def get_relative_links_of_documents(url):
     response = requests.get(url)
     html_page = response.text
-    soup = BeautifulSoup(html_page,"lxml")
+    soup = BeautifulSoup(html_page,"html5lib")
     li = soup.select("ol > li > p > a")
     links = []
 
@@ -29,8 +29,8 @@ def create_json_data(full_document_links,country_code):
     links_as_objects = [{"url": link} for link in full_document_links]
     country_dict = {"code": country_code}
     country_dict['countries'] = links_as_objects
+    print(len(country_dict['countries']))
     data = json.dumps(country_dict, ensure_ascii=False)
-
     return data
 
 def write_to_json_file(data,country_code):
@@ -43,7 +43,6 @@ def write_to_json_file(data,country_code):
 def main(url):
 
     country_code = url.split('p_country=')[1].split('&')[0]
-    print("Processing country ", country_code)
 
     relative_document_links = get_relative_links_of_documents(url)
     full_document_links = get_full_links_of_documents(relative_document_links)
