@@ -106,7 +106,7 @@ def get_related_country_codes(country_names):
     return related_country_codes
 
 def get_bibliography_text(html_page):
-    soup = BeautifulSoup(html_page, "lxml")
+    soup = BeautifulSoup(html_page, "html5lib")
 
     bibliography_links = soup.find("td", text="Bibliography:").find_next_sibling("td").find_all("a")
     last_bibliography_link = bibliography_links[-1]
@@ -116,7 +116,7 @@ def get_bibliography_text(html_page):
     return bibliography_text
 
 def get_origin_source_links(html_page):
-    soup = BeautifulSoup(html_page, "lxml")
+    soup = BeautifulSoup(html_page, "html5lib")
 
     bibliography_links = soup.find("td", text="Bibliography:").find_next_sibling("td").find_all("a")
     list_of_bibliography_links = []
@@ -131,7 +131,7 @@ def get_origin_source_links(html_page):
     return list_of_origin_source_links
 
 def get_provider_source_link(html_page):
-    soup = BeautifulSoup(html_page, "lxml")
+    soup = BeautifulSoup(html_page, "html5lib")
 
     bibliography_links = soup.find("td", text="Bibliography:").find_next_sibling("td").find_all("a")
     list_of_bibliography_links = []
