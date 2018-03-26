@@ -35,14 +35,19 @@ def create_json_data(full_document_links,country_code):
 
 def write_to_json_file(data,country_code):
     file_name = country_code + ".json"
-    with open(file_name, "w+", encoding="utf-8") as jsonFile:
+    file_path = "process_config/"+ country_code + ".json"
+    directory = os.path.dirname(file_path)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    with open("rest_of_the_path\\process_config\\"+file_name, "w+", encoding="utf-8") as jsonFile:
         jsonFile.write(data)
 
     print("File created successfully")
 
 def main(url):
 
-    country_code = url.split('p_country=')[1].split('&')[0]
+    country_code1 = url.split('p_country=')[1].split('&')[0]
+    country_code = country_code1.lower()
 
     relative_document_links = get_relative_links_of_documents(url)
     full_document_links = get_full_links_of_documents(relative_document_links)
