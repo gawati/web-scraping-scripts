@@ -49,6 +49,8 @@ def main(file_no,country_code_no):
 Function takes two parameters: file no. and Country_code no.
 Both parameters must be equal. That is, if file_no. is 0 then country_code_no. must also be 0.
 Both parameters must be in quotes.
+
+python html_download.py "0" "0" will download HTML data of all URLs in Algeria's JSON file (dza.json)
 '''
 if __name__ == '__main__':
     main(int(sys.argv[1]), int(sys.argv[2]))
