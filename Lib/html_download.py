@@ -45,11 +45,14 @@ def main(country_code):
     print("Fetching raw HTMl data for each document and saving it as a text file")
     url_list = su.get_document_urls(file_path)
 
-    for url in url_list:
-        file_name = write_html_to_file(url, url_list, country_code)
-        print("File created successfully")
-        update_country_json_file(country_code, url, url_list, file_path,file_name)
+    with open(file_path, "r", encoding="utf-8") as file:
+        data = json.load(file)
 
+    for url in url_list:
+        if "file" not in data["countries"][url_list.index(url)]:
+            file_name = write_html_to_file(url, url_list, country_code)
+            print("File created successfully")
+            update_country_json_file(country_code, url, url_list, file_path, file_name)
 
 
 '''
