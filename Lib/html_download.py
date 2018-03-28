@@ -1,6 +1,7 @@
 import os
 import sys
 import time
+import json
 import scrape_utils as su
 
 
@@ -19,12 +20,23 @@ def write_html_to_file(url, url_list, country_code):
 
     file_name = isn + ".txt"
     file_path = os.path.join("unprocessed_outputs",country_code.lower(),file_name)
-    print(file_path)
     directory = os.path.dirname(file_path)
     if not os.path.exists(directory):
         os.makedirs(directory)
     with open(file_path, "w+", encoding="utf-8") as textFile:
         textFile.write(raw_html_data)
+
+    return file_name
+
+def update_country_json_file(country_code, url, url_list, file_path, file_name):
+
+    with open(file_path, "r", encoding="utf-8") as jsonFile:
+        data = json.load(jsonFile)
+        data["countries"][url_list.index(url)]["file"] = file_name
+        #print(data)
+    with open(file_path, "w", encoding="utf-8") as writeJsonFile:
+        json.dump(data, writeJsonFile)
+
 
 def main(country_code):
 
@@ -34,7 +46,11 @@ def main(country_code):
     url_list = su.get_document_urls(file_path)
 
     for url in url_list:
-        write_html_to_file(url, url_list, country_code)
+        file_name = write_html_to_file(url, url_list, country_code)
+        print("File created successfully")
+        update_country_json_file(country_code, url, url_list, file_path,file_name)
+
+
 
 '''
 Function takes one parameter: country_code
