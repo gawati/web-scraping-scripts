@@ -4,21 +4,21 @@ import time
 import scrape_utils as su
 
 
-def get_file_paths(country_codes):
+def get_file_path(country_code):
     directory = os.path.join("process_config")
-    file_names = [item.lower()+".json" for item in country_codes]
-    file_paths = [os.path.join(directory,file_name) for file_name in file_names]
+    file_name = country_code.lower()+".json"
+    file_path = os.path.join(directory,file_name)
 
-    return file_paths
+    return file_path
 
-def write_html_to_file(url, url_list, country_codes, country_code_no):
+def write_html_to_file(url, url_list, country_code):
 
     raw_html_data = su.get_html_from_url(url)
     time.sleep(5)
     isn = url_list[url_list.index(url)].split('p_isn=')[1].split('&')[0]
 
     file_name = isn + ".txt"
-    file_path = os.path.join("unprocessed_outputs",country_codes[country_code_no].lower(),file_name)
+    file_path = os.path.join("unprocessed_outputs",country_code.lower(),file_name)
     print(file_path)
     directory = os.path.dirname(file_path)
     if not os.path.exists(directory):
@@ -26,22 +26,21 @@ def write_html_to_file(url, url_list, country_codes, country_code_no):
     with open(file_path, "w+", encoding="utf-8") as textFile:
         textFile.write(raw_html_data)
 
-def main(country_code_no):
+def main(country_code):
 
-    country_codes = su.get_country_codes()
-    file_paths = get_file_paths(country_codes)
+    file_path = get_file_path(country_code)
 
     print("Fetching raw HTMl data for each document and saving it as a text file")
-    url_list = su.get_document_urls(file_paths[country_code_no])
+    url_list = su.get_document_urls(file_path)
 
     for url in url_list:
-        write_html_to_file(url, url_list, country_codes,country_code_no)
+        write_html_to_file(url, url_list, country_code)
 
 '''
-Function takes one parameter: country_code_no. (0 to 57)
+Function takes one parameter: country_code
 The parameter must be in quotes.
 
-python html_download.py "0" will fetch raw HTML data of all URLs within Algeria's (country code: 0 (DZA)) JSON file (dza.json)
+python html_download.py "dza" will fetch raw HTML data of all URLs within Algeria's JSON file (dza.json)
 '''
 if __name__ == '__main__':
-    main(int(sys.argv[1]))
+    main(sys.argv[1])
