@@ -1,0 +1,260 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html dir="ltr">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="type">
+	<meta NAME="description" content="NATLEX, the ILO's database featuring national laws on: labour, social security and related human rights">
+	<meta name="keywords" content="">
+	<title>Cape Verde - Decreto Legislativo núm. 1/2016, de 3 de febrero, que modifica el Código Laboral caboverdiano aprobado por el Decreto Legislativo núm. 5/25007, de 16 de octubre, modificado por el Decreto Legislativo núm. 5/2010 de 17 de junio</title>
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global-normlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex-print.css" rel="stylesheet" type="text/css">
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie.css">
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie-normlex.css">
+	<![endif]-->
+	<link  href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.min.css" rel="stylesheet" type="text/css">
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/jquery-1.7.2.min.js"type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/newWin.js" type="text/javascript"></script>
+                       <script language="JavaScript" src="/webcommon/dyn/images/natlex/newin.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.jquery.min.js" type="text/javascript"></script>
+</head>
+
+<body> 
+	<a name="top"></a>
+	<div id="ieHack" class="global-settings"> 
+		
+<!--start include ILOsupplementary.htm-->
+<div id="supplementaryMenu">
+    <div id="miniLanguages"><a href="/dyn/natlex/natlex4.home">English</a> | <a href="/dyn/natlex/natlex4.home?p_lang=fr">Fran&ccedil;ais</a> | <a href="/dyn/natlex/natlex4.home?p_lang=es">Espa&ntilde;ol</a></div>
+    <div id="un"><strong>ILO is a </strong><a target="_blank" href="http://www.un.org/en/aboutun/structure/index.shtml" class="externalLink"><strong>United Nations Agency</strong><span id="externalLink"></span></a></div>
+    <div id="miniTools"><img alt="rss11" src="http://www.ilo.org/webcommon/dyn/images/normlex/resources/images/rss11.png">&nbsp;<a target="" href="http://www.ilo.org/global/rss-feeds/lang--en/index.htm">RSS Feed</a> | <a href="http://www.ilo.org/global/about-the-ilo/press-and-media-centre/lang--en/index.htm" target="">Media centre</a> | <a target="" href="http://www.ilo.org/global/contact-us/lang--en/index.htm">Contact us</a></div>
+    <div class="clearfix"></div>
+</div>
+
+<!--end include ILOsupplementary.htm-->
+
+		<div id="bodyWrapper" class="language">  <!-- id to define width and left/right reading languages -->
+			<div id="containerHeader">
+				
+<!--start include ILOhead.htm-->
+<div class="clearfix"></div>
+                <div id="headerWrapper">
+                    <span id="logo"><a href="http://www.ilo.org/global/lang--en/index.htm"><img alt="International Labour Organization" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046345.gif" /></a></span>
+                    <span id="strapline"><img alt="Promoting jobs, protecting people" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046346.gif" /></span>
+                    <span id="searchGlobal">
+                    <!-- <form name="searchFast_up" action="http://www.ilo.org/Search3/search.do" method="post" class="forms">
+                    <input type="hidden" id="sitelang" name="sitelang" value="en" />  <input type="hidden" name="consumercode" value="ILOHQ_STELLENT_PUBLIC" /><input id="search" class="search1" type="text" name="query" rel="Search ilo.org" value="Search ilo.org"> <input type="submit" name="searchbuttop" class="buttflex" onclick="javascript:document.searchFast_up.submit();" />
+                    </form> -->
+
+                    <script type="text/javascript">
+                    var srch_default_value = 'Search ilo.org'; // default value
+                    if (document.getElementById("search")){
+                    if (!document.getElementById("search").value) {
+                    document.getElementById("search").value = srch_default_value;
+                    }
+                    document.getElementById("search").onfocus = function() {
+                    if (this.value == srch_default_value) {
+                    this.value = '';
+                    }
+                    this.onblur = function() {
+                    if (this.value == '') {
+                    this.value = srch_default_value;
+                    }
+                    }
+                    }
+                    }
+                    </script>
+                    </span> 
+                </div>
+                <div class="clearfix"></div>
+                <div id="navMainWrapper">                   
+                    <ol><li class="listItemStart first"><a href="http://www.ilo.org/global/about-the-ilo/lang--en/index.htm" class="">About the ILO</a></li><li><a href="http://www.ilo.org/global/topics/lang--en/index.htm" class="">Topics</a></li><li><a href="http://www.ilo.org/global/regions/lang--en/index.htm" class="">Regions</a></li><li><a href="http://www.ilo.org/global/meetings-and-events/lang--en/index.htm" class="">Meetings and events</a></li><li><a href="http://www.ilo.org/global/publications/lang--en/index.htm" class="">Publications</a></li><li><a href="http://www.ilo.org/global/research/lang--en/index.htm" class="">Research</a></li><li><a href="http://www.ilo.org/global/standards/lang--en/index.htm" class="selected">Labour standards</a></li><li class="listItemEnd"><a href="http://www.ilo.org/global/statistics-and-databases/lang--en/index.htm" class="">Statistics and databases</a></li></ol>
+                </div>
+                <div class="clearfix"></div>
+<!--end include ILOhead.htm-->
+
+			</div> <!-- end of containerHeader -->
+			<div id="containerBody">
+			
+			 <div id="regions">
+				<span><a href="http://www.ilo.org/webcommon/dyn/images/natlex4/home.htm">NATLEX</a></span>
+				<div id="offices">Database of national labour, social security and related human rights legislation</div>
+		      </div>
+				
+				<!-- ************* LEFT COLUMN ******************* -->
+				<div class="container145 floatLeft">
+					<div id="colLeft">
+						
+<!--start include mainMenu-country.htm-->
+                        <div id="contextMenu">
+                            <dl>
+                                <dt class="contextMenu-2"><a href="natlex4.home?p_lang=en">NATLEX home</a></dt>
+                                <dt class="contextMenu-focus-2"><a href="natlex4.byCountry?p_lang=en">Browse by country</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.bySubject?p_lang=en">Browse by subject</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.recent?p_lang=en">Recent important additions to NATLEX</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.search?p_lang=en">Search</a></dt>
+                            </dl>
+                        </div> <!-- end of contextMenu -->
+<!--end include mainMenu-country.htm-->
+					
+					</div> <!-- end of colLeft -->	
+				</div> <!-- end of containerLeft -->
+				
+				<!-- ************* MAIN COLUMN ******************* -->
+				<div class="container780">
+				<div class="horizontalBar content"></div>
+					
+					<!-- *** Title type breadcrumb *** -->
+					<div id="heading">
+						<h1 id="page-title">Cape Verde <em></em></a> &gt;  <em></em></a></h1>
+					</div>
+					
+					<!-- *** RIGHT COLUMN *** -->
+					<div class="container190 floatRight">
+						<div id="colRight">
+							
+
+							
+						</div> <!-- end of colRight -->
+					</div> <!-- end of container190 -->
+					
+					<!-- *** CENTRAL COLUMN *** -->
+					<div class="container575">
+						<div id="colMain">
+						
+							<table class="page" cellspacing="0">
+							<tr>
+                <td class="label">Original name:</td>
+                <td>Decreto-legislativo nº 1/2016, de 3 Fevereiro, que altera o Código Laboral Cabo-verdiano, aprovado pelo Decreto-legislativo n.º 5/2007, de 16 de outubro, alterado pelo Decreto-legislativo n.º 5/2010, de 16 de junho</td>
+               </tr>
+							<tr>
+                <td class="label">Name:</td>
+                <td>Decreto Legislativo núm. 1/2016, de 3 de febrero, que modifica el Código Laboral caboverdiano aprobado por el Decreto Legislativo núm. 5/25007, de 16 de octubre, modificado por el Decreto Legislativo núm. 5/2010 de 17 de junio</td>
+               </tr>
+							<tr>
+                <td class="label">Country:</td>
+                <td><strong>Cape Verde</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Subject(s):</td>
+                <td><strong>Labour codes, general labour and employment acts</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Type of legislation:</td>
+                <td>Regulation, Decree, Ordinance</td>
+               </tr>
+							<tr>
+                <td class="label">Adopted on:</td>
+                <td>2016-02-03</td>
+               </tr>
+							<tr>
+								<td class="label"><!-- #BeginEditable "LABEL-ENTRY-FORCE-DATE" -->Entry into force<!-- #EndEditable -->:</td>
+								<td><!-- #BeginEditable "DATA-ENTRY-FORCE-DATE" --> <!-- #EndEditable --></td>
+							</tr>
+							<tr>
+                <td class="label">Published on:</td>
+                <td>Boletim Oficial , 2016-02-04, núm. 284, págs. 271-284<br></td>
+               </tr>
+							<tr>
+                <td class="label">ISN:</td>
+                <td>CPV-2016-R-103699</td>
+               </tr>
+							<tr>
+                <td class="label">Bibliography:</td>
+                <td>Boletim Oficial , 2016-02-04, núm. 284, págs. 271-284<br><a href=" https://kiosk.incv.cv/ " onclick="return popup(this, 'notes')" title="Imprensa Nacional">Imprensa Nacional <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="Imprensa Nacional"></a> Cabo Verde <a href="docs/ELECTRONIC/103699/126117/F-155397059/DECRETO LEGISLATIVO 1 2016 CABO VERDE.pdf" onclick="return popup(this, 'notes')" title="Decreto Legislativo (PDF)">Decreto Legislativo (PDF) <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="Decreto Legislativo (PDF)" /></a> <font size="1">(consulted on 2017-02-20)</font><br></td>
+               </tr>
+							<tr>
+                <td class="label">Abstract/Citation:</td>
+                <td>El citado decreto legislativo modifica los artículos 9, 22, 71, 81, 83, 94, 115, 123, 149, 150, 176, 186, 207, 221, 222, 224, 226, 235, 236, 237, 238, 239, 240. 287, 361, 366, 369, 374, 376 y 392 del Código Laboral caboverdiano, sobre caducidad del derecho a imponer medidas disciplinarias, ilegalidad del despido sin justa causa, competencia de las asociaciones sindicales, desempeño de funciones sindicales, medidas disciplinarias contra dirigentes sindicales, medidas disciplinarias contra delegados sindicales, identificación de la organización sindical, determinación de los servicios mínimos, período mínimo de descanso, tiempo normal de trabajo, trabajo a tiempo parcial, inasistencias justificadas, horas extras, despido colectivo, procedimiento de despido colectivo, indemnización de trabajadores despedidos en forma colectiva, recursos judiciales ante el despido colectivo, modificación de las condiciones de trabajo, despido por extinción del puesto de trabajo, despido con justa causa, indemnización en caso de despido por justa causa objetiva, recursos judiciales ante despido por justa causa objetiva, indemnizaciones ante la negativa del empleador de reintegrar al trabajador, período de prueba en el trabajo doméstico, contrato de trabajo por tiempo determinado, contrato de trabajo por tiempo indeterminado, indemnización en los casos de contratos de trabajo por tiempo indeterminado mayores de 5 años, multas, procedimiento disciplinario y defensa del trabajador en el procedimiento disciplinario, respectivamente.<br>Asimismo, se añaden los artículos 149-A, 150-A, 150-B, 151-A, 176-A, 221-A, 221-B, 222-A, 222-B, 292-A, 294-A, 294-B, 294-C, 294-D, 294-E, 294.F, 294-G, 294-H, 294-I, 294-J, 294-K, 294-L, 294-M, 294-N, 294-O, 294-P, 294-Q, 294-R, 359-A, 359-B e 373-A sobre horas de trabajo semanal, régimen especial de adaptabilidad, período de referencia, horario concentrado, forma y contenido del contrato de trabajo a tiempo parcial, negociación en caso de despido colectivo, intervención de la Dirección Nacional de Trabajo, crédito de horas durante el aviso previo, renuncia del trabajador durante el plazo del aviso previo, indemnización por despido sin justa causa; trabajo temporario, ejercicio de actividades durante el trabajo temporario, nulidad del contrato, responsabilidad del utilizador y de la empresa contratante, admisibilidad del contrato de utilización de trabajo temporario, justificación del contrato, forma y contenido, duración del contrato y prohibición de contratos sucesivos; admisibilidad del contrato de trabajo temporario, forma y contenido y duración; forma y contenido del contrato de trabajo por tiempo indeterminado para traslado temporal; período de cesación temporal; condiciones de trabajo del trabajador temporal, seguridad y salud del trabajador temporario, sustitución del trabajador temporario, encuadramiento del trabajador temporario; definición de teletrabajo, régimen jurídico y prescripción de las infracciones disciplinarias, respectivamente.<br></td>
+               </tr>
+							</tr>
+<tr>
+        <td class="label"><strong>Amended text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=84768">2010-06-16</a> (CPV-2010-R-84768)</span><span class="title">Decreto Legislativo núm. 5/2010  que modifica el Decreto Legislativo núm. 5/2007 que aprueba el Código del Trabajo de Cabo Verde.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=78217">2007-10-16</a> (CPV-2007-R-78217)</span><span class="title">Decreto legislativo núm. 5/2007 por el que se aprueba el Código del Trabajo.</span></li></ul>
+        </td>
+     </tr>
+							</table>
+						
+							<br class="clearfix">
+				
+							<div class="horizontalBar"></div> 
+							<!--<div class="clearfix last"></div>-->
+						</div> <!-- end of colMain  -->			
+					</div> <!-- end of container575 -->
+					<div class="clearfix last"></div>
+				</div> <!-- end of container780 -->
+			</div> <!-- end of containerBody -->
+		</div> <!-- end of bodyWrapper -->	
+		<div class="clearBoth"></div>
+		<div id="containerFooter">
+			
+<!--start include ILOfooter.htm-->
+        <div id="endFooter">
+            &copy; <a target="" href="http://www.ilo.org/global/copyright/lang--en/index.htm">Copyright and permissions</a> 1996-2014 International Labour Organization (ILO) | <a href="http://www.ilo.org/global/privacy-policy/lang--en/index.htm" target="">Privacy policy</a> | <a target="" href="http://www.ilo.org/global/disclaimer/lang--en/index.htm">Disclaimer</a><br>&nbsp;
+        </div>
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    </script>
+        
+
+<!--end include ILOfooter.htm-->
+
+			
+<!--start include script-search.htm-->
+
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    
+    </script>
+
+<!--end include script-search.htm-->
+
+		</div>	<!-- end of containerFooter -->
+	</div>
+<!-- begin analytics tracking -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4747079-1");
+pageTracker._trackPageview();
+</script>
+<!-- end analytics tracking -->
+
+</body>
+
+</html>
