@@ -1,0 +1,257 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html dir="ltr">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="type">
+	<meta NAME="description" content="NATLEX, the ILO's database featuring national laws on: labour, social security and related human rights">
+	<meta name="keywords" content="">
+	<title>Kenya - Labour Relations Act, 2007 (Acts No. 14).</title>
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global-normlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex-print.css" rel="stylesheet" type="text/css">
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie.css">
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie-normlex.css">
+	<![endif]-->
+	<link  href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.min.css" rel="stylesheet" type="text/css">
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/jquery-1.7.2.min.js"type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/newWin.js" type="text/javascript"></script>
+                       <script language="JavaScript" src="/webcommon/dyn/images/natlex/newin.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.jquery.min.js" type="text/javascript"></script>
+</head>
+
+<body> 
+	<a name="top"></a>
+	<div id="ieHack" class="global-settings"> 
+		
+<!--start include ILOsupplementary.htm-->
+<div id="supplementaryMenu">
+    <div id="miniLanguages"><a href="/dyn/natlex/natlex4.home">English</a> | <a href="/dyn/natlex/natlex4.home?p_lang=fr">Fran&ccedil;ais</a> | <a href="/dyn/natlex/natlex4.home?p_lang=es">Espa&ntilde;ol</a></div>
+    <div id="un"><strong>ILO is a </strong><a target="_blank" href="http://www.un.org/en/aboutun/structure/index.shtml" class="externalLink"><strong>United Nations Agency</strong><span id="externalLink"></span></a></div>
+    <div id="miniTools"><img alt="rss11" src="http://www.ilo.org/webcommon/dyn/images/normlex/resources/images/rss11.png">&nbsp;<a target="" href="http://www.ilo.org/global/rss-feeds/lang--en/index.htm">RSS Feed</a> | <a href="http://www.ilo.org/global/about-the-ilo/press-and-media-centre/lang--en/index.htm" target="">Media centre</a> | <a target="" href="http://www.ilo.org/global/contact-us/lang--en/index.htm">Contact us</a></div>
+    <div class="clearfix"></div>
+</div>
+
+<!--end include ILOsupplementary.htm-->
+
+		<div id="bodyWrapper" class="language">  <!-- id to define width and left/right reading languages -->
+			<div id="containerHeader">
+				
+<!--start include ILOhead.htm-->
+<div class="clearfix"></div>
+                <div id="headerWrapper">
+                    <span id="logo"><a href="http://www.ilo.org/global/lang--en/index.htm"><img alt="International Labour Organization" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046345.gif" /></a></span>
+                    <span id="strapline"><img alt="Promoting jobs, protecting people" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046346.gif" /></span>
+                    <span id="searchGlobal">
+                    <!-- <form name="searchFast_up" action="http://www.ilo.org/Search3/search.do" method="post" class="forms">
+                    <input type="hidden" id="sitelang" name="sitelang" value="en" />  <input type="hidden" name="consumercode" value="ILOHQ_STELLENT_PUBLIC" /><input id="search" class="search1" type="text" name="query" rel="Search ilo.org" value="Search ilo.org"> <input type="submit" name="searchbuttop" class="buttflex" onclick="javascript:document.searchFast_up.submit();" />
+                    </form> -->
+
+                    <script type="text/javascript">
+                    var srch_default_value = 'Search ilo.org'; // default value
+                    if (document.getElementById("search")){
+                    if (!document.getElementById("search").value) {
+                    document.getElementById("search").value = srch_default_value;
+                    }
+                    document.getElementById("search").onfocus = function() {
+                    if (this.value == srch_default_value) {
+                    this.value = '';
+                    }
+                    this.onblur = function() {
+                    if (this.value == '') {
+                    this.value = srch_default_value;
+                    }
+                    }
+                    }
+                    }
+                    </script>
+                    </span> 
+                </div>
+                <div class="clearfix"></div>
+                <div id="navMainWrapper">                   
+                    <ol><li class="listItemStart first"><a href="http://www.ilo.org/global/about-the-ilo/lang--en/index.htm" class="">About the ILO</a></li><li><a href="http://www.ilo.org/global/topics/lang--en/index.htm" class="">Topics</a></li><li><a href="http://www.ilo.org/global/regions/lang--en/index.htm" class="">Regions</a></li><li><a href="http://www.ilo.org/global/meetings-and-events/lang--en/index.htm" class="">Meetings and events</a></li><li><a href="http://www.ilo.org/global/publications/lang--en/index.htm" class="">Publications</a></li><li><a href="http://www.ilo.org/global/research/lang--en/index.htm" class="">Research</a></li><li><a href="http://www.ilo.org/global/standards/lang--en/index.htm" class="selected">Labour standards</a></li><li class="listItemEnd"><a href="http://www.ilo.org/global/statistics-and-databases/lang--en/index.htm" class="">Statistics and databases</a></li></ol>
+                </div>
+                <div class="clearfix"></div>
+<!--end include ILOhead.htm-->
+
+			</div> <!-- end of containerHeader -->
+			<div id="containerBody">
+			
+			 <div id="regions">
+				<span><a href="http://www.ilo.org/webcommon/dyn/images/natlex4/home.htm">NATLEX</a></span>
+				<div id="offices">Database of national labour, social security and related human rights legislation</div>
+		      </div>
+				
+				<!-- ************* LEFT COLUMN ******************* -->
+				<div class="container145 floatLeft">
+					<div id="colLeft">
+						
+<!--start include mainMenu-country.htm-->
+                        <div id="contextMenu">
+                            <dl>
+                                <dt class="contextMenu-2"><a href="natlex4.home?p_lang=en">NATLEX home</a></dt>
+                                <dt class="contextMenu-focus-2"><a href="natlex4.byCountry?p_lang=en">Browse by country</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.bySubject?p_lang=en">Browse by subject</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.recent?p_lang=en">Recent important additions to NATLEX</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.search?p_lang=en">Search</a></dt>
+                            </dl>
+                        </div> <!-- end of contextMenu -->
+<!--end include mainMenu-country.htm-->
+					
+					</div> <!-- end of colLeft -->	
+				</div> <!-- end of containerLeft -->
+				
+				<!-- ************* MAIN COLUMN ******************* -->
+				<div class="container780">
+				<div class="horizontalBar content"></div>
+					
+					<!-- *** Title type breadcrumb *** -->
+					<div id="heading">
+						<h1 id="page-title">Kenya <em></em></a> &gt;  <em></em></a></h1>
+					</div>
+					
+					<!-- *** RIGHT COLUMN *** -->
+					<div class="container190 floatRight">
+						<div id="colRight">
+							
+
+							
+						</div> <!-- end of colRight -->
+					</div> <!-- end of container190 -->
+					
+					<!-- *** CENTRAL COLUMN *** -->
+					<div class="container575">
+						<div id="colMain">
+						
+							<table class="page" cellspacing="0">
+							<!-- #BeginEditable "DATA-ORIGINAL-NAME" --><!-- #EndEditable -->
+							<tr>
+                <td class="label">Name:</td>
+                <td>Labour Relations Act, 2007 (Acts No. 14).</td>
+               </tr>
+							<tr>
+                <td class="label">Country:</td>
+                <td><strong>Kenya</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Subject(s):</td>
+                <td><strong>Freedom of association, collective bargaining and industrial relations</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Type of legislation:</td>
+                <td>Law, Act</td>
+               </tr>
+							<tr>
+                <td class="label">Adopted on:</td>
+                <td>2007-10-26</td>
+               </tr>
+							<tr>
+								<td class="label"><!-- #BeginEditable "LABEL-ENTRY-FORCE-DATE" -->Entry into force<!-- #EndEditable -->:</td>
+								<td><!-- #BeginEditable "DATA-ENTRY-FORCE-DATE" --> <!-- #EndEditable --></td>
+							</tr>
+							<tr>
+                <td class="label">Published on:</td>
+                <td>Kenya Gazette Supplement, 2007-10-26, No. 110, 91 pages <a href="javascript:oPenImag1('docs/SERIAL/78265/83535/F2129763033/KEN78265.pdf')" class="under"><img src="/images/empent/pdficon.gif" width="14" height="14" border="0"> (PDF)</a><br></td>
+               </tr>
+							<tr>
+                <td class="label">ISN:</td>
+                <td>KEN-2007-L-78265</td>
+               </tr>
+							<tr>
+                <td class="label">Bibliography:</td>
+                <td>Kenya Gazette Supplement, 2007-10-26, No. 110, 91 pages <a href="docs/SERIAL/78265/83535/F2129763033/KEN78265.pdf" onclick="return popup(this, 'notes')" title="PDF">PDF <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="PDF" /></a><br><a href="http://www.kenyalaw.org" onclick="return popup(this, 'notes')" title="Legislation on-line">Legislation on-line <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="Legislation on-line"></a> Kenya Law, Kenya <a href="docs/ELECTRONIC/78265/83537/F-735885320/KEN78265 2012.pdf" onclick="return popup(this, 'notes')" title="PDF of Revised Edition 2012">PDF of Revised Edition 2012 <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="PDF of Revised Edition 2012" /></a> <font size="1">(consulted on 2014-11-12)</font><br></td>
+               </tr>
+							<tr>
+                <td class="label">Abstract/Citation:</td>
+                <td>Part I - Preliminary<br>Part II - Freedom of Association<br>Part III - Establishment and Registration of Trade Unions and Employers' Organizations<br>Part IV - Officials and Members of Trade Unions and Employers' Organizations<br>Part V - Property, Funds and Accounts of Trade Unions, Employers' Organizations and Federations<br>Part VI - Trade Union Dues, Agency Fees, and Employers' Organization Fees<br>Part VII - Recognition of Trade Unions and Collective Agreements<br>Part VIII - Dispute Resolution<br>Part IX - Adjudication of Disputes<br>Part X - Strikes and Lockouts<br>Part XI - Miscellaneous Provisions</td>
+               </tr>
+							</tr>
+<tr>
+        <td class="label"><strong>Repealed text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=28292">1965</a> (KEN-1965-L-28292)</span><span class="title">The Trade Disputes Act (Chapter 234) [consolidated version]</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=28401">1952</a> (KEN-1952-L-28401)</span><span class="title">The Trade Unions Act (Chapter 233) (No. 23 of 1952) [consolidated version]</span></li></ul>
+        </td>
+     </tr>
+							</table>
+						
+							<br class="clearfix">
+				
+							<div class="horizontalBar"></div> 
+							<!--<div class="clearfix last"></div>-->
+						</div> <!-- end of colMain  -->			
+					</div> <!-- end of container575 -->
+					<div class="clearfix last"></div>
+				</div> <!-- end of container780 -->
+			</div> <!-- end of containerBody -->
+		</div> <!-- end of bodyWrapper -->	
+		<div class="clearBoth"></div>
+		<div id="containerFooter">
+			
+<!--start include ILOfooter.htm-->
+        <div id="endFooter">
+            &copy; <a target="" href="http://www.ilo.org/global/copyright/lang--en/index.htm">Copyright and permissions</a> 1996-2014 International Labour Organization (ILO) | <a href="http://www.ilo.org/global/privacy-policy/lang--en/index.htm" target="">Privacy policy</a> | <a target="" href="http://www.ilo.org/global/disclaimer/lang--en/index.htm">Disclaimer</a><br>&nbsp;
+        </div>
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    </script>
+        
+
+<!--end include ILOfooter.htm-->
+
+			
+<!--start include script-search.htm-->
+
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    
+    </script>
+
+<!--end include script-search.htm-->
+
+		</div>	<!-- end of containerFooter -->
+	</div>
+<!-- begin analytics tracking -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4747079-1");
+pageTracker._trackPageview();
+</script>
+<!-- end analytics tracking -->
+
+</body>
+
+</html>
