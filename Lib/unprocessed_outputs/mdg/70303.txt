@@ -1,0 +1,268 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html dir="ltr">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="type">
+	<meta NAME="description" content="NATLEX, the ILO's database featuring national laws on: labour, social security and related human rights">
+	<meta name="keywords" content="">
+	<title>Madagascar - Loi n° 2003-044 du 28 juillet 2004 portant Code du travail.</title>
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global-normlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex-print.css" rel="stylesheet" type="text/css">
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie.css">
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie-normlex.css">
+	<![endif]-->
+	<link  href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.min.css" rel="stylesheet" type="text/css">
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/jquery-1.7.2.min.js"type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/newWin.js" type="text/javascript"></script>
+                       <script language="JavaScript" src="/webcommon/dyn/images/natlex/newin.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.jquery.min.js" type="text/javascript"></script>
+</head>
+
+<body> 
+	<a name="top"></a>
+	<div id="ieHack" class="global-settings"> 
+		
+<!--start include ILOsupplementary.htm-->
+<div id="supplementaryMenu">
+    <div id="miniLanguages"><a href="/dyn/natlex/natlex4.home">English</a> | <a href="/dyn/natlex/natlex4.home?p_lang=fr">Fran&ccedil;ais</a> | <a href="/dyn/natlex/natlex4.home?p_lang=es">Espa&ntilde;ol</a></div>
+    <div id="un"><strong>ILO is a </strong><a target="_blank" href="http://www.un.org/en/aboutun/structure/index.shtml" class="externalLink"><strong>United Nations Agency</strong><span id="externalLink"></span></a></div>
+    <div id="miniTools"><img alt="rss11" src="http://www.ilo.org/webcommon/dyn/images/normlex/resources/images/rss11.png">&nbsp;<a target="" href="http://www.ilo.org/global/rss-feeds/lang--en/index.htm">RSS Feed</a> | <a href="http://www.ilo.org/global/about-the-ilo/press-and-media-centre/lang--en/index.htm" target="">Media centre</a> | <a target="" href="http://www.ilo.org/global/contact-us/lang--en/index.htm">Contact us</a></div>
+    <div class="clearfix"></div>
+</div>
+
+<!--end include ILOsupplementary.htm-->
+
+		<div id="bodyWrapper" class="language">  <!-- id to define width and left/right reading languages -->
+			<div id="containerHeader">
+				
+<!--start include ILOhead.htm-->
+<div class="clearfix"></div>
+                <div id="headerWrapper">
+                    <span id="logo"><a href="http://www.ilo.org/global/lang--en/index.htm"><img alt="International Labour Organization" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046345.gif" /></a></span>
+                    <span id="strapline"><img alt="Promoting jobs, protecting people" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046346.gif" /></span>
+                    <span id="searchGlobal">
+                    <!-- <form name="searchFast_up" action="http://www.ilo.org/Search3/search.do" method="post" class="forms">
+                    <input type="hidden" id="sitelang" name="sitelang" value="en" />  <input type="hidden" name="consumercode" value="ILOHQ_STELLENT_PUBLIC" /><input id="search" class="search1" type="text" name="query" rel="Search ilo.org" value="Search ilo.org"> <input type="submit" name="searchbuttop" class="buttflex" onclick="javascript:document.searchFast_up.submit();" />
+                    </form> -->
+
+                    <script type="text/javascript">
+                    var srch_default_value = 'Search ilo.org'; // default value
+                    if (document.getElementById("search")){
+                    if (!document.getElementById("search").value) {
+                    document.getElementById("search").value = srch_default_value;
+                    }
+                    document.getElementById("search").onfocus = function() {
+                    if (this.value == srch_default_value) {
+                    this.value = '';
+                    }
+                    this.onblur = function() {
+                    if (this.value == '') {
+                    this.value = srch_default_value;
+                    }
+                    }
+                    }
+                    }
+                    </script>
+                    </span> 
+                </div>
+                <div class="clearfix"></div>
+                <div id="navMainWrapper">                   
+                    <ol><li class="listItemStart first"><a href="http://www.ilo.org/global/about-the-ilo/lang--en/index.htm" class="">About the ILO</a></li><li><a href="http://www.ilo.org/global/topics/lang--en/index.htm" class="">Topics</a></li><li><a href="http://www.ilo.org/global/regions/lang--en/index.htm" class="">Regions</a></li><li><a href="http://www.ilo.org/global/meetings-and-events/lang--en/index.htm" class="">Meetings and events</a></li><li><a href="http://www.ilo.org/global/publications/lang--en/index.htm" class="">Publications</a></li><li><a href="http://www.ilo.org/global/research/lang--en/index.htm" class="">Research</a></li><li><a href="http://www.ilo.org/global/standards/lang--en/index.htm" class="selected">Labour standards</a></li><li class="listItemEnd"><a href="http://www.ilo.org/global/statistics-and-databases/lang--en/index.htm" class="">Statistics and databases</a></li></ol>
+                </div>
+                <div class="clearfix"></div>
+<!--end include ILOhead.htm-->
+
+			</div> <!-- end of containerHeader -->
+			<div id="containerBody">
+			
+			 <div id="regions">
+				<span><a href="http://www.ilo.org/webcommon/dyn/images/natlex4/home.htm">NATLEX</a></span>
+				<div id="offices">Database of national labour, social security and related human rights legislation</div>
+		      </div>
+				
+				<!-- ************* LEFT COLUMN ******************* -->
+				<div class="container145 floatLeft">
+					<div id="colLeft">
+						
+<!--start include mainMenu-country.htm-->
+                        <div id="contextMenu">
+                            <dl>
+                                <dt class="contextMenu-2"><a href="natlex4.home?p_lang=en">NATLEX home</a></dt>
+                                <dt class="contextMenu-focus-2"><a href="natlex4.byCountry?p_lang=en">Browse by country</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.bySubject?p_lang=en">Browse by subject</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.recent?p_lang=en">Recent important additions to NATLEX</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.search?p_lang=en">Search</a></dt>
+                            </dl>
+                        </div> <!-- end of contextMenu -->
+<!--end include mainMenu-country.htm-->
+					
+					</div> <!-- end of colLeft -->	
+				</div> <!-- end of containerLeft -->
+				
+				<!-- ************* MAIN COLUMN ******************* -->
+				<div class="container780">
+				<div class="horizontalBar content"></div>
+					
+					<!-- *** Title type breadcrumb *** -->
+					<div id="heading">
+						<h1 id="page-title">Madagascar <em></em></a> &gt;  <em></em></a></h1>
+					</div>
+					
+					<!-- *** RIGHT COLUMN *** -->
+					<div class="container190 floatRight">
+						<div id="colRight">
+							
+
+							
+						</div> <!-- end of colRight -->
+					</div> <!-- end of container190 -->
+					
+					<!-- *** CENTRAL COLUMN *** -->
+					<div class="container575">
+						<div id="colMain">
+						
+							<table class="page" cellspacing="0">
+							<!-- #BeginEditable "DATA-ORIGINAL-NAME" --><!-- #EndEditable -->
+							<tr>
+                <td class="label">Name:</td>
+                <td>Loi n° 2003-044 du 28 juillet 2004 portant Code du travail.</td>
+               </tr>
+							<tr>
+                <td class="label">Country:</td>
+                <td><strong>Madagascar</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Subject(s):</td>
+                <td><strong>Labour codes, general labour and employment acts</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Type of legislation:</td>
+                <td>Law, Act</td>
+               </tr>
+							<tr>
+                <td class="label">Adopted on:</td>
+                <td>2004-07-28</td>
+               </tr>
+							<tr>
+								<td class="label"><!-- #BeginEditable "LABEL-ENTRY-FORCE-DATE" -->Entry into force<!-- #EndEditable -->:</td>
+								<td><!-- #BeginEditable "DATA-ENTRY-FORCE-DATE" --> <!-- #EndEditable --></td>
+							</tr>
+							<tr>
+                <td class="label">Published on:</td>
+                <td>Journal officiel, 2005-02-21, n° 2956, pp. 2489-2536<br></td>
+               </tr>
+							<tr>
+                <td class="label">ISN:</td>
+                <td>MDG-2004-L-70303</td>
+               </tr>
+							<tr>
+                <td class="label">Bibliography:</td>
+                <td>Journal officiel, 2005-02-21, n° 2956, pp. 2489-2536<br>Code du travail, Ministère de la Fonction publique, du Travail et des Lois sociales, Madagascar, Mai 2006, pp. 1-126<br><a href="http://www.droit-afrique.com/images/textes/Madagascar/Mada%20-%20Code%20du%20travail.pdf" onclick="return popup(this, 'notes')" title="Code du travail">Code du travail <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="Code du travail"></a> Droit-Afrique.com <a href="docs/ELECTRONIC/70303/77439/F1028554063/MDG-70303.pdf" onclick="return popup(this, 'notes')" title="PDF">PDF <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="PDF" /></a> <font size="1">(consulted on 2007-01-16)</font><br></td>
+               </tr>
+							<tr>
+                <td class="label">Abstract/Citation:</td>
+                <td>Titre Ier: Dispositions générales (arts. 1 à 5) - Chapitre Ier: Du travailleur et de l'employeur; Chapitre II: Du travail forcé; Chapitre III: Du respect de la dignité de la personne humaine<br><br>Titre II: Du contrat de travail (arts. 6 à 52) - Chapitre Ier: Du contrat de travail; Chapitre II: Des catégories particulières de contrat<br><br>Titre III: Des conditions de travail (arts. 53 à 109) - Chapitre Ier: Du salaire; Chapitre II: De la durée du travail, du repos et du congé; Chapitre III: Des conditions particulières de travail de certaines catégories de travailleurs<br><br>Titre IV: Des conditions d'hygiène, de sécurité et d'environnement du travail (arts. 110 à 135) - Chapitre Ier: Dispositions générales; Chapitre II: Protection contre certains risques liés au travail; Chapitre III: De l'environnement du travail; Chapitre IV: De la médecine du travail; Chapitre V: Des organes de concertation et de contrôle; Chapitre VI: Dispositions diverses<br><br>Titre V: Des relations professionnelles (arts. 136 à 190) - Chapitre Ier: Des organisations des travailleurs et des employeurs; Chapitre II: Des délégués du personnel; Chapitre III: Du comité d'entreprise; Chapitre IV: Du règlement intérieur; Chapitre V: Des accords d'établissements et de la convention collective; Chapitre VI: Du Conseil national du travail; Chapitre VII: De l'Institut national du travail<br><br>Titre VI: De la formation professionnelle (arts. 191 à 198) - Chapitre Ier: Dispositions générales; Chapitre II: De la formation en alternance; Chapitre III: De la formation professionnelle continue<br><br>Titre VII: Du différend de travail (arts. 199 à 233) - Chapitre Ier: Du différend individuel; Chapitre II: Du règlement des différends collectifs de travail<br><br>Titre VIII: Des organismes et moyens de contrôle (arts. 234 à 254) - Chapitre Ier: De l'administration du travail; Chapitre II: Moyens de contrôle<br><br>Titre IX: Des pénalités (arts. 255 à 264)<br><br>Titre X: Dispositions transitoires et finales (arts. 265 à 269)<br><br>Contient notamment des dispositions relatives à l'inspection du travail (arts. 199 à 204 et 234 à 246). Reconnaît le droit de grève et prévoit qu'il ne peut s'exercer qu'après épuisement de la procédure de règlement des différends collectifs prévue par les articles 212 et suivants du Code (arts. 228 à 231).<br><br>Prévoit qu'une femme candidate à l'emploi n'est pas tenue de déclarer son état de grossesse (art. 94). La grossesse ne peut être un motif de résiliation du contrat (art. 95). Le congé maternité est de 14 semaines et la femme a droit à des repos d'une heure par jour pour allaitement pendant une période de 15 mois (arts. 97 et 98).<br><br>Fixe à 15 ans l'âge minimum légal d'accès à l'emploi (art. 100).</td>
+               </tr>
+							</tr>
+<tr>
+        <td class="label"><strong>Repealed text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=41776">1995-08-25</a> (MDG-1995-L-41776)</span><span class="title">Loi n° 94-029 du 25 août 1995 portant Code du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=65575">1994-11-18</a> (MDG-1994-L-65575)</span><span class="title">Loi n° 94-027 du 18 novembre 1994 portant Code d'hygiène, de sécurité et de l'environnement du travail.</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Implementing text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=105074">2016-08-05</a> (MDG-2016-R-105074)</span><span class="title">Arrêté n° 16 745/2016 du 5 août 2016 fixant les limites des fonctions et les pouvoirs légaux des Inspecteurs du Travail et des Lois sociales et de Contrôleurs du Travail appelés à exercer des fonctions en dehors du ministère en charge du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=102672">2016-02-26</a> (MDG-2016-R-102672)</span><span class="title">Décret n° 2016-058 du 26 février 2016 fixant la liste des jours fériés, chômés et payés au titre de l'année 2016.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=101736">2015-02-03</a> (MDG-2015-R-101736)</span><span class="title">Décret n° 2015-055 du 3 février 2015 fixant la liste des jours fériés, chômés et payés au titre de l'année 2015.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=90088">2011-10-17</a> (MDG-2011-R-90088)</span><span class="title">Arrêté n° 30095/2011-MFPTLS du 17 octobre 2011 fixant les formes et les modalités d'établissement du contrat des travailleurs émigrés.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=90089">2011-10-17</a> (MDG-2011-R-90089)</span><span class="title">Arrêté n° 30096/2011-MFPTLS du 17 octobre 2011 fixant la procédure de visa du contrat des travailleurs émigrés.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=90091">2011-10-11</a> (MDG-2011-R-90091)</span><span class="title">Décret n° 2011-626 du 11 octobre 2011 portant application de la loi n° 2003-044 du 28 juillet 2004 portant Code du travail, relatif à la lutte contre le VIH/SIDA en milieu de travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=77470">2007-03-20</a> (MDG-2007-R-77470)</span><span class="title">Décret n° 2007-563 du 20 mars 2007 relatif au travail des enfants.</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Related text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=105064">2016-03-22</a> (MDG-2016-R-105064)</span><span class="title">Arrêté n° 6 718/2016-MFPTLS du 22 mars 2016 portant création du Comité de pilotage du Programme Pays de travail décent (2015-2019).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=94705">2012-04-27</a> (MDG-2012-R-94705)</span><span class="title">Arrêté n° 8178/12MFPTLS/12 du 27 avril 2012 portant rectification des dispositions de l'article 14 de l'arrêté n° 28969/2011 du 6 octobre 2011 fixant le mode d'élection et le statut des délégués du personnel.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=90101">2011-10-11</a> (MDG-2011-R-90101)</span><span class="title">Décret n° 2011-631 du 11 octobre 2011 modifiant certaines dispositions du décret n° 2003-1162 du 17 décembre 2003 organisant la médecine d'entreprise.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=94704">2011-10-06</a> (MDG-2011-R-94704)</span><span class="title">Arrêté n° 28969/2011 du 6 octobre 2011 fixant le mode d'élection et le statut des délégués du personnel.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=77624">2007-01-09</a> (MDG-2007-R-77624)</span><span class="title">Décret n° 2007-009 du 9 janvier 2007 déterminant les conditions et la durée du préavis de résiliation du contrat de travail à durée indéterminée.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=77625">2007-01-09</a> (MDG-2007-R-77625)</span><span class="title">Décret n° 2007-008 du 9 janvier 2007 fixant les formes, la durée et autres modalités de l'engagement à l'essai.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=91269">2005-12-01</a> (MDG-2005-R-91269)</span><span class="title">Arrêté n° 18.638/05 du 1er décembre 2005 fixant les modalités d'octroi aux entreprises de l'autorisation d'emploi des étrangers salariés dans le cadre du Guichet Unique des Investissements et du Développement des Entreprises (G.U.I.D.E).
+</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=91260">2005-11-08</a> (MDG-2005-R-91260)</span><span class="title">Décret n° 2005-728 du 8 novembre 2005 portant organisation et fonctionnement du comité d'entreprise.</span></li></ul>
+        </td>
+     </tr>
+							</table>
+						
+							<br class="clearfix">
+				
+							<div class="horizontalBar"></div> 
+							<!--<div class="clearfix last"></div>-->
+						</div> <!-- end of colMain  -->			
+					</div> <!-- end of container575 -->
+					<div class="clearfix last"></div>
+				</div> <!-- end of container780 -->
+			</div> <!-- end of containerBody -->
+		</div> <!-- end of bodyWrapper -->	
+		<div class="clearBoth"></div>
+		<div id="containerFooter">
+			
+<!--start include ILOfooter.htm-->
+        <div id="endFooter">
+            &copy; <a target="" href="http://www.ilo.org/global/copyright/lang--en/index.htm">Copyright and permissions</a> 1996-2014 International Labour Organization (ILO) | <a href="http://www.ilo.org/global/privacy-policy/lang--en/index.htm" target="">Privacy policy</a> | <a target="" href="http://www.ilo.org/global/disclaimer/lang--en/index.htm">Disclaimer</a><br>&nbsp;
+        </div>
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    </script>
+        
+
+<!--end include ILOfooter.htm-->
+
+			
+<!--start include script-search.htm-->
+
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    
+    </script>
+
+<!--end include script-search.htm-->
+
+		</div>	<!-- end of containerFooter -->
+	</div>
+<!-- begin analytics tracking -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4747079-1");
+pageTracker._trackPageview();
+</script>
+<!-- end analytics tracking -->
+
+</body>
+
+</html>

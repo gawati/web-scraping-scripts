@@ -1,0 +1,274 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html dir="ltr">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="type">
+	<meta NAME="description" content="NATLEX, the ILO's database featuring national laws on: labour, social security and related human rights">
+	<meta name="keywords" content="">
+	<title>Morocco - Dahir n° 1-03-194 du 11 septembre 2003 portant promulgation de la loi n° 65-99 relative au Code du travail.</title>
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global-normlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex-print.css" rel="stylesheet" type="text/css">
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie.css">
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie-normlex.css">
+	<![endif]-->
+	<link  href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.min.css" rel="stylesheet" type="text/css">
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/jquery-1.7.2.min.js"type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/newWin.js" type="text/javascript"></script>
+                       <script language="JavaScript" src="/webcommon/dyn/images/natlex/newin.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.jquery.min.js" type="text/javascript"></script>
+</head>
+
+<body> 
+	<a name="top"></a>
+	<div id="ieHack" class="global-settings"> 
+		
+<!--start include ILOsupplementary.htm-->
+<div id="supplementaryMenu">
+    <div id="miniLanguages"><a href="/dyn/natlex/natlex4.home">English</a> | <a href="/dyn/natlex/natlex4.home?p_lang=fr">Fran&ccedil;ais</a> | <a href="/dyn/natlex/natlex4.home?p_lang=es">Espa&ntilde;ol</a></div>
+    <div id="un"><strong>ILO is a </strong><a target="_blank" href="http://www.un.org/en/aboutun/structure/index.shtml" class="externalLink"><strong>United Nations Agency</strong><span id="externalLink"></span></a></div>
+    <div id="miniTools"><img alt="rss11" src="http://www.ilo.org/webcommon/dyn/images/normlex/resources/images/rss11.png">&nbsp;<a target="" href="http://www.ilo.org/global/rss-feeds/lang--en/index.htm">RSS Feed</a> | <a href="http://www.ilo.org/global/about-the-ilo/press-and-media-centre/lang--en/index.htm" target="">Media centre</a> | <a target="" href="http://www.ilo.org/global/contact-us/lang--en/index.htm">Contact us</a></div>
+    <div class="clearfix"></div>
+</div>
+
+<!--end include ILOsupplementary.htm-->
+
+		<div id="bodyWrapper" class="language">  <!-- id to define width and left/right reading languages -->
+			<div id="containerHeader">
+				
+<!--start include ILOhead.htm-->
+<div class="clearfix"></div>
+                <div id="headerWrapper">
+                    <span id="logo"><a href="http://www.ilo.org/global/lang--en/index.htm"><img alt="International Labour Organization" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046345.gif" /></a></span>
+                    <span id="strapline"><img alt="Promoting jobs, protecting people" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046346.gif" /></span>
+                    <span id="searchGlobal">
+                    <!-- <form name="searchFast_up" action="http://www.ilo.org/Search3/search.do" method="post" class="forms">
+                    <input type="hidden" id="sitelang" name="sitelang" value="en" />  <input type="hidden" name="consumercode" value="ILOHQ_STELLENT_PUBLIC" /><input id="search" class="search1" type="text" name="query" rel="Search ilo.org" value="Search ilo.org"> <input type="submit" name="searchbuttop" class="buttflex" onclick="javascript:document.searchFast_up.submit();" />
+                    </form> -->
+
+                    <script type="text/javascript">
+                    var srch_default_value = 'Search ilo.org'; // default value
+                    if (document.getElementById("search")){
+                    if (!document.getElementById("search").value) {
+                    document.getElementById("search").value = srch_default_value;
+                    }
+                    document.getElementById("search").onfocus = function() {
+                    if (this.value == srch_default_value) {
+                    this.value = '';
+                    }
+                    this.onblur = function() {
+                    if (this.value == '') {
+                    this.value = srch_default_value;
+                    }
+                    }
+                    }
+                    }
+                    </script>
+                    </span> 
+                </div>
+                <div class="clearfix"></div>
+                <div id="navMainWrapper">                   
+                    <ol><li class="listItemStart first"><a href="http://www.ilo.org/global/about-the-ilo/lang--en/index.htm" class="">About the ILO</a></li><li><a href="http://www.ilo.org/global/topics/lang--en/index.htm" class="">Topics</a></li><li><a href="http://www.ilo.org/global/regions/lang--en/index.htm" class="">Regions</a></li><li><a href="http://www.ilo.org/global/meetings-and-events/lang--en/index.htm" class="">Meetings and events</a></li><li><a href="http://www.ilo.org/global/publications/lang--en/index.htm" class="">Publications</a></li><li><a href="http://www.ilo.org/global/research/lang--en/index.htm" class="">Research</a></li><li><a href="http://www.ilo.org/global/standards/lang--en/index.htm" class="selected">Labour standards</a></li><li class="listItemEnd"><a href="http://www.ilo.org/global/statistics-and-databases/lang--en/index.htm" class="">Statistics and databases</a></li></ol>
+                </div>
+                <div class="clearfix"></div>
+<!--end include ILOhead.htm-->
+
+			</div> <!-- end of containerHeader -->
+			<div id="containerBody">
+			
+			 <div id="regions">
+				<span><a href="http://www.ilo.org/webcommon/dyn/images/natlex4/home.htm">NATLEX</a></span>
+				<div id="offices">Database of national labour, social security and related human rights legislation</div>
+		      </div>
+				
+				<!-- ************* LEFT COLUMN ******************* -->
+				<div class="container145 floatLeft">
+					<div id="colLeft">
+						
+<!--start include mainMenu-country.htm-->
+                        <div id="contextMenu">
+                            <dl>
+                                <dt class="contextMenu-2"><a href="natlex4.home?p_lang=en">NATLEX home</a></dt>
+                                <dt class="contextMenu-focus-2"><a href="natlex4.byCountry?p_lang=en">Browse by country</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.bySubject?p_lang=en">Browse by subject</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.recent?p_lang=en">Recent important additions to NATLEX</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.search?p_lang=en">Search</a></dt>
+                            </dl>
+                        </div> <!-- end of contextMenu -->
+<!--end include mainMenu-country.htm-->
+					
+					</div> <!-- end of colLeft -->	
+				</div> <!-- end of containerLeft -->
+				
+				<!-- ************* MAIN COLUMN ******************* -->
+				<div class="container780">
+				<div class="horizontalBar content"></div>
+					
+					<!-- *** Title type breadcrumb *** -->
+					<div id="heading">
+						<h1 id="page-title">Morocco <em></em></a> &gt;  <em></em></a></h1>
+					</div>
+					
+					<!-- *** RIGHT COLUMN *** -->
+					<div class="container190 floatRight">
+						<div id="colRight">
+							
+
+							
+						</div> <!-- end of colRight -->
+					</div> <!-- end of container190 -->
+					
+					<!-- *** CENTRAL COLUMN *** -->
+					<div class="container575">
+						<div id="colMain">
+						
+							<table class="page" cellspacing="0">
+							<!-- #BeginEditable "DATA-ORIGINAL-NAME" --><!-- #EndEditable -->
+							<tr>
+                <td class="label">Name:</td>
+                <td>Dahir n° 1-03-194 du 11 septembre 2003 portant promulgation de la loi n° 65-99 relative au Code du travail.</td>
+               </tr>
+							<tr>
+                <td class="label">Country:</td>
+                <td><strong>Morocco</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Subject(s):</td>
+                <td><strong>Labour codes, general labour and employment acts</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Type of legislation:</td>
+                <td>Law, Act</td>
+               </tr>
+							<tr>
+                <td class="label">Adopted on:</td>
+                <td>2003-09-11</td>
+               </tr>
+							<tr>
+								<td class="label"><!-- #BeginEditable "LABEL-ENTRY-FORCE-DATE" -->Entry into force<!-- #EndEditable -->:</td>
+								<td><!-- #BeginEditable "DATA-ENTRY-FORCE-DATE" --> <!-- #EndEditable --></td>
+							</tr>
+							<tr>
+                <td class="label">Published on:</td>
+                <td>Bulletin officiel - Edition de traduction officielle, 2004-05-06, n° 5210, pp. 600-658 <a href="javascript:oPenImag1('docs/SERIAL/67319/64073/F518847737/MAR67319.pdf')" class="under"><img src="/images/empent/pdficon.gif" width="14" height="14" border="0"> (PDF 5'738 KB)</a><br></td>
+               </tr>
+							<tr>
+                <td class="label">ISN:</td>
+                <td>MAR-2003-L-67319</td>
+               </tr>
+							<tr>
+                <td class="label">Bibliography:</td>
+                <td>Bulletin officiel - Edition de traduction officielle, 2004-05-06, n° 5210, pp. 600-658 <a href="docs/SERIAL/67319/64073/F518847737/MAR67319.pdf" onclick="return popup(this, 'notes')" title="PDF 5'738 KB">PDF 5'738 KB <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="PDF 5'738 KB" /></a><br>Code du travail (versions française et arabe), 2004-09, Centre confédéral des études et de recherches, Maroc, 317 p.<br><a href="http://www.droit-afrique.com/images/textes/Maroc/Maroc%20-%20Code%20travail.pdf" onclick="return popup(this, 'notes')" title="Code du travail">Code du travail <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="Code du travail"></a> Droit-Afrique.com <font size="1">(consulted on 2007-01-16)</font><br></td>
+               </tr>
+							<tr>
+                <td class="label">Abstract/Citation:</td>
+                <td>Livre préliminaire<br>Titre Ier: Champ d'application - arts. 1er à 5<br>Titre II: Définitions (salarié, employeur, salarié travaillant à domicile) - arts. 6 à 8<br>Titre III: Dispositions générales (liberté syndicale, interdiction de la discrimination et du travail forcé et sanctions) - arts. 9 à 12<br><br>Livre premier<br>Titre Ier: Du contrat de travail (période d'essai, formation du contrat, cautionnement, suspension ou cessation de la relation de travail) - arts. 13 à 85<br>Titre II: Du contrat de sous-entreprise - arts. 86 à 91<br>Titre III: De la négociation collective - arts. 92 à 103<br>Titre IV: De la convention collective de travail - arts. 104 à 134<br><br>Livre II: Des conditions de travail et de la rémunération du salarié<br>Titre Ier: Dispositions générales (ouverture d'entreprise, règlement intérieur) - arts. 135 à 142<br>Titre II: De la protection du mineur et de la femme (âge minimum - 15 ans, protection de la maternité, travail et protection des personnes handicapées, travail de nuit des femmes et des mineurs, travaux interdits) - arts. 143 à 183<br>Titre III: De la durée du travail (durée normale, heures supplémentaires, repos hebdomadaire, jours fériés, congés payés, congés spéciaux) - arts. 184 à 280<br>Titre IV: De l'hygiène et de la sécurité des salariés - arts. 281 à 344<br>Titre V: Du salaire (détermination et paiement, salaire minimum, retenues) - arts. 345 à 395<br><br>Livre III: Des syndicats professionnels, des délégués des salariés, du comité d'entreprise et des représentants des syndicats dans l'entreprise<br>Titre Ier : Des syndicats professionnels - arts. 396 à 429<br>Titre II: Des délégués des salariés - arts. 430 à 463<br>Titre III: Le comité d'entreprise - arts. 464 à 469<br>Titre IV: Les représentants des syndicats dans l'entreprise - arts. 470 à 474<br><br>Livre IV: De l'intermédiation en matière de recrutement et d'embauche (inclut des dispositions sur l'emploi des travailleurs étrangers et l'âge de la retraite) - arts. 475 à 529<br><br>Livre V: Des organes de contrôle - arts. 530 à 548<br><br>Livre VI: Du règlement des conflits collectifs du travail - arts. 549 à 585<br><br>Livre VII: Dispositions finales (abrogations) - arts. 586 à 589<br></td>
+               </tr>
+							</tr>
+<tr>
+        <td class="label"><strong>Repealed text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=47583">1997-08-04</a> (MAR-1997-R-47583)</span><span class="title">Arrêté du ministre de l'emploi et des affaires sociales no 968-97 du 4 août 1997 édictant des dispositions particulières relatives à l'élection des délégués du personnel dans les entreprises.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=10319">1982-05-06</a> (MAR-1982-L-10319)</span><span class="title">Dahir no 1-81-314 du 6 mai 1982 portant promulgation de la loi no 7-80 fixant la limite d'âge pour l'occupation d'un emploi salarié et imposant l'obligation à l'employeur de recruter un personnel de remplacement.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=10320">1982-05-06</a> (MAR-1982-L-10320)</span><span class="title">Dahir no 1-82-121 du 6 mai 1982 portant promulgation de la loi no 47-80 modifiant et complétant le Dahir no 1-61-116 du 29 octobre 1962 relatif à la représentation du personnel dans les entreprises et portant prorogation de la durée du mandat des délégués du personnel.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=14326">1975-08-30</a> (MAR-1975-L-14326)</span><span class="title">Dahir portant promulgation de la loi no 1-75-211 du 30 août 1975 modifiant le dahir du 18 juin 1936 relatif au salaire minimum des ouvriers et employés.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=15814">1973-04-24</a> (MAR-1973-L-15814)</span><span class="title">Dahir du 24 avril 1973 portant loi no 1-72-219 déterminant les conditions d'emploi et de rémunération des salariés agricoles.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=16802">1972-12-30</a> (MAR-1972-L-16802)</span><span class="title">Dahir portant loi no 1-72-238 du 30 décembre 1972 modifiant et complétant le dahir du 24 janvier 1953 relatif au calcul et au paiement des salaires aux économats, au marchandage et au contrat de sous-entreprise.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49811">1972-12-30</a> (MAR-1972-L-49811)</span><span class="title">Dahir du 24 janvier 1953 relatif au calcul et au paiement des salaires, aux économats, au marchandage et au contrat de sous-entreprise. [tel que modifié en dernier lieu par le dahir portant loi no 1-72-238 du 30 décembre 1972]</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49793">1972-10-12</a> (MAR-1972-L-49793)</span><span class="title">Dahir no 1-61-116 du 29 octobre 1962 relatif à la représentation du personnel dans les entreprises. [tel que modifié en dernier lieu par le Dahir du 12 octobre 1972 portant promulgation de la loi no 003-70]</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=17395">1971-10-12</a> (MAR-1971-L-17395)</span><span class="title">Dahir no 003-71 du 12 octobre 1971 complétant le Dahir no 1-61-116 du 29 octobre 1962 relatif à la représentation du personnel dans les entreprises.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=17857">1969-10-20</a> (MAR-1969-L-17857)</span><span class="title">Dahir no 682-68 du 20 octobre 1969 amendant et complétant le Dahir no 1-61-116 du 29 octobre 1962 relatif à la représentation du personnel dans les entreprises.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=17856">1969-08-11</a> (MAR-1969-L-17856)</span><span class="title">Dahir portant loi no 1-68-990 du 11 août 1969 complétant le dahir du 9 janvier 1946 relatif aux congés annuels payés.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49818">1967-08-14</a> (MAR-1967-L-49818)</span><span class="title">Décret royal no 314-66 du 14 août 1967 portant loi relatif au maintien de l'activité d'entreprises industrielles et commerciales et au licenciement de leur personnel.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=50392">1967-08-14</a> (MAR-1967-R-50392)</span><span class="title">Décret royal no 319-66 du 14 août 1967 instituant des commissions de la main-d'oeuvre et un conseil supérieur de la main-d'oeuvre.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=50393">1967-08-14</a> (MAR-1967-L-50393)</span><span class="title">Décret royal no 316-66 du 14 août 1967 portant loi instituant une indemnité, en cas de licenciement de certaines catégories de personnels.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=50394">1967-08-14</a> (MAR-1967-R-50394)</span><span class="title">Décret royal no 317-66 du 14 août 1967 fixant le montant et les modalités d'attribution de l'indemnité de licenciement instituée par le décret royal no 316-66 du 14 août 1967 portant loi.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49794">1962-10-29</a> (MAR-1962-L-49794)</span><span class="title">Dahir no 1-61-116 du 29 octobre 1962 relatif à la représentation du personnel dans les entreprises.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49815">1961-10-24</a> (MAR-1961-L-49815)</span><span class="title">Dahir du 9 janvier 1946 relatif aux congés payés annuels. [tel que modifié en dernier lieu par le dahir no 1-61-082 du 24 octobre 1961]</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49799">1960-11-29</a> (MAR-1960-L-49799)</span><span class="title">Dahir no 1-58-145 du 29 novembre 1960 portant institution d'un conseil supérieur des conventions collectives.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49813">1959-10-31</a> (MAR-1959-L-49813)</span><span class="title">Dahir portant loi no 1-59-352 du 31 octobre 1959 relatif au relèvement général des salaires en fonction de l'augmentation du coût de la vie. [tel que modifié en dernier lieu par le dahir portant loi no 1-75-15 du 29 août 1975]</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=50380">1958-02-08</a> (MAR-1958-R-50380)</span><span class="title">Décret no 2-56-248 du 8 février 1958 portant application du dahir du 8 juillet 1957 organisant les services médicaux du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=50379">1957-07-08</a> (MAR-1957-L-50379)</span><span class="title">Dahir du 8 juillet 1957 concernant l'organisation des services médicaux du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49798">1957-04-17</a> (MAR-1957-L-49798)</span><span class="title">Dahir no 1-57-067 du 17 avril 1957 relatif à la convention collective de travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49812">1953-01-24</a> (MAR-1953-L-49812)</span><span class="title">Dahir du 24 janvier 1953 relatif au calcul et au paiement des salaires, aux économats, au marchandage et au contrat de sous-entreprise.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=39617">1949-11-08</a> (MAR-1949-R-39617)</span><span class="title">Dahir du 8 novembre 1949 portant réglementation de l'émigration des travailleurs marocains.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49801">1948-10-23</a> (MAR-1948-L-49801)</span><span class="title">Dahir du 23 octobre 1948 relatif au statut-type fixant les rapports entre les salariés qui exercent une profession commerciale, industrielle ou libérale et leur employeur.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49826">1947-07-21</a> (MAR-1947-L-49826)</span><span class="title">Dahir du 21 juillet 1947 relatif au repos hebdomadaire et au repos des jours fériés.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49828">1947-07-02</a> (MAR-1947-L-49828)</span><span class="title">Dahir du 2 juillet 1947 portant réglementation du travail. [tel que modifié en dernier lieu par le décret royal portant loi du 3 juin 1966]</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49796">1946-01-19</a> (MAR-1946-L-49796)</span><span class="title">Dahir du 19 janvier 1946 relatif à la conciliation et à l'arbitrage en matière de différends collectifs du travail. [tel que modifié en dernier lieu par le Dahir du 11 décembre 1950]</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49814">1946-01-09</a> (MAR-1946-L-49814)</span><span class="title">Dahir du 9 janvier 1946 relatif aux congés annuels payés.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49823">1939-12-20</a> (MAR-1939-L-49823)</span><span class="title">Dahir du 20 décembre 1939 concernant la détermination du salaire des ouvrières et ouvriers exécutant des travaux à domicile.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49803">1936-06-18</a> (MAR-1936-L-49803)</span><span class="title">Dahir du 18 juin 1936 portant réglementation de la durée du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49807">1936-06-18</a> (MAR-1936-L-49807)</span><span class="title">Dahir du 18 juin 1936 relatif au salaire minimum des ouvriers et employés.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49816">1921-09-27</a> (MAR-1921-L-49816)</span><span class="title">Dahir du 27 septembre 1921 relatif aux bureaux de placement des travailleurs. [tel que modifié en dernier lieu par le dahir du 26 avril 1955]</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Amended text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=49800">1957-07-16</a> (MAR-1957-L-49800)</span><span class="title">Dahir no 1-57-119 du 16 juillet 1957 sur les syndicats professionnels.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=39616">1934-11-15</a> (MAR-1934-R-39616)</span><span class="title">Dahir du 15 novembre 1934 réglementant l'immigration en zone française de l'Empire Chérifien. [tel que modifié en dernier lieu par le décret royal du 22 octobre 1966].</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Implementing text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=97143">2014-06-24</a> (MAR-2014-R-97143)</span><span class="title">Décret n° 2-14-343 du 24 juin 2014 portant fixation des montants du salaire minimum légal dans l'industrie, le commerce, les professions libérales et l'agriculture.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96186">2013-11-25</a> (MAR-2013-R-96186)</span><span class="title">Décret n° 2-12-236 du 25 novembre 2013 fixant les conditions d'utilisation d'appareils ou de machines susceptibles de porter atteinte à la santé des salariés ou de compromettre leur sécurité.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96187">2013-11-25</a> (MAR-2013-R-96187)</span><span class="title">Décret n° 2-12-431 du 25 novembre 2013 fixant les conditions d'utilisation des substances ou préparations susceptibles de porter atteinte à la santé des salariés ou de comprotmettre leur sécurité.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=91478">2012-07-16</a> (MAR-2012-R-91478)</span><span class="title">Arrêté du ministre de l'Emploi et de la Formation professionnelle n° 2625-12 du 16 juillet 2012 fixant les
+modalités d'application des dispositions de l'article 327 de
+la loi n° 65-99 relative au Code du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=91340">2012-07-10</a> (MAR-2012-R-91340)</span><span class="title">Décret n° 2-12-262 du 10 juillet 2012 fixant les règles d'hygiène applicables aux salariés travaillant à domicile ainsi que les obligations qui incombent aux employeurs faisant exécuter des travaux à domicile.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=91341">2010-11-22</a> (MAR-2010-R-91341)</span><span class="title">Arrêté du Ministre de l'Emploi et de la Formation professionnelle n° 3124-10 du 22 novembre 2010 pris pour l'application des dispositions des articles 305 et 330 de la loi n° 65-99 portant Code du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=91342">2010-11-22</a> (MAR-2010-R-91342)</span><span class="title">Arrêté du ministre de l'Emploi et de la Formation professionnelle n° 3125-10 du 22 novembre 2010 fixant le modèle du rapport annuel que doit élaborer le chef du service médical du travail sur l'organisation, le fonctionnement et la gestion financière dudit service au titre de l'année précédente.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=91343">2010-11-22</a> (MAR-2010-R-91343)</span><span class="title">Arrêté du Ministre de l'Emploi et de la Formation professionnelle n° 3126-10 du 22 novembre 2010 fixant le temps minimum que le ou les médecins du travail doivent consacrer aux salariés.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=86187">2010-11-16</a> (MAR-2010-R-86187)</span><span class="title">Décret n° 2-10-183 du 16 novembre 2010 fixant la liste des travaux auxquels il est interdit d'occuper certaines catégories de personnes.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=83961">2010-03-22</a> (MAR-2010-R-83961)</span><span class="title">Décret n° 2-09-197 du 22 mars 2010 fixant le modèle de rapport annuel que doit établir le comité de sécurité et d'hygiène (C. S.H.), à la fin de chaque année grégorienne, sur l'évolution des risques professionnels dans l'entreprise.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=79517">2008-07-09</a> (MAR-2008-R-79517)</span><span class="title">Décret n° 2-08-374 du 9 juillet 2008 pris pour l'application de l'article 356 de la loi n° 65-99 relative au Code du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=80437">2008-05-12</a> (MAR-2008-R-80437)</span><span class="title">Arrêté du ministre de l'emploi et de la formation professionnelle n° 93-08 du 12 mai 2008 fixant les mesures d'application générales et particulières relatives aux principes énoncés aux articles 281 à 291 du Code du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=71614">2005-07-13</a> (MAR-2005-R-71614)</span><span class="title">Décret n° 2-05-751 du 13 juillet 2005 pris pour l'application des dispositions des articles 315 et 316 de la loi n° 65-99 portant Code du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=76897">2005-02-09</a> (MAR-2005-R-76897)</span><span class="title">Arrêté du ministre de l'Emploi et de la Formation professionnelle n° 340-05 du 9 février 2005 fixant les durées journalières de la répartition, par périodes, de la durée normale du travail dans les activités agricoles.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=76898">2005-02-09</a> (MAR-2005-R-76898)</span><span class="title">Arrêté du ministre de l'Emploi et de la Formation professionnelle n° 341-05 du 9 février 2005 fixant les modalités d'application des articles 187 à 192 du Code du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=76899">2005-02-09</a> (MAR-2005-R-76899)</span><span class="title">Arrêté du ministre de l'Emploi et de la Formation professionnelle n° 342-05 du 9 février 2005 fixant les modalités d'octroi du repos compensateur.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=76900">2005-02-09</a> (MAR-2005-R-76900)</span><span class="title">Arrêté du ministre de l'Emploi et de la Formation professionnelle n° 343-05 du 9 février 2005 fixant les périodes durant lesquelles les salariés travaillant dans les exploitations agricoles, forestières et leurs dépendances ne peuvent bénéficier du congé annuel payé.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=76901">2005-02-09</a> (MAR-2005-R-76901)</span><span class="title">Arrêté du ministre de l'Emploi et de la Formation professionnelle n° 344-05 du 9 février 2005 fixant les modalités de calcul de l'indemnité du congé annuel payé et de l'indemnité compensatrice de congé.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=76902">2005-02-09</a> (MAR-2005-R-76902)</span><span class="title">Arrêté du ministre de l'Emploi et de la Formation professionnelle n° 345-05 du 9 février 2005 fixant le modèle du rapport qu'il faut élaborer sur les circonstances de l'accident du travail, de la maladie professionnelle ou à caractère professionnel.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=76903">2005-02-09</a> (MAR-2005-R-76903)</span><span class="title">Arrêté du ministre de l'Emploi et de la Formation professionnelle n° 346-05 du 9 février 2005 fixant les indications que doit compter le bulletin de paie.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=76904">2005-02-09</a> (MAR-2005-R-76904)</span><span class="title">Arrêté du ministre de l'Emploi et de la Formation professionnelle n° 347-05 du 9 février 2005 fixant le modèle du livre de paie.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=76905">2005-02-09</a> (MAR-2005-R-76905)</span><span class="title">Arrêté du ministre de l'Emploi et de la Formation professionnelle n° 348-05 du 9 février 2005 fixant le modèle de registre que doit tenir l'agence de recrutement privée.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=76906">2005-02-09</a> (MAR-2005-R-76906)</span><span class="title">Arrêté du ministre de l'Emploi et de la Formation professionnelle n° 349-05 du 9 février 2005 fixant le modèle du cahier des charges que les agences de recrutement privées s'engagent à respecter, comportant les conditions relatives à la détermination des frais mis à la charge du salarié bénéficiaire du contrat de travail à l'étranger.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=76907">2005-02-09</a> (MAR-2005-R-76907)</span><span class="title">Arrêté du ministre de l'Emploi et de la Formation professionnelle n° 350-05 du 9 février 2005 fixant le modèle du contrat de travail réservé aux étrangers.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=76908">2005-02-09</a> (MAR-2005-R-76908)</span><span class="title">Arrêté du ministre de l'Emploi et de la Formation professionnelle n° 351-05 du 9 février 2005 fixant le modèle du rapport relatif aux visites de contrôle effectuées par les agents chargés de l'inspection du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70101">2004-12-29</a> (MAR-2004-R-70101)</span><span class="title">Décret n° 2-04-422 du 29 décembre 2004 fixant les mentions que doit comporter la carte de travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70102">2004-12-29</a> (MAR-2004-R-70102)</span><span class="title">Décret n° 2-04-424 du 29 décembre 2004 fixant le nombre des membres du Conseil supérieur de la promotion de l'emploi et les modalités de leur nomination et de fonctionnement dudit conseil.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70103">2004-12-29</a> (MAR-2004-R-70103)</span><span class="title">Décret n° 2-04-425 du 29 décembre 2004 fixant le nombre des membres du Conseil de la négociation collective et les modalités de leur nomination et de fonctionnement dudit conseil.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70104">2004-12-29</a> (MAR-2004-R-70104)</span><span class="title">Décret n° 2-04-426 du 29 décembre 2004 fixant la liste des jours de fêtes payés dans les entreprises industrielles et commerciales, les professions libérales et les exploitations agricoles et forestières.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70114">2004-12-29</a> (MAR-2004-R-70114)</span><span class="title">Décret n° 2-04-464 du 29 décembre 2004 fixant la composition et les modalités de fonctionnement de la Commission spécialisée relative aux entreprises d'emploi temporaire.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70115">2004-12-29</a> (MAR-2004-R-70115)</span><span class="title">Décret n° 2-04-465 du 29 décembre 2004 fixant la liste des entreprises dans lesquelles il est interdit d'employer des mineurs de moins de 18 ans à titre de salarié comme comédien ou interprète dans les spectacles publics, sans autorisation écrite.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70116">2004-12-29</a> (MAR-2004-R-70116)</span><span class="title">Décret n° 2-04-466 du 29 décembre 2004 fixant le modèle de l'engagement de l'employeur de rapatrier l'employé à ses frais et de supporter les frais de son hospitalisation.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70117">2004-12-29</a> (MAR-2004-R-70117)</span><span class="title">Décret n° 2-04-467 du 29 décembre 2004 fixant les critères sur la base desquels les subventions de l'Etat sont attribuées aux unions des syndicats professionnels ou à toute organisation similaire ainsi que la composition et les modalités de fonctionnement de la commission chargée du contrôle de l'utilisation desdites subventions.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70118">2004-12-29</a> (MAR-2004-R-70118)</span><span class="title">Décret n° 2-04-468 du 29 décembre 2004 fixant les indications que doivent comporter les colis pesant au moins mille kilogrammes.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70119">2004-12-29</a> (MAR-2004-R-70119)</span><span class="title">Décret n° 2-04-469 du 29 décembre 2004 relatif au délai de préavis pour la rupture unilatérale du contrat de travail à durée indéterminée.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70146">2004-12-29</a> (MAR-2004-R-70146)</span><span class="title">Décret n° 2-04-470 du 29 décembre 2004 fixant les conditions pour la création d'économats dans les chantiers, exploitations agricoles, entreprises industrielles, mines ou carrières éloignées d'un centre de ravitaillement.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70147">2004-12-29</a> (MAR-2004-R-70147)</span><span class="title">Décret n° 2-04-512 du 29 décembre 2004 fixant les membres du conseil de médecine du travail et de prévention des risques professionnels et les modalités de leur nomination et de fonctionnement dudit conseil.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70148">2004-12-29</a> (MAR-2004-R-70148)</span><span class="title">Décret n° 2-04-513 du 29 décembre 2004 organisant le repos hebdomadaire.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70149">2004-12-29</a> (MAR-2004-R-70149)</span><span class="title">Décret n° 2-04-514 du 29 décembre 2004 fixant le nombre des membres de la commission provinciale chargée d'examiner et de statuer sur les demandes de licenciement des salariés et la fermeture partielle ou totale des entreprises ou des exploitations.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70150">2004-12-29</a> (MAR-2004-R-70150)</span><span class="title">Décret n° 2-04-568 du 29 décembre 2004 fixant les conditions devant être mises en place pour faciliter le travail de nuit des femmes.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70151">2004-12-29</a> (MAR-2004-R-70151)</span><span class="title">Décret n° 2-04-569 du 29 décembre 2004 fixant les modalités d'application de l'article 184 de la loi n° 65-99 relative au Code du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70152">2004-12-29</a> (MAR-2004-R-70152)</span><span class="title">Décret n° 2-04-570 du 29 décembre 2004 fixant les conditions d'emploi des salariés au-delà de la durée normale de travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70153">2004-12-29</a> (MAR-2004-R-70153)</span><span class="title">Décret n° 2-04-682 du 29 décembre 2004 fixant les travaux interdits aux mineurs de moins de 18 ans, aux femmes et aux salariés handicapés.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70154">2004-12-29</a> (MAR-2004-R-70154)</span><span class="title">Décret n° 2-04-423 du 29 décembre 2004 fixant les conditions et les formes de présentation de la déclaration d'ouverture d'une entreprise, d'un établissement ou d'un chantier.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=91409">2004-12-29</a> (MAR-2004-R-91409)</span><span class="title">Décret n° 2-04-464 du 29 décembre 2004 fixant la composition et les modalités de fonctionnement de la commission spécialisée relative aux entreprises d'emploi temporaire.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=91410">2004-12-29</a> (MAR-2004-R-91410)</span><span class="title">Décret n° 2-04-512 du 29 décembre 2004 fixant les membres du Conseil de médecine du travail et de prévention des risques professionnels et les modalités de leur nomination et de fonctionnement dudit conseil.</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Related text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=105362">2016-08-10</a> (MAR-2016-L-105362)</span><span class="title">Loi n° 19-12 du 10 août 2016 fixant les conditions de travail et d'emploi des travailleuses et travailleurs domestiques.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=91625">2009-05-21</a> (MAR-2009-R-91625)</span><span class="title">Décret n° 2-08-528 du 21 mai 2009 relatif à la protection des travailleurs contre les risques dus au benzène et aux produits dont le taux en benzène est supérieur à 1 pour cent en volume.</span></li></ul>
+        </td>
+     </tr>
+							</table>
+						
+							<br class="clearfix">
+				
+							<div class="horizontalBar"></div> 
+							<!--<div class="clearfix last"></div>-->
+						</div> <!-- end of colMain  -->			
+					</div> <!-- end of container575 -->
+					<div class="clearfix last"></div>
+				</div> <!-- end of container780 -->
+			</div> <!-- end of containerBody -->
+		</div> <!-- end of bodyWrapper -->	
+		<div class="clearBoth"></div>
+		<div id="containerFooter">
+			
+<!--start include ILOfooter.htm-->
+        <div id="endFooter">
+            &copy; <a target="" href="http://www.ilo.org/global/copyright/lang--en/index.htm">Copyright and permissions</a> 1996-2014 International Labour Organization (ILO) | <a href="http://www.ilo.org/global/privacy-policy/lang--en/index.htm" target="">Privacy policy</a> | <a target="" href="http://www.ilo.org/global/disclaimer/lang--en/index.htm">Disclaimer</a><br>&nbsp;
+        </div>
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    </script>
+        
+
+<!--end include ILOfooter.htm-->
+
+			
+<!--start include script-search.htm-->
+
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    
+    </script>
+
+<!--end include script-search.htm-->
+
+		</div>	<!-- end of containerFooter -->
+	</div>
+<!-- begin analytics tracking -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4747079-1");
+pageTracker._trackPageview();
+</script>
+<!-- end analytics tracking -->
+
+</body>
+
+</html>
