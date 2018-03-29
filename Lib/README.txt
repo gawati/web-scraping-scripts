@@ -14,6 +14,6 @@ Installing:
  # then run :
 
     ```
-    pip install lxml html5lib BeautifulSoup4 pystache langdetect, requests
+    pip install lxml html5lib BeautifulSoup4 pystache langdetect requests fake-useragent
     pip install pandas
     ```

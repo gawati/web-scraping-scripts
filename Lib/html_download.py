@@ -12,10 +12,13 @@ def get_file_path(country_code):
 
     return file_path
 
+
+SLEEP_DELAY=4
+
 def write_html_to_file(url, url_list, country_code):
 
     raw_html_data = su.get_html_from_url(url)
-    time.sleep(5)
+    time.sleep(SLEEP_DELAY)
     isn = url_list[url_list.index(url)].split('p_isn=')[1].split('&')[0]
 
     file_name = isn + ".txt"
@@ -44,15 +47,18 @@ def main(country_code):
 
     print("Fetching raw HTMl data for each document and saving it as a text file")
     url_list = su.get_document_urls(file_path)
+    print("Found %d urls to download for %s" % (len(url_list), country_code) )
 
     with open(file_path, "r", encoding="utf-8") as file:
         data = json.load(file)
 
-    for url in url_list:
+    for idx, url in enumerate(url_list):
         if "file" not in data["countries"][url_list.index(url)]:
             file_name = write_html_to_file(url, url_list, country_code)
-            print("File created successfully")
+            print("File %d of %d created successfully" % (idx+1, len(url_list)) )
             update_country_json_file(country_code, url, url_list, file_path, file_name)
+        else:
+            print("File %d for url %s already exists, ignoring" % (idx+1, url))
 
 
 '''

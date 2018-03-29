@@ -1,5 +1,6 @@
 import json
 import requests
+from fake_useragent import UserAgent
 
 def get_country_codes(country_code):
     with open('countryCodes.json', encoding='utf-8') as jsonCountryCodes:
@@ -17,8 +18,11 @@ def get_country_codes(country_code):
     #if country_code in country_codes:
 
 
-def get_html_from_url(url_list):
-    r = requests.get(url_list)
+UA = UserAgent()
+
+def get_html_from_url(url):
+    header = {'User-Agent': str(UA.random)}
+    r = requests.get(url, headers=header)
     data = r.text
     return data
 	
