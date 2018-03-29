@@ -1,0 +1,267 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html dir="ltr">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="type">
+	<meta NAME="description" content="NATLEX, the ILO's database featuring national laws on: labour, social security and related human rights">
+	<meta name="keywords" content="">
+	<title>Tunisia - Code du Travail.</title>
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global-normlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex-print.css" rel="stylesheet" type="text/css">
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie.css">
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie-normlex.css">
+	<![endif]-->
+	<link  href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.min.css" rel="stylesheet" type="text/css">
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/jquery-1.7.2.min.js"type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/newWin.js" type="text/javascript"></script>
+                       <script language="JavaScript" src="/webcommon/dyn/images/natlex/newin.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.jquery.min.js" type="text/javascript"></script>
+</head>
+
+<body> 
+	<a name="top"></a>
+	<div id="ieHack" class="global-settings"> 
+		
+<!--start include ILOsupplementary.htm-->
+<div id="supplementaryMenu">
+    <div id="miniLanguages"><a href="/dyn/natlex/natlex4.home">English</a> | <a href="/dyn/natlex/natlex4.home?p_lang=fr">Fran&ccedil;ais</a> | <a href="/dyn/natlex/natlex4.home?p_lang=es">Espa&ntilde;ol</a></div>
+    <div id="un"><strong>ILO is a </strong><a target="_blank" href="http://www.un.org/en/aboutun/structure/index.shtml" class="externalLink"><strong>United Nations Agency</strong><span id="externalLink"></span></a></div>
+    <div id="miniTools"><img alt="rss11" src="http://www.ilo.org/webcommon/dyn/images/normlex/resources/images/rss11.png">&nbsp;<a target="" href="http://www.ilo.org/global/rss-feeds/lang--en/index.htm">RSS Feed</a> | <a href="http://www.ilo.org/global/about-the-ilo/press-and-media-centre/lang--en/index.htm" target="">Media centre</a> | <a target="" href="http://www.ilo.org/global/contact-us/lang--en/index.htm">Contact us</a></div>
+    <div class="clearfix"></div>
+</div>
+
+<!--end include ILOsupplementary.htm-->
+
+		<div id="bodyWrapper" class="language">  <!-- id to define width and left/right reading languages -->
+			<div id="containerHeader">
+				
+<!--start include ILOhead.htm-->
+<div class="clearfix"></div>
+                <div id="headerWrapper">
+                    <span id="logo"><a href="http://www.ilo.org/global/lang--en/index.htm"><img alt="International Labour Organization" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046345.gif" /></a></span>
+                    <span id="strapline"><img alt="Promoting jobs, protecting people" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046346.gif" /></span>
+                    <span id="searchGlobal">
+                    <!-- <form name="searchFast_up" action="http://www.ilo.org/Search3/search.do" method="post" class="forms">
+                    <input type="hidden" id="sitelang" name="sitelang" value="en" />  <input type="hidden" name="consumercode" value="ILOHQ_STELLENT_PUBLIC" /><input id="search" class="search1" type="text" name="query" rel="Search ilo.org" value="Search ilo.org"> <input type="submit" name="searchbuttop" class="buttflex" onclick="javascript:document.searchFast_up.submit();" />
+                    </form> -->
+
+                    <script type="text/javascript">
+                    var srch_default_value = 'Search ilo.org'; // default value
+                    if (document.getElementById("search")){
+                    if (!document.getElementById("search").value) {
+                    document.getElementById("search").value = srch_default_value;
+                    }
+                    document.getElementById("search").onfocus = function() {
+                    if (this.value == srch_default_value) {
+                    this.value = '';
+                    }
+                    this.onblur = function() {
+                    if (this.value == '') {
+                    this.value = srch_default_value;
+                    }
+                    }
+                    }
+                    }
+                    </script>
+                    </span> 
+                </div>
+                <div class="clearfix"></div>
+                <div id="navMainWrapper">                   
+                    <ol><li class="listItemStart first"><a href="http://www.ilo.org/global/about-the-ilo/lang--en/index.htm" class="">About the ILO</a></li><li><a href="http://www.ilo.org/global/topics/lang--en/index.htm" class="">Topics</a></li><li><a href="http://www.ilo.org/global/regions/lang--en/index.htm" class="">Regions</a></li><li><a href="http://www.ilo.org/global/meetings-and-events/lang--en/index.htm" class="">Meetings and events</a></li><li><a href="http://www.ilo.org/global/publications/lang--en/index.htm" class="">Publications</a></li><li><a href="http://www.ilo.org/global/research/lang--en/index.htm" class="">Research</a></li><li><a href="http://www.ilo.org/global/standards/lang--en/index.htm" class="selected">Labour standards</a></li><li class="listItemEnd"><a href="http://www.ilo.org/global/statistics-and-databases/lang--en/index.htm" class="">Statistics and databases</a></li></ol>
+                </div>
+                <div class="clearfix"></div>
+<!--end include ILOhead.htm-->
+
+			</div> <!-- end of containerHeader -->
+			<div id="containerBody">
+			
+			 <div id="regions">
+				<span><a href="http://www.ilo.org/webcommon/dyn/images/natlex4/home.htm">NATLEX</a></span>
+				<div id="offices">Database of national labour, social security and related human rights legislation</div>
+		      </div>
+				
+				<!-- ************* LEFT COLUMN ******************* -->
+				<div class="container145 floatLeft">
+					<div id="colLeft">
+						
+<!--start include mainMenu-country.htm-->
+                        <div id="contextMenu">
+                            <dl>
+                                <dt class="contextMenu-2"><a href="natlex4.home?p_lang=en">NATLEX home</a></dt>
+                                <dt class="contextMenu-focus-2"><a href="natlex4.byCountry?p_lang=en">Browse by country</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.bySubject?p_lang=en">Browse by subject</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.recent?p_lang=en">Recent important additions to NATLEX</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.search?p_lang=en">Search</a></dt>
+                            </dl>
+                        </div> <!-- end of contextMenu -->
+<!--end include mainMenu-country.htm-->
+					
+					</div> <!-- end of colLeft -->	
+				</div> <!-- end of containerLeft -->
+				
+				<!-- ************* MAIN COLUMN ******************* -->
+				<div class="container780">
+				<div class="horizontalBar content"></div>
+					
+					<!-- *** Title type breadcrumb *** -->
+					<div id="heading">
+						<h1 id="page-title">Tunisia <em></em></a> &gt;  <em></em></a></h1>
+					</div>
+					
+					<!-- *** RIGHT COLUMN *** -->
+					<div class="container190 floatRight">
+						<div id="colRight">
+							
+
+							
+						</div> <!-- end of colRight -->
+					</div> <!-- end of container190 -->
+					
+					<!-- *** CENTRAL COLUMN *** -->
+					<div class="container575">
+						<div id="colMain">
+						
+							<table class="page" cellspacing="0">
+							<!-- #BeginEditable "DATA-ORIGINAL-NAME" --><!-- #EndEditable -->
+							<tr>
+                <td class="label">Name:</td>
+                <td>Code du Travail.</td>
+               </tr>
+							<tr>
+                <td class="label">Country:</td>
+                <td><strong>Tunisia</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Subject(s):</td>
+                <td><strong>Labour codes, general labour and employment acts</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Type of legislation:</td>
+                <td>Law, Act</td>
+               </tr>
+							<tr>
+                <td class="label">Adopted on:</td>
+                <td>1966-04-30</td>
+               </tr>
+							<tr>
+								<td class="label"><!-- #BeginEditable "LABEL-ENTRY-FORCE-DATE" -->Entry into force<!-- #EndEditable -->:</td>
+								<td><!-- #BeginEditable "DATA-ENTRY-FORCE-DATE" --> <!-- #EndEditable --></td>
+							</tr>
+							<tr>
+                <td class="label">Published on:</td>
+                <td>Journal officiel, 1996-07-23, no 59, pp. 1579-1588<br></td>
+               </tr>
+							<tr>
+                <td class="label">ISN:</td>
+                <td>TUN-1966-L-44414</td>
+               </tr>
+							<tr>
+                <td class="label">Bibliography:</td>
+                <td>Journal officiel, 1996-07-23, no 59, pp. 1579-1588<br><a href="http://www.jurisitetunisie.com/tunisie/codes/ct/menu-2.html" onclick="return popup(this, 'notes')" title="Code du travail (dans sa teneur modifiée)">Code du travail (dans sa teneur modifiée) <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="Code du travail (dans sa teneur modifiée)"></a> Jurisite Tunisie, Tunisie <a href="docs/ELECTRONIC/44414/61784/F839958379/TUN-44414 (2).pdf" onclick="return popup(this, 'notes')" title="PDF (version consolidée)">PDF (version consolidée) <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="PDF (version consolidée)" /></a> <font size="1">(consulted on 2006-05-29)</font><br></td>
+               </tr>
+							<tr>
+                <td class="label">Abstract/Citation:</td>
+                <td>Les modifications faites par la loi n° 96-62 portent sur les articles 6 (durée du contrat de travail); 21 (licenciement économique); 53 à 63 (travail des enfants); 66 et 67 (travail de nuit des enfants et des femmes); 69 et 77 (travaux souterrains des femmes et des enfants); 79, 82, 83 et 85 (durée du travail); 90 (heures supplémentaires); 95, 97, 100 et 106 (repos hebdomadaire); 107, 113, 114, 116, 117, 119 à 123 (congés payés); 134, 137 à 141, 143, 145 et 146 (salaire); 150 à 155 (sécurité et hygiène du travail); 258, 259, 261 à 263, 267 et 269 (travailleurs étrangers); 278 à 283, 286 et 287 (service de l'emploi et bureau de placement); 289 à 292, 303, 305 et 310 (médecins-inspecteurs du travail) et 335. Sont ajoutés les alinéas suivants: 6-2 à 6-4, 21-2 à 21-13 (modalités de contrôle du licenciement), 26-2 (formation professionnelle), 53-2 (apprentissage), 63-2, 68-2 à 68-4 (protection de la femme travailleuse), 76-2, 77-2, 94-2 à 94-14 (travail à temps partiel), 134-2, 134-3, 151-2, 152-2, 152-3, 153-2, 154-2 à 154-5 (sécurité au travail), 258-2 et 268-2. La loi abroge les articles 9, 49, 50, 80, 81, 135, 136, 156, 264, 270 à 277, 288, 325 à 332, 336, 337 et 391 à 396 du code du travail de  1966.</td>
+               </tr>
+							</tr>
+<tr>
+        <td class="label"><strong>Amending text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=87951">2011-06-06</a> (TUN-2011-L-87951)</span><span class="title">Décret-loi n° 2011-51 du 6 juin 2011, portant modification du Code du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=86016">2011-01-03</a> (TUN-2011-L-86016)</span><span class="title">Loi n° 2011-4 du 3 janvier 2011 complétant les dispositions de l'article 234 du Code du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=75853">2007-04-02</a> (TUN-2007-L-75853)</span><span class="title">Loi n° 2007-19 du 2 avril 2007 portant modification de certaines dispositions du Code du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=73680">2006-05-02</a> (TUN-2006-L-73680)</span><span class="title">Loi n° 2006-18 du 2 mai 2006 modifiant et complétant certaines dispositions du Code du travail.</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Implementing text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=97838">2014-11-27</a> (TUN-2014-R-97838)</span><span class="title">Décret n° 2014-4238 du 27 novembre 2014, fixant le statut particulier du corps de l'inspection médicale du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96718">2014-08-11</a> (TUN-2014-R-96718)</span><span class="title">Décret n° 2014-2906 du 11 août 2014, fixant l'indemnité de transport pour les salariés payés au salaire minimum interprofessionnel garanti dans les secteurs non agricoles régis par le Code du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96719">2014-08-11</a> (TUN-2014-R-96719)</span><span class="title">Décret n° 2014-2907 du 11 août 2014, fixant le salaire minimum interprofessionnel garanti dans les secteurs non agricoles régis par le Code du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=38079">1994-07-11</a> (TUN-1994-R-38079)</span><span class="title">Décret n°94-1490 du 11 juillet 1994, fixant le statut particulier du corps de l'inspection médicale du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=33564">1973-05-29</a> (TUN-1973-CA-33564)</span><span class="title">Arrêté du ministre des Affaires sociales du 29 mai 1973, portant approbation de la Convention collective-cadre.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=33563">1973-05-25</a> (TUN-1973-R-33563)</span><span class="title">Décret no 73-247 du 25 mai 1973, relatif à la procédure de fixation des salaires.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=18432">1968-10-22</a> (TUN-1968-R-18432)</span><span class="title">Décret n° 68-328 fixant les règles générales d'hygiène dans les entreprises soumises au Code du travail [loi n° 66-27 du 30 avril 1966, SL. 1966-Tun. 1].</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Related text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=97837">2014-10-03</a> (TUN-2014-R-97837)</span><span class="title">Décret n° 2014-4030 du 3 octobre 2014, portant approbation du code de conduite et de déontologie de l'agent public.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96720">2014-08-11</a> (TUN-2014-R-96720)</span><span class="title">Décret n° 2014-2908 du 11 août 2014, fixant le salaire minimum agricole garanti.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96716">2014-07-15</a> (TUN-2014-R-96716)</span><span class="title">Décret n° 2014-2861 du 15 juillet 2014, fixant le statut particulier aux membres du comité général d'inspection du travail et d'administration des conflits du travail du ministère des affaires sociales.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=81956">2009-07-14</a> (TUN-2009-R-81956)</span><span class="title">Décret n° 2009-2258 du 14 juillet 2009 fixant le salaire minimum agricole garanti.</span></li></ul>
+        </td>
+     </tr>
+							</table>
+						
+							<br class="clearfix">
+				
+							<div class="horizontalBar"></div> 
+							<!--<div class="clearfix last"></div>-->
+						</div> <!-- end of colMain  -->			
+					</div> <!-- end of container575 -->
+					<div class="clearfix last"></div>
+				</div> <!-- end of container780 -->
+			</div> <!-- end of containerBody -->
+		</div> <!-- end of bodyWrapper -->	
+		<div class="clearBoth"></div>
+		<div id="containerFooter">
+			
+<!--start include ILOfooter.htm-->
+        <div id="endFooter">
+            &copy; <a target="" href="http://www.ilo.org/global/copyright/lang--en/index.htm">Copyright and permissions</a> 1996-2014 International Labour Organization (ILO) | <a href="http://www.ilo.org/global/privacy-policy/lang--en/index.htm" target="">Privacy policy</a> | <a target="" href="http://www.ilo.org/global/disclaimer/lang--en/index.htm">Disclaimer</a><br>&nbsp;
+        </div>
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    </script>
+        
+
+<!--end include ILOfooter.htm-->
+
+			
+<!--start include script-search.htm-->
+
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    
+    </script>
+
+<!--end include script-search.htm-->
+
+		</div>	<!-- end of containerFooter -->
+	</div>
+<!-- begin analytics tracking -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4747079-1");
+pageTracker._trackPageview();
+</script>
+<!-- end analytics tracking -->
+
+</body>
+
+</html>

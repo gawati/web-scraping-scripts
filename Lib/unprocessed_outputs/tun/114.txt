@@ -1,0 +1,279 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html dir="ltr">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="type">
+	<meta NAME="description" content="NATLEX, the ILO's database featuring national laws on: labour, social security and related human rights">
+	<meta name="keywords" content="">
+	<title>Tunisia - Loi n° 83-112 portant statut général des personnels de l'Etat, des collectivités publiques locales et des établissements publics à caractère administratif.</title>
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global-normlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex-print.css" rel="stylesheet" type="text/css">
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie.css">
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie-normlex.css">
+	<![endif]-->
+	<link  href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.min.css" rel="stylesheet" type="text/css">
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/jquery-1.7.2.min.js"type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/newWin.js" type="text/javascript"></script>
+                       <script language="JavaScript" src="/webcommon/dyn/images/natlex/newin.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.jquery.min.js" type="text/javascript"></script>
+</head>
+
+<body> 
+	<a name="top"></a>
+	<div id="ieHack" class="global-settings"> 
+		
+<!--start include ILOsupplementary.htm-->
+<div id="supplementaryMenu">
+    <div id="miniLanguages"><a href="/dyn/natlex/natlex4.home">English</a> | <a href="/dyn/natlex/natlex4.home?p_lang=fr">Fran&ccedil;ais</a> | <a href="/dyn/natlex/natlex4.home?p_lang=es">Espa&ntilde;ol</a></div>
+    <div id="un"><strong>ILO is a </strong><a target="_blank" href="http://www.un.org/en/aboutun/structure/index.shtml" class="externalLink"><strong>United Nations Agency</strong><span id="externalLink"></span></a></div>
+    <div id="miniTools"><img alt="rss11" src="http://www.ilo.org/webcommon/dyn/images/normlex/resources/images/rss11.png">&nbsp;<a target="" href="http://www.ilo.org/global/rss-feeds/lang--en/index.htm">RSS Feed</a> | <a href="http://www.ilo.org/global/about-the-ilo/press-and-media-centre/lang--en/index.htm" target="">Media centre</a> | <a target="" href="http://www.ilo.org/global/contact-us/lang--en/index.htm">Contact us</a></div>
+    <div class="clearfix"></div>
+</div>
+
+<!--end include ILOsupplementary.htm-->
+
+		<div id="bodyWrapper" class="language">  <!-- id to define width and left/right reading languages -->
+			<div id="containerHeader">
+				
+<!--start include ILOhead.htm-->
+<div class="clearfix"></div>
+                <div id="headerWrapper">
+                    <span id="logo"><a href="http://www.ilo.org/global/lang--en/index.htm"><img alt="International Labour Organization" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046345.gif" /></a></span>
+                    <span id="strapline"><img alt="Promoting jobs, protecting people" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046346.gif" /></span>
+                    <span id="searchGlobal">
+                    <!-- <form name="searchFast_up" action="http://www.ilo.org/Search3/search.do" method="post" class="forms">
+                    <input type="hidden" id="sitelang" name="sitelang" value="en" />  <input type="hidden" name="consumercode" value="ILOHQ_STELLENT_PUBLIC" /><input id="search" class="search1" type="text" name="query" rel="Search ilo.org" value="Search ilo.org"> <input type="submit" name="searchbuttop" class="buttflex" onclick="javascript:document.searchFast_up.submit();" />
+                    </form> -->
+
+                    <script type="text/javascript">
+                    var srch_default_value = 'Search ilo.org'; // default value
+                    if (document.getElementById("search")){
+                    if (!document.getElementById("search").value) {
+                    document.getElementById("search").value = srch_default_value;
+                    }
+                    document.getElementById("search").onfocus = function() {
+                    if (this.value == srch_default_value) {
+                    this.value = '';
+                    }
+                    this.onblur = function() {
+                    if (this.value == '') {
+                    this.value = srch_default_value;
+                    }
+                    }
+                    }
+                    }
+                    </script>
+                    </span> 
+                </div>
+                <div class="clearfix"></div>
+                <div id="navMainWrapper">                   
+                    <ol><li class="listItemStart first"><a href="http://www.ilo.org/global/about-the-ilo/lang--en/index.htm" class="">About the ILO</a></li><li><a href="http://www.ilo.org/global/topics/lang--en/index.htm" class="">Topics</a></li><li><a href="http://www.ilo.org/global/regions/lang--en/index.htm" class="">Regions</a></li><li><a href="http://www.ilo.org/global/meetings-and-events/lang--en/index.htm" class="">Meetings and events</a></li><li><a href="http://www.ilo.org/global/publications/lang--en/index.htm" class="">Publications</a></li><li><a href="http://www.ilo.org/global/research/lang--en/index.htm" class="">Research</a></li><li><a href="http://www.ilo.org/global/standards/lang--en/index.htm" class="selected">Labour standards</a></li><li class="listItemEnd"><a href="http://www.ilo.org/global/statistics-and-databases/lang--en/index.htm" class="">Statistics and databases</a></li></ol>
+                </div>
+                <div class="clearfix"></div>
+<!--end include ILOhead.htm-->
+
+			</div> <!-- end of containerHeader -->
+			<div id="containerBody">
+			
+			 <div id="regions">
+				<span><a href="http://www.ilo.org/webcommon/dyn/images/natlex4/home.htm">NATLEX</a></span>
+				<div id="offices">Database of national labour, social security and related human rights legislation</div>
+		      </div>
+				
+				<!-- ************* LEFT COLUMN ******************* -->
+				<div class="container145 floatLeft">
+					<div id="colLeft">
+						
+<!--start include mainMenu-country.htm-->
+                        <div id="contextMenu">
+                            <dl>
+                                <dt class="contextMenu-2"><a href="natlex4.home?p_lang=en">NATLEX home</a></dt>
+                                <dt class="contextMenu-focus-2"><a href="natlex4.byCountry?p_lang=en">Browse by country</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.bySubject?p_lang=en">Browse by subject</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.recent?p_lang=en">Recent important additions to NATLEX</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.search?p_lang=en">Search</a></dt>
+                            </dl>
+                        </div> <!-- end of contextMenu -->
+<!--end include mainMenu-country.htm-->
+					
+					</div> <!-- end of colLeft -->	
+				</div> <!-- end of containerLeft -->
+				
+				<!-- ************* MAIN COLUMN ******************* -->
+				<div class="container780">
+				<div class="horizontalBar content"></div>
+					
+					<!-- *** Title type breadcrumb *** -->
+					<div id="heading">
+						<h1 id="page-title">Tunisia <em></em></a> &gt;  <em></em></a></h1>
+					</div>
+					
+					<!-- *** RIGHT COLUMN *** -->
+					<div class="container190 floatRight">
+						<div id="colRight">
+							
+
+							
+						</div> <!-- end of colRight -->
+					</div> <!-- end of container190 -->
+					
+					<!-- *** CENTRAL COLUMN *** -->
+					<div class="container575">
+						<div id="colMain">
+						
+							<table class="page" cellspacing="0">
+							<!-- #BeginEditable "DATA-ORIGINAL-NAME" --><!-- #EndEditable -->
+							<tr>
+                <td class="label">Name:</td>
+                <td>Loi n° 83-112 portant statut général des personnels de l'Etat, des collectivités publiques locales et des établissements publics à caractère administratif.</td>
+               </tr>
+							<tr>
+                <td class="label">Country:</td>
+                <td><strong>Tunisia</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Subject(s):</td>
+                <td><strong>Public and civil servants</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Type of legislation:</td>
+                <td>Law, Act</td>
+               </tr>
+							<tr>
+                <td class="label">Adopted on:</td>
+                <td>1983-12-12</td>
+               </tr>
+							<tr>
+								<td class="label"><!-- #BeginEditable "LABEL-ENTRY-FORCE-DATE" -->Entry into force<!-- #EndEditable -->:</td>
+								<td><!-- #BeginEditable "DATA-ENTRY-FORCE-DATE" --> <!-- #EndEditable --></td>
+							</tr>
+							<tr>
+                <td class="label">Published on:</td>
+                <td>Journal officiel, 1983-12-16, n° 82, pp. 3214-3225 <a href="javascript:oPenImag1('docs/SERIAL/114/952/F1203320569/TUN-114.pdf')" class="under"><img src="/images/empent/pdficon.gif" width="14" height="14" border="0"> (Loi (PDF))</a><br></td>
+               </tr>
+							<tr>
+                <td class="label">ISN:</td>
+                <td>TUN-1983-L-114</td>
+               </tr>
+							<tr>
+                <td class="label">Bibliography:</td>
+                <td>Journal officiel, 1983-12-16, n° 82, pp. 3214-3225 <a href="docs/SERIAL/114/952/F1203320569/TUN-114.pdf" onclick="return popup(this, 'notes')" title="Loi (PDF)">Loi (PDF) <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="Loi (PDF)" /></a><br></td>
+               </tr>
+							<tr>
+                <td class="label">Abstract/Citation:</td>
+                <td>Notamment, abroge la loi no 68-12 du 3 juin 1968 aux mêmes fins.</td>
+               </tr>
+							</tr>
+<tr>
+        <td class="label"><strong>Repealed text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=18428">1968-06-03</a> (TUN-1968-L-18428)</span><span class="title">Loi no 68-12 portant statut général des personnels de l'Etat, des collectivités publiques locales et des établissements publics à caractère administratif.</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Amending text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=92897">2011-09-23</a> (TUN-2011-L-92897)</span><span class="title">Décret-loi n° 2011-89 du 23 septembre 2011, complétant la loi n° 83-112 du 12 décembre 1983, portant statut général des personnels de l'Etat, des collectivités locales et des
+établissements publics à caractère administratif.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=63777">2003-03-17</a> (TUN-2003-L-63777)</span><span class="title">Loi n° 2003-20 du 17 mars 2003 complétant la loi n° 83-112 du 12 décembre 1983, portant statut général des personnels de l'Etat, des collectivités publiques locales et des établissements publics à caractère administratif.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=20680">1990-07-24</a> (TUN-1990-L-20680)</span><span class="title">Loi n° 90-71 du 24 juillet 1990 modifiant la loi n° 83-112 du 12 décembre 1983 portant statut général des personnels de l'Etat, des collectivités publiques locales et des établissements publics à caractère administratif.</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Amended text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=33531">1959-08-24</a> (TUN-1959-R-33531)</span><span class="title">Décret no 59-239 du 24 août 1959 relatif aux congés de longue durée pouvant être accordés aux fonctionnaires de l'Etat et des établissements publics de l'Etat.</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Implementing text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=46557">1996-12-18</a> (TUN-1996-R-46557)</span><span class="title">Décret no 96-2437 du 18 décembre 1996 portant statut particulier du corps des architectes de l'administration.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=45449">1996-11-11</a> (TUN-1996-R-45449)</span><span class="title">Décret no 96-2221 du 11 novembre 1996 portant création d'un cycle de formation d'administrateurs conseillers appelés à exercer auprès des universités, des établissements d'enseignement supérieur et de recherche et des établissements des oeuvres universitaires.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=45206">1996-09-23</a> (TUN-1996-R-45206)</span><span class="title">Décret n° 96-1755 du 23 septembre 1996 relatif à la couverture sociale des agents publics mis en position de détachement pour exercer dans le cadre de la coopération technique.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=41788">1995-08-21</a> (TUN-1995-R-41788)</span><span class="title">Décret no 95-1510 du 21 août 1995 modifiant et complétant le décret no 86-626 du 14 juin 1986 fixant le statut particulier au corps administratif des postes, télégraphes et téléphones.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=40789">1995-06-19</a> (TUN-1995-R-40789)</span><span class="title">Décret no 95-1085 du 19 juin 1995 fixant les jours fériés donnant lieu à congé au profit des personnels de l'Etat, des collectivités locales et des établissements publics à caractère administratif.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=40790">1995-06-19</a> (TUN-1995-R-40790)</span><span class="title">Décret no 95-1086 du 19 juin 1995 portant modification du décret no 94-1706 du 15 août 1994 fixant les conditions générales de l'attribution de la note professionnelle et de la note de la prime de rendement aux personnels de l'Etat, des collectivités publiques locales et des établissements publics à caractère administratif</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=40791">1995-03-27</a> (TUN-1995-R-40791)</span><span class="title">Décret no 95-465 du 27 mars 1995 modifiant le décret no 88-460 du 25 mars 1988, fixant le régime des frais de stage à l'étranger applicable au personnel de l'Etat, des collectivités publiques locales, des établissements publics à caractère administratif et des entreprises publiques.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=40806">1995-02-20</a> (TUN-1995-R-40806)</span><span class="title">Décret no 95-304 du 20 février 1995 modifiant le décret no 85-267 du 15 février 1985, fixant le statut particulier au corps administratif commun des administrations publiques.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=40808">1995-02-20</a> (TUN-1995-R-40808)</span><span class="title">Décret no 95-307 du 20 février 1995 modifiant le décret no 88-217 du 16 février 1988, portant statut particulier au corps des personnels chargés du traitement automatique de l'informatique.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=40809">1995-02-20</a> (TUN-1995-R-40809)</span><span class="title">Décret no 95-308 du 20 février 1995 modifiant le décret no 90-1803 du 5 novembre 1990, fixant le statut particulier du personnel de secrétariat des administrations publiques.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=40817">1995-01-16</a> (TUN-1995-R-40817)</span><span class="title">Décret no 95-83 du 16 janvier 1995 relatif à l'exercice à titre professionnel d'une activité privée lucrative par les personnels de l'Etat, des collectivités publiques locales, des établissements publics à caractère administratif et des entreprises publiques.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=40847">1994-11-04</a> (TUN-1994-R-40847)</span><span class="title">Décret no 94-2322 du 14 novembre 1994 fixant les modalités d'application des dispositions relatives à la promotion au choix des fonctionnaires de l'Etat, des collectivités publiques locales et des établissements publics à caractère administratif.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=40828">1994-08-08</a> (TUN-1994-R-40828)</span><span class="title">Décret no 94-1701 du 8 août 1994 relatif au régime de travail des agents de contrôle phytosanitaire et vétérinaire relevant du ministère de l'Agriculture.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=40826">1994-07-18</a> (TUN-1994-R-40826)</span><span class="title">Décret no 94-1553 du 18 juillet 1994 modifiant et complétant le décret no 89-108 du 11 janvier 1989 fixant le statut particulier des personnels civils de l'enseignement supérieur militaire.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=27004">1990-12-31</a> (TUN-1990-R-27004)</span><span class="title">Décret no 90-2260 du 31 décembre 1990 portant statut particulier du corps des agents administratifs de la santé publique</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=21261">1990-12-10</a> (TUN-1990-R-21261)</span><span class="title">Décret no 90-2062 du 10 décembre 1990 portant statut particulier des personnels de l'inspection pédagogique de l'éducation spécialisée du ministère des affaires sociales.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=21262">1990-12-10</a> (TUN-1990-R-21262)</span><span class="title">Décret no 90-2063 du 10 décembre 1990 portant statut particulier des personnels de l'éducation spécialisée du ministère des Affaires sociales.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=21193">1990-11-05</a> (TUN-1990-R-21193)</span><span class="title">Décret no 90-1803 du 5 novembre 1990 fixant le statut particulier au corps du personnel de secrétariat des administrations publiques.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=33521">1990-10-29</a> (TUN-1990-R-33521)</span><span class="title">Décret no 90-1753 fixant les modalités d'organisation et de fonctionnement des commissions administratives paritaires.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=20109">1990-05-30</a> (TUN-1990-R-20109)</span><span class="title">Décret no 90-890 du 30 mai 1990 fixant le statut particulier des personnels du service social relevant du ministère des Affaires sociales.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=33524">1989-12-23</a> (TUN-1989-R-33524)</span><span class="title">Décret no 89-1957 fixant les attributions, la composition et le fonctionnement du Conseil supérieur de la fonction publique et de la réforme administrative.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=33533">1988-02-11</a> (TUN-1988-R-33533)</span><span class="title">Décret no 88-190 du 11 février 1988 fixant la composition et le fonctionnement des commissions médicales des congés de maladie de longue durée.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=33529">1987-12-31</a> (TUN-1987-R-33529)</span><span class="title">Décret no 87-1447 fixant les jours fériés donnant lieu à congé au profit des personnels de l'Etat, des collectivités publiques et des établissements publics à caractère administratif (tel que modifié en 1990 et 1991).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=33520">1985-06-17</a> (TUN-1985-R-33520)</span><span class="title">Décret no 85-838 relatif à l'exercice d'une activité privée lucrative par les personnes de l'Etat, des collectivités publiques locales et des établissements publics à caractère administratif.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=33528">1985-06-17</a> (TUN-1985-R-33528)</span><span class="title">Décret no 85-839 fixant le régime de l'exercice à mi-temps dans les administrations publiques, les collectivités publiques locales et les établissements publics à caractère administratif.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=33523">1985-02-15</a> (TUN-1985-R-33523)</span><span class="title">Décret no 85-261 portant définition des catégories auxquelles appartiennent les différents grades des fonctionnaires de l'Etat, des collectivités publiques locales et des établissements publics à caractère administratif.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=33530">1985-02-15</a> (TUN-1985-R-33530)</span><span class="title">Décret no 85-262 fixant les modalités d'application des dispositions relatives à la promotion au choix des fonctionnaires de l'Etat, des collectivités publiques et des établissements publics à caractère administratif.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=33544">1985-02-15</a> (TUN-1985-R-33544)</span><span class="title">Décret no 85-267 du 15 février 1985 fixant le statut particulier au corps administratif commun des administrations publiques.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=33659">1985-02-15</a> (TUN-1985-R-33659)</span><span class="title">Décret no 85-266 du 15 février 1985 relatif au congé post-natal.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=371">1984-01-31</a> (TUN-1984-M-371)</span><span class="title">Circulaire no 84-3 fixant les modalités d'application des dispositions de la loi no 83-112 du 12 décembre 1983, portant statut général des personnels de l'Etat des collectivités publiques locales et des établissements publics à caractère administratif.</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Related text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=97837">2014-10-03</a> (TUN-2014-R-97837)</span><span class="title">Décret n° 2014-4030 du 3 octobre 2014, portant approbation du code de conduite et de déontologie de l'agent public.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=92370">2013-01-11</a> (TUN-2013-R-92370)</span><span class="title">Décret n° 2013-304 du 11 janvier 2013, fixant le statut particulier du corps des travailleurs sociaux du ministère des affaires sociales.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=92371">2013-01-11</a> (TUN-2013-R-92371)</span><span class="title">Décret n° 2013-305 du 11 janvier 2013, fixant la concordance entre l'échelonnement des grades des travailleurs sociaux du ministère des affaires sociales et les niveaux de rémunération.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=87899">2011-05-07</a> (TUN-2011-R-87899)</span><span class="title">Décret n° 2011-483 du 7 mai 2011 fixant des dispositions exceptionnelles relatives aux agents et ouvriers temporaires ainsi que les agents contractuels de l'Etat, des collectivités
+locales et des établissements publiques à caractère administratif.</span></li></ul>
+        </td>
+     </tr>
+							</table>
+						
+							<br class="clearfix">
+				
+							<div class="horizontalBar"></div> 
+							<!--<div class="clearfix last"></div>-->
+						</div> <!-- end of colMain  -->			
+					</div> <!-- end of container575 -->
+					<div class="clearfix last"></div>
+				</div> <!-- end of container780 -->
+			</div> <!-- end of containerBody -->
+		</div> <!-- end of bodyWrapper -->	
+		<div class="clearBoth"></div>
+		<div id="containerFooter">
+			
+<!--start include ILOfooter.htm-->
+        <div id="endFooter">
+            &copy; <a target="" href="http://www.ilo.org/global/copyright/lang--en/index.htm">Copyright and permissions</a> 1996-2014 International Labour Organization (ILO) | <a href="http://www.ilo.org/global/privacy-policy/lang--en/index.htm" target="">Privacy policy</a> | <a target="" href="http://www.ilo.org/global/disclaimer/lang--en/index.htm">Disclaimer</a><br>&nbsp;
+        </div>
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    </script>
+        
+
+<!--end include ILOfooter.htm-->
+
+			
+<!--start include script-search.htm-->
+
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    
+    </script>
+
+<!--end include script-search.htm-->
+
+		</div>	<!-- end of containerFooter -->
+	</div>
+<!-- begin analytics tracking -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4747079-1");
+pageTracker._trackPageview();
+</script>
+<!-- end analytics tracking -->
+
+</body>
+
+</html>

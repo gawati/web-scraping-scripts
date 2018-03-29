@@ -1,0 +1,249 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html dir="ltr">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="type">
+	<meta NAME="description" content="NATLEX, the ILO's database featuring national laws on: labour, social security and related human rights">
+	<meta name="keywords" content="">
+	<title>Swaziland - Environmental Management Act 2002 (Act No. 5 of 2002).</title>
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global-normlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex-print.css" rel="stylesheet" type="text/css">
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie.css">
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie-normlex.css">
+	<![endif]-->
+	<link  href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.min.css" rel="stylesheet" type="text/css">
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/jquery-1.7.2.min.js"type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/newWin.js" type="text/javascript"></script>
+                       <script language="JavaScript" src="/webcommon/dyn/images/natlex/newin.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.jquery.min.js" type="text/javascript"></script>
+</head>
+
+<body> 
+	<a name="top"></a>
+	<div id="ieHack" class="global-settings"> 
+		
+<!--start include ILOsupplementary.htm-->
+<div id="supplementaryMenu">
+    <div id="miniLanguages"><a href="/dyn/natlex/natlex4.home">English</a> | <a href="/dyn/natlex/natlex4.home?p_lang=fr">Fran&ccedil;ais</a> | <a href="/dyn/natlex/natlex4.home?p_lang=es">Espa&ntilde;ol</a></div>
+    <div id="un"><strong>ILO is a </strong><a target="_blank" href="http://www.un.org/en/aboutun/structure/index.shtml" class="externalLink"><strong>United Nations Agency</strong><span id="externalLink"></span></a></div>
+    <div id="miniTools"><img alt="rss11" src="http://www.ilo.org/webcommon/dyn/images/normlex/resources/images/rss11.png">&nbsp;<a target="" href="http://www.ilo.org/global/rss-feeds/lang--en/index.htm">RSS Feed</a> | <a href="http://www.ilo.org/global/about-the-ilo/press-and-media-centre/lang--en/index.htm" target="">Media centre</a> | <a target="" href="http://www.ilo.org/global/contact-us/lang--en/index.htm">Contact us</a></div>
+    <div class="clearfix"></div>
+</div>
+
+<!--end include ILOsupplementary.htm-->
+
+		<div id="bodyWrapper" class="language">  <!-- id to define width and left/right reading languages -->
+			<div id="containerHeader">
+				
+<!--start include ILOhead.htm-->
+<div class="clearfix"></div>
+                <div id="headerWrapper">
+                    <span id="logo"><a href="http://www.ilo.org/global/lang--en/index.htm"><img alt="International Labour Organization" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046345.gif" /></a></span>
+                    <span id="strapline"><img alt="Promoting jobs, protecting people" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046346.gif" /></span>
+                    <span id="searchGlobal">
+                    <!-- <form name="searchFast_up" action="http://www.ilo.org/Search3/search.do" method="post" class="forms">
+                    <input type="hidden" id="sitelang" name="sitelang" value="en" />  <input type="hidden" name="consumercode" value="ILOHQ_STELLENT_PUBLIC" /><input id="search" class="search1" type="text" name="query" rel="Search ilo.org" value="Search ilo.org"> <input type="submit" name="searchbuttop" class="buttflex" onclick="javascript:document.searchFast_up.submit();" />
+                    </form> -->
+
+                    <script type="text/javascript">
+                    var srch_default_value = 'Search ilo.org'; // default value
+                    if (document.getElementById("search")){
+                    if (!document.getElementById("search").value) {
+                    document.getElementById("search").value = srch_default_value;
+                    }
+                    document.getElementById("search").onfocus = function() {
+                    if (this.value == srch_default_value) {
+                    this.value = '';
+                    }
+                    this.onblur = function() {
+                    if (this.value == '') {
+                    this.value = srch_default_value;
+                    }
+                    }
+                    }
+                    }
+                    </script>
+                    </span> 
+                </div>
+                <div class="clearfix"></div>
+                <div id="navMainWrapper">                   
+                    <ol><li class="listItemStart first"><a href="http://www.ilo.org/global/about-the-ilo/lang--en/index.htm" class="">About the ILO</a></li><li><a href="http://www.ilo.org/global/topics/lang--en/index.htm" class="">Topics</a></li><li><a href="http://www.ilo.org/global/regions/lang--en/index.htm" class="">Regions</a></li><li><a href="http://www.ilo.org/global/meetings-and-events/lang--en/index.htm" class="">Meetings and events</a></li><li><a href="http://www.ilo.org/global/publications/lang--en/index.htm" class="">Publications</a></li><li><a href="http://www.ilo.org/global/research/lang--en/index.htm" class="">Research</a></li><li><a href="http://www.ilo.org/global/standards/lang--en/index.htm" class="selected">Labour standards</a></li><li class="listItemEnd"><a href="http://www.ilo.org/global/statistics-and-databases/lang--en/index.htm" class="">Statistics and databases</a></li></ol>
+                </div>
+                <div class="clearfix"></div>
+<!--end include ILOhead.htm-->
+
+			</div> <!-- end of containerHeader -->
+			<div id="containerBody">
+			
+			 <div id="regions">
+				<span><a href="http://www.ilo.org/webcommon/dyn/images/natlex4/home.htm">NATLEX</a></span>
+				<div id="offices">Database of national labour, social security and related human rights legislation</div>
+		      </div>
+				
+				<!-- ************* LEFT COLUMN ******************* -->
+				<div class="container145 floatLeft">
+					<div id="colLeft">
+						
+<!--start include mainMenu-country.htm-->
+                        <div id="contextMenu">
+                            <dl>
+                                <dt class="contextMenu-2"><a href="natlex4.home?p_lang=en">NATLEX home</a></dt>
+                                <dt class="contextMenu-focus-2"><a href="natlex4.byCountry?p_lang=en">Browse by country</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.bySubject?p_lang=en">Browse by subject</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.recent?p_lang=en">Recent important additions to NATLEX</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.search?p_lang=en">Search</a></dt>
+                            </dl>
+                        </div> <!-- end of contextMenu -->
+<!--end include mainMenu-country.htm-->
+					
+					</div> <!-- end of colLeft -->	
+				</div> <!-- end of containerLeft -->
+				
+				<!-- ************* MAIN COLUMN ******************* -->
+				<div class="container780">
+				<div class="horizontalBar content"></div>
+					
+					<!-- *** Title type breadcrumb *** -->
+					<div id="heading">
+						<h1 id="page-title">Swaziland <em></em></a> &gt;  <em></em></a></h1>
+					</div>
+					
+					<!-- *** RIGHT COLUMN *** -->
+					<div class="container190 floatRight">
+						<div id="colRight">
+							
+
+							
+						</div> <!-- end of colRight -->
+					</div> <!-- end of container190 -->
+					
+					<!-- *** CENTRAL COLUMN *** -->
+					<div class="container575">
+						<div id="colMain">
+						
+							<table class="page" cellspacing="0">
+							<!-- #BeginEditable "DATA-ORIGINAL-NAME" --><!-- #EndEditable -->
+							<tr>
+                <td class="label">Name:</td>
+                <td>Environmental Management Act 2002 (Act No. 5 of 2002).</td>
+               </tr>
+							<tr>
+                <td class="label">Country:</td>
+                <td><strong>Swaziland</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Subject(s):</td>
+                <td><strong>General provisions</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Type of legislation:</td>
+                <td>Law, Act</td>
+               </tr>
+							<tr>
+                <td class="label">Adopted on:</td>
+                <td>2002</td>
+               </tr>
+							<tr>
+								<td class="label"><!-- #BeginEditable "LABEL-ENTRY-FORCE-DATE" -->Entry into force<!-- #EndEditable -->:</td>
+								<td><!-- #BeginEditable "DATA-ENTRY-FORCE-DATE" --> <!-- #EndEditable --></td>
+							</tr>
+							<!-- #BeginEditable "DATA-PUBLICATION-DATE" --><!-- #EndEditable -->
+							<tr>
+                <td class="label">ISN:</td>
+                <td>SWZ-2002-L-85998</td>
+               </tr>
+							<tr>
+                <td class="label">Bibliography:</td>
+                <td><a href="http://faolex.fao.org/" onclick="return popup(this, 'notes')" title="Act on-line">Act on-line <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="Act on-line"></a> Food and Agriculture Organization of the United Nations, FAOLEX <a href="docs/ELECTRONIC/85998/96683/F1235516944/SWZ85998.pdf" onclick="return popup(this, 'notes')" title="PDF">PDF <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="PDF" /></a> <font size="1">(consulted on 2011-02-21)</font><br></td>
+               </tr>
+							<tr>
+                <td class="label">Abstract/Citation:</td>
+                <td>The objectives of this Act are to establish a framework for environmental protection and the integrated management of natural resources on a sustainable basis; to transform the Swaziland Environment Authority into a body corporate, to establish the Swaziland Environment Fund; and to provide for various other matters to environment protection.<br>The Act consists of 90 sections divided into 11 Parts: Introductory Provisions (I); Fundamental Purpose and Principles (II); Administration (III); Integrated Environmental Management (IV); Pollution Control (V); Waste Management (VI); International Matters (VII): Public Participation (VIII); Compliance and Enforcement (IX); Reviews and Appeals (X); General and Transitional (XI).<br>Section 5 defines environmental principles. Any person or body exercising powers or functions or making decisions under this Act shall give effect to the purpose of this Act and the principles listed in section 5. Within twelve months of the entry into force of this Act, each Cabinet Minister shall ensure that an Environmental Management Strategy for each Government Ministry for which the Cabinet Minister is responsible, is prepared and submitted to the Swaziland Environment Authority for approval (sect. 7). Section 8 defines powers of the Minister responsible for the environment. The Swaziland Environment Authority is established as a body corporate and shall be the successor of Swaziland Environment Authority established under the Swaziland Environment Authority Act, 1992. Functions of the Authority are set out in section 12. The Authority has a Management Board which is the governing body of the Authority. The Minister, in consultation with the Board, shall appoint a Director of the Authority (sect. 17). The Swaziland Environment Fund is established as a body corporate under section 20. Objects of the Fund are set out in section 23. The Minister shall every two years, publish a State of the Environment Report in accordance with section 29 and the Authority shall, within two years of this Act coming into force and every five years thereafter, prepare and publish a National Environmental Action Plan in accordance with section 30. Section 31 concerns Strategic Environmental Assessments of proposed legislation. Section 32 provides for environmental impact assessment. Waste management functions of the Authority are defined in section 44 and the role of Local Authorities in waste management in section 45. The Authority shall create and maintain an environmental information registry under Part VIII (sect. 50). Section 53 provides for public hearings. Any person may pursuant to section 56 request the Director to issue an order under this Act i.e. a Prevention Order (sect. 63), Protection Order (sect. 64), an Emergency Protection Order (sect. 65), a Compliance Order (sect. 66), or a Cost Order (sect. 67). Section 57 provides for prosecutions initiated by the public and section 58 for civil actions. The Minister may, by notice in the Gazette, issue codes of practice for the purposes of this Act under section 88.</td>
+               </tr>
+							</tr>
+
+							</table>
+						
+							<br class="clearfix">
+				
+							<div class="horizontalBar"></div> 
+							<!--<div class="clearfix last"></div>-->
+						</div> <!-- end of colMain  -->			
+					</div> <!-- end of container575 -->
+					<div class="clearfix last"></div>
+				</div> <!-- end of container780 -->
+			</div> <!-- end of containerBody -->
+		</div> <!-- end of bodyWrapper -->	
+		<div class="clearBoth"></div>
+		<div id="containerFooter">
+			
+<!--start include ILOfooter.htm-->
+        <div id="endFooter">
+            &copy; <a target="" href="http://www.ilo.org/global/copyright/lang--en/index.htm">Copyright and permissions</a> 1996-2014 International Labour Organization (ILO) | <a href="http://www.ilo.org/global/privacy-policy/lang--en/index.htm" target="">Privacy policy</a> | <a target="" href="http://www.ilo.org/global/disclaimer/lang--en/index.htm">Disclaimer</a><br>&nbsp;
+        </div>
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    </script>
+        
+
+<!--end include ILOfooter.htm-->
+
+			
+<!--start include script-search.htm-->
+
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    
+    </script>
+
+<!--end include script-search.htm-->
+
+		</div>	<!-- end of containerFooter -->
+	</div>
+<!-- begin analytics tracking -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4747079-1");
+pageTracker._trackPageview();
+</script>
+<!-- end analytics tracking -->
+
+</body>
+
+</html>
