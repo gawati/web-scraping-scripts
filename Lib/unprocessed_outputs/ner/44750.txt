@@ -1,0 +1,269 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html dir="ltr">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="type">
+	<meta NAME="description" content="NATLEX, the ILO's database featuring national laws on: labour, social security and related human rights">
+	<meta name="keywords" content="">
+	<title>Niger - Ordonnance n° 96-039 du 29 juin 1996 portant Code du travail au Niger.</title>
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global-normlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex-print.css" rel="stylesheet" type="text/css">
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie.css">
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie-normlex.css">
+	<![endif]-->
+	<link  href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.min.css" rel="stylesheet" type="text/css">
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/jquery-1.7.2.min.js"type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/newWin.js" type="text/javascript"></script>
+                       <script language="JavaScript" src="/webcommon/dyn/images/natlex/newin.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.jquery.min.js" type="text/javascript"></script>
+</head>
+
+<body> 
+	<a name="top"></a>
+	<div id="ieHack" class="global-settings"> 
+		
+<!--start include ILOsupplementary.htm-->
+<div id="supplementaryMenu">
+    <div id="miniLanguages"><a href="/dyn/natlex/natlex4.home">English</a> | <a href="/dyn/natlex/natlex4.home?p_lang=fr">Fran&ccedil;ais</a> | <a href="/dyn/natlex/natlex4.home?p_lang=es">Espa&ntilde;ol</a></div>
+    <div id="un"><strong>ILO is a </strong><a target="_blank" href="http://www.un.org/en/aboutun/structure/index.shtml" class="externalLink"><strong>United Nations Agency</strong><span id="externalLink"></span></a></div>
+    <div id="miniTools"><img alt="rss11" src="http://www.ilo.org/webcommon/dyn/images/normlex/resources/images/rss11.png">&nbsp;<a target="" href="http://www.ilo.org/global/rss-feeds/lang--en/index.htm">RSS Feed</a> | <a href="http://www.ilo.org/global/about-the-ilo/press-and-media-centre/lang--en/index.htm" target="">Media centre</a> | <a target="" href="http://www.ilo.org/global/contact-us/lang--en/index.htm">Contact us</a></div>
+    <div class="clearfix"></div>
+</div>
+
+<!--end include ILOsupplementary.htm-->
+
+		<div id="bodyWrapper" class="language">  <!-- id to define width and left/right reading languages -->
+			<div id="containerHeader">
+				
+<!--start include ILOhead.htm-->
+<div class="clearfix"></div>
+                <div id="headerWrapper">
+                    <span id="logo"><a href="http://www.ilo.org/global/lang--en/index.htm"><img alt="International Labour Organization" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046345.gif" /></a></span>
+                    <span id="strapline"><img alt="Promoting jobs, protecting people" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046346.gif" /></span>
+                    <span id="searchGlobal">
+                    <!-- <form name="searchFast_up" action="http://www.ilo.org/Search3/search.do" method="post" class="forms">
+                    <input type="hidden" id="sitelang" name="sitelang" value="en" />  <input type="hidden" name="consumercode" value="ILOHQ_STELLENT_PUBLIC" /><input id="search" class="search1" type="text" name="query" rel="Search ilo.org" value="Search ilo.org"> <input type="submit" name="searchbuttop" class="buttflex" onclick="javascript:document.searchFast_up.submit();" />
+                    </form> -->
+
+                    <script type="text/javascript">
+                    var srch_default_value = 'Search ilo.org'; // default value
+                    if (document.getElementById("search")){
+                    if (!document.getElementById("search").value) {
+                    document.getElementById("search").value = srch_default_value;
+                    }
+                    document.getElementById("search").onfocus = function() {
+                    if (this.value == srch_default_value) {
+                    this.value = '';
+                    }
+                    this.onblur = function() {
+                    if (this.value == '') {
+                    this.value = srch_default_value;
+                    }
+                    }
+                    }
+                    }
+                    </script>
+                    </span> 
+                </div>
+                <div class="clearfix"></div>
+                <div id="navMainWrapper">                   
+                    <ol><li class="listItemStart first"><a href="http://www.ilo.org/global/about-the-ilo/lang--en/index.htm" class="">About the ILO</a></li><li><a href="http://www.ilo.org/global/topics/lang--en/index.htm" class="">Topics</a></li><li><a href="http://www.ilo.org/global/regions/lang--en/index.htm" class="">Regions</a></li><li><a href="http://www.ilo.org/global/meetings-and-events/lang--en/index.htm" class="">Meetings and events</a></li><li><a href="http://www.ilo.org/global/publications/lang--en/index.htm" class="">Publications</a></li><li><a href="http://www.ilo.org/global/research/lang--en/index.htm" class="">Research</a></li><li><a href="http://www.ilo.org/global/standards/lang--en/index.htm" class="selected">Labour standards</a></li><li class="listItemEnd"><a href="http://www.ilo.org/global/statistics-and-databases/lang--en/index.htm" class="">Statistics and databases</a></li></ol>
+                </div>
+                <div class="clearfix"></div>
+<!--end include ILOhead.htm-->
+
+			</div> <!-- end of containerHeader -->
+			<div id="containerBody">
+			
+			 <div id="regions">
+				<span><a href="http://www.ilo.org/webcommon/dyn/images/natlex4/home.htm">NATLEX</a></span>
+				<div id="offices">Database of national labour, social security and related human rights legislation</div>
+		      </div>
+				
+				<!-- ************* LEFT COLUMN ******************* -->
+				<div class="container145 floatLeft">
+					<div id="colLeft">
+						
+<!--start include mainMenu-country.htm-->
+                        <div id="contextMenu">
+                            <dl>
+                                <dt class="contextMenu-2"><a href="natlex4.home?p_lang=en">NATLEX home</a></dt>
+                                <dt class="contextMenu-focus-2"><a href="natlex4.byCountry?p_lang=en">Browse by country</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.bySubject?p_lang=en">Browse by subject</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.recent?p_lang=en">Recent important additions to NATLEX</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.search?p_lang=en">Search</a></dt>
+                            </dl>
+                        </div> <!-- end of contextMenu -->
+<!--end include mainMenu-country.htm-->
+					
+					</div> <!-- end of colLeft -->	
+				</div> <!-- end of containerLeft -->
+				
+				<!-- ************* MAIN COLUMN ******************* -->
+				<div class="container780">
+				<div class="horizontalBar content"></div>
+					
+					<!-- *** Title type breadcrumb *** -->
+					<div id="heading">
+						<h1 id="page-title">Niger <em></em></a> &gt;  <em></em></a></h1>
+					</div>
+					
+					<!-- *** RIGHT COLUMN *** -->
+					<div class="container190 floatRight">
+						<div id="colRight">
+							
+
+							
+						</div> <!-- end of colRight -->
+					</div> <!-- end of container190 -->
+					
+					<!-- *** CENTRAL COLUMN *** -->
+					<div class="container575">
+						<div id="colMain">
+						
+							<table class="page" cellspacing="0">
+							<!-- #BeginEditable "DATA-ORIGINAL-NAME" --><!-- #EndEditable -->
+							<tr>
+                <td class="label">Name:</td>
+                <td>Ordonnance n° 96-039 du 29 juin 1996 portant Code du travail au Niger.</td>
+               </tr>
+							<tr>
+                <td class="label">Country:</td>
+                <td><strong>Niger</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Subject(s):</td>
+                <td><strong>Labour codes, general labour and employment acts</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Type of legislation:</td>
+                <td>Law, Act</td>
+               </tr>
+							<tr>
+                <td class="label">Adopted on:</td>
+                <td>1996-06-29</td>
+               </tr>
+							<tr>
+								<td class="label"><!-- #BeginEditable "LABEL-ENTRY-FORCE-DATE" -->Entry into force<!-- #EndEditable -->:</td>
+								<td><!-- #BeginEditable "DATA-ENTRY-FORCE-DATE" --> <!-- #EndEditable --></td>
+							</tr>
+							<!-- #BeginEditable "DATA-PUBLICATION-DATE" --><!-- #EndEditable -->
+							<tr>
+                <td class="label">ISN:</td>
+                <td>NER-1996-L-44750</td>
+               </tr>
+							<tr>
+                <td class="label">Bibliography:</td>
+                <td>Code du Travail, 2000, Ministere du Travail et de la Modernisation de l'Administration, Niger, 139 p.<br>Recueil des lois sociales, BIT/PAMODEC, Niger, Edition 2005, pp. 31-119<br><a href="http://www.tagumjoel.com/ct_niger1.html" onclick="return popup(this, 'notes')" title="Code du travail">Code du travail <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="Code du travail"></a> Le coin du droit africain, Niger <font size="1">(consulted on 2011-06-17)</font><br></td>
+               </tr>
+							<tr>
+                <td class="label">Abstract/Citation:</td>
+                <td>Titre I - Dispositions générales - Le travail forcé est interdit et le principe du droit au travail sans discrimination aucune, confirmé. Titre II - Emploi et formation professionnelle - Service public de l'emploi, bureau de placement privé et entreprise de travail temporaire sont définis ainsi que les contrats d'apprentissage et de travail. Titre III - Conditions et rémunération du travail - Concernent notamment la durée du travail, le travail de nuit et des enfants, la protection de la femme et de la maternité; l'hygiène, la sécurité et la santé au travail; sont également traités les éléments constitutifs du salaire et ses garanties. Titre IV - Représentation professionnelle et négociation collective - La liberté syndicale, l'interdiction du prélèvement automatique des cotisations syndicales, les délégués du personnel et les conventions collectives font l'objet de dispositions détaillées. Titre V - Contrôles et instances relatives au travail - Visent les domaines d'intervention de l'inspection du travail et du service public de l'emploi. Titre VI - Différends de travail - Fixent, d'une part, la composition et le fonctionnement du tribunal du travail; d'autre part, les modalités de recours à la grève. Titre VII - Pénalités</td>
+               </tr>
+							</tr>
+<tr>
+        <td class="label"><strong>Repealing text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=91382">2012-09-25</a> (NER-2012-L-91382)</span><span class="title">Loi n° 2012-45 du 25 septembre 2012 portant Code du travail de la République du Niger.</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Repealed text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=39669">1962-07-13</a> (NER-1962-L-39669)</span><span class="title">Loi no 62-12 du 13 juillet 1962 instituant un Code du Travail de la République du Niger.</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Implementing text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=51728">1996-11-09</a> (NER-1996-R-51728)</span><span class="title">Décret n° 96-444/PRN/MFPT/E du 9 novembre 1996 portant attributions et organisation de l'Inspection générale de la médecine du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=51729">1996-11-04</a> (NER-1996-R-51729)</span><span class="title">Décret n° 96-413/PRN/MFPT/E du 4 novembre 1996 déterminant les conditions de forme de certains contrats de travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=51730">1996-11-04</a> (NER-1996-R-51730)</span><span class="title">Décret n° 96-412/PRN/MEF/P du 4 novembre 1996 portant réglementation du travail temporaire.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=51731">1996-11-04</a> (NER-1996-R-51731)</span><span class="title">Décret n° 96-411/PRN/MFPT/E du 4 novembre 1996 fixant l'organisation et le fonctionnement des services de l'Inspection du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=51732">1996-11-04</a> (NER-1996-R-51732)</span><span class="title">Décret n° 96-409/PRN/MFPT/E du 4 novembre 1996 portant modalités de la déclaration d'embauche.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=51733">1996-11-04</a> (NER-1996-R-51733)</span><span class="title">Décret n° 96-408/PRN/MFPT/E du 4 novembre 1996 portant modalités de création, d'organisation et de fonctionnement de Comités de santé et de sécurité au travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=51734">1996-11-04</a> (NER-1996-R-51734)</span><span class="title">Décret n° 96-407/PRN/MFPT/E du 4 novembre 1996 portant organisation et fonctionnement de la Commission consultative du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=51735">1996-11-04</a> (NER-1996-R-51735)</span><span class="title">Décret n° 96-406/PRN/MFPT/E du 4 novembre 1996 déterminant les conditions de création et d'ouverture des bureaux ou offices privés de placement.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=51736">1996-11-04</a> (NER-1996-R-51736)</span><span class="title">Décret n° 96-405/PRN/MFPT/E du 4 novembre 1996 portant approbation des statuts de l'Agence nationale pour la promotion de l'emploi (ANPE).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=68213">1996-11-04</a> (NER-1996-R-68213)</span><span class="title">Décret n° 96-40/PRN/MFPT/E du 4 novembre 1996 portant modalités de remboursement des frais de transport et des salaires et fixant le montant de l'indemnité de sujétion à allouer aux assesseurs des tribunaux du travail.</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Related text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=86487">2003-06-02</a> (NER-2003-R-86487)</span><span class="title">Arrêté n° 0825 du 2 juin 2003 portant création d'un comité national tripartite chargé de la mise en oeuvre des recommandations des journées de réflexion sur le droit de grève et la représentativité des organisations professionnelles.</span></li></ul>
+        </td>
+     </tr>
+							</table>
+						
+							<br class="clearfix">
+				
+							<div class="horizontalBar"></div> 
+							<!--<div class="clearfix last"></div>-->
+						</div> <!-- end of colMain  -->			
+					</div> <!-- end of container575 -->
+					<div class="clearfix last"></div>
+				</div> <!-- end of container780 -->
+			</div> <!-- end of containerBody -->
+		</div> <!-- end of bodyWrapper -->	
+		<div class="clearBoth"></div>
+		<div id="containerFooter">
+			
+<!--start include ILOfooter.htm-->
+        <div id="endFooter">
+            &copy; <a target="" href="http://www.ilo.org/global/copyright/lang--en/index.htm">Copyright and permissions</a> 1996-2014 International Labour Organization (ILO) | <a href="http://www.ilo.org/global/privacy-policy/lang--en/index.htm" target="">Privacy policy</a> | <a target="" href="http://www.ilo.org/global/disclaimer/lang--en/index.htm">Disclaimer</a><br>&nbsp;
+        </div>
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    </script>
+        
+
+<!--end include ILOfooter.htm-->
+
+			
+<!--start include script-search.htm-->
+
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    
+    </script>
+
+<!--end include script-search.htm-->
+
+		</div>	<!-- end of containerFooter -->
+	</div>
+<!-- begin analytics tracking -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4747079-1");
+pageTracker._trackPageview();
+</script>
+<!-- end analytics tracking -->
+
+</body>
+
+</html>

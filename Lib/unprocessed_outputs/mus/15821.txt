@@ -1,0 +1,270 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html dir="ltr">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="type">
+	<meta NAME="description" content="NATLEX, the ILO's database featuring national laws on: labour, social security and related human rights">
+	<meta name="keywords" content="">
+	<title>Mauritius - Industrial Relations Act 1973.</title>
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global-normlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex-print.css" rel="stylesheet" type="text/css">
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie.css">
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie-normlex.css">
+	<![endif]-->
+	<link  href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.min.css" rel="stylesheet" type="text/css">
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/jquery-1.7.2.min.js"type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/newWin.js" type="text/javascript"></script>
+                       <script language="JavaScript" src="/webcommon/dyn/images/natlex/newin.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.jquery.min.js" type="text/javascript"></script>
+</head>
+
+<body> 
+	<a name="top"></a>
+	<div id="ieHack" class="global-settings"> 
+		
+<!--start include ILOsupplementary.htm-->
+<div id="supplementaryMenu">
+    <div id="miniLanguages"><a href="/dyn/natlex/natlex4.home">English</a> | <a href="/dyn/natlex/natlex4.home?p_lang=fr">Fran&ccedil;ais</a> | <a href="/dyn/natlex/natlex4.home?p_lang=es">Espa&ntilde;ol</a></div>
+    <div id="un"><strong>ILO is a </strong><a target="_blank" href="http://www.un.org/en/aboutun/structure/index.shtml" class="externalLink"><strong>United Nations Agency</strong><span id="externalLink"></span></a></div>
+    <div id="miniTools"><img alt="rss11" src="http://www.ilo.org/webcommon/dyn/images/normlex/resources/images/rss11.png">&nbsp;<a target="" href="http://www.ilo.org/global/rss-feeds/lang--en/index.htm">RSS Feed</a> | <a href="http://www.ilo.org/global/about-the-ilo/press-and-media-centre/lang--en/index.htm" target="">Media centre</a> | <a target="" href="http://www.ilo.org/global/contact-us/lang--en/index.htm">Contact us</a></div>
+    <div class="clearfix"></div>
+</div>
+
+<!--end include ILOsupplementary.htm-->
+
+		<div id="bodyWrapper" class="language">  <!-- id to define width and left/right reading languages -->
+			<div id="containerHeader">
+				
+<!--start include ILOhead.htm-->
+<div class="clearfix"></div>
+                <div id="headerWrapper">
+                    <span id="logo"><a href="http://www.ilo.org/global/lang--en/index.htm"><img alt="International Labour Organization" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046345.gif" /></a></span>
+                    <span id="strapline"><img alt="Promoting jobs, protecting people" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046346.gif" /></span>
+                    <span id="searchGlobal">
+                    <!-- <form name="searchFast_up" action="http://www.ilo.org/Search3/search.do" method="post" class="forms">
+                    <input type="hidden" id="sitelang" name="sitelang" value="en" />  <input type="hidden" name="consumercode" value="ILOHQ_STELLENT_PUBLIC" /><input id="search" class="search1" type="text" name="query" rel="Search ilo.org" value="Search ilo.org"> <input type="submit" name="searchbuttop" class="buttflex" onclick="javascript:document.searchFast_up.submit();" />
+                    </form> -->
+
+                    <script type="text/javascript">
+                    var srch_default_value = 'Search ilo.org'; // default value
+                    if (document.getElementById("search")){
+                    if (!document.getElementById("search").value) {
+                    document.getElementById("search").value = srch_default_value;
+                    }
+                    document.getElementById("search").onfocus = function() {
+                    if (this.value == srch_default_value) {
+                    this.value = '';
+                    }
+                    this.onblur = function() {
+                    if (this.value == '') {
+                    this.value = srch_default_value;
+                    }
+                    }
+                    }
+                    }
+                    </script>
+                    </span> 
+                </div>
+                <div class="clearfix"></div>
+                <div id="navMainWrapper">                   
+                    <ol><li class="listItemStart first"><a href="http://www.ilo.org/global/about-the-ilo/lang--en/index.htm" class="">About the ILO</a></li><li><a href="http://www.ilo.org/global/topics/lang--en/index.htm" class="">Topics</a></li><li><a href="http://www.ilo.org/global/regions/lang--en/index.htm" class="">Regions</a></li><li><a href="http://www.ilo.org/global/meetings-and-events/lang--en/index.htm" class="">Meetings and events</a></li><li><a href="http://www.ilo.org/global/publications/lang--en/index.htm" class="">Publications</a></li><li><a href="http://www.ilo.org/global/research/lang--en/index.htm" class="">Research</a></li><li><a href="http://www.ilo.org/global/standards/lang--en/index.htm" class="selected">Labour standards</a></li><li class="listItemEnd"><a href="http://www.ilo.org/global/statistics-and-databases/lang--en/index.htm" class="">Statistics and databases</a></li></ol>
+                </div>
+                <div class="clearfix"></div>
+<!--end include ILOhead.htm-->
+
+			</div> <!-- end of containerHeader -->
+			<div id="containerBody">
+			
+			 <div id="regions">
+				<span><a href="http://www.ilo.org/webcommon/dyn/images/natlex4/home.htm">NATLEX</a></span>
+				<div id="offices">Database of national labour, social security and related human rights legislation</div>
+		      </div>
+				
+				<!-- ************* LEFT COLUMN ******************* -->
+				<div class="container145 floatLeft">
+					<div id="colLeft">
+						
+<!--start include mainMenu-country.htm-->
+                        <div id="contextMenu">
+                            <dl>
+                                <dt class="contextMenu-2"><a href="natlex4.home?p_lang=en">NATLEX home</a></dt>
+                                <dt class="contextMenu-focus-2"><a href="natlex4.byCountry?p_lang=en">Browse by country</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.bySubject?p_lang=en">Browse by subject</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.recent?p_lang=en">Recent important additions to NATLEX</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.search?p_lang=en">Search</a></dt>
+                            </dl>
+                        </div> <!-- end of contextMenu -->
+<!--end include mainMenu-country.htm-->
+					
+					</div> <!-- end of colLeft -->	
+				</div> <!-- end of containerLeft -->
+				
+				<!-- ************* MAIN COLUMN ******************* -->
+				<div class="container780">
+				<div class="horizontalBar content"></div>
+					
+					<!-- *** Title type breadcrumb *** -->
+					<div id="heading">
+						<h1 id="page-title">Mauritius <em></em></a> &gt;  <em></em></a></h1>
+					</div>
+					
+					<!-- *** RIGHT COLUMN *** -->
+					<div class="container190 floatRight">
+						<div id="colRight">
+							
+
+							
+						</div> <!-- end of colRight -->
+					</div> <!-- end of container190 -->
+					
+					<!-- *** CENTRAL COLUMN *** -->
+					<div class="container575">
+						<div id="colMain">
+						
+							<table class="page" cellspacing="0">
+							<!-- #BeginEditable "DATA-ORIGINAL-NAME" --><!-- #EndEditable -->
+							<tr>
+                <td class="label">Name:</td>
+                <td>Industrial Relations Act 1973.</td>
+               </tr>
+							<tr>
+                <td class="label">Country:</td>
+                <td><strong>Mauritius</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Subject(s):</td>
+                <td><strong>Freedom of association, collective bargaining and industrial relations</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Type of legislation:</td>
+                <td>Law, Act</td>
+               </tr>
+							<tr>
+                <td class="label">Adopted on:</td>
+                <td>1973-12-24</td>
+               </tr>
+							<tr>
+								<td class="label"><!-- #BeginEditable "LABEL-ENTRY-FORCE-DATE" -->Entry into force<!-- #EndEditable -->:</td>
+								<td><!-- #BeginEditable "DATA-ENTRY-FORCE-DATE" --> <!-- #EndEditable --></td>
+							</tr>
+							<tr>
+                <td class="label">Published on:</td>
+                <td>Government Gazette, 1973-12-24, Legal Supplement<br></td>
+               </tr>
+							<tr>
+                <td class="label">ISN:</td>
+                <td>MUS-1973-L-15821</td>
+               </tr>
+							<tr>
+                <td class="label">Bibliography:</td>
+                <td>Government Gazette, 1973-12-24, Legal Supplement<br>Labour Laws of Mauritius, 1992, L. E. Venchard, Best Graphics, Mauritius, 3rd ed.<br>The Industrial Relations Act 1973 and subsequent amendments, 1977, The Government Printer<br><a href="http://www.gov.mu/portal/site/laboursite/menuitem.bedbe35e54028abb93347524e2b521ca/" onclick="return popup(this, 'notes')" title="Act (as amended up to 2003)">Act (as amended up to 2003) <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="Act (as amended up to 2003)"></a> Ministry of Labour, Industrial Relations and Employment, Mauritius <font size="1">(consulted on 2005-07-18)</font><br></td>
+               </tr>
+							<tr>
+                <td class="label">Abstract/Citation:</td>
+                <td>An Act to amend and consolidate the law relating to trade unions and the settlement of industrial disputes; to promote harmonious industrial relations; to provide for the establishment of a Permanent Arbitration Tribunal, an Industrial Relations Commission and a National Remuneration Board and to provide for matters connected with and incidental to these purposes. No. 67. Repeals the Trade Union Ordinance 1954 (No. 36 of 1954), the Trade Disputes Ordinance 1965 (LS 1965 - Maur. 1) and the Regulation of Wages and Conditions of Employment Ordinance 1961 (No. 71 of 1961).</td>
+               </tr>
+							</tr>
+<tr>
+        <td class="label"><strong>Repealing text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=79923">2008-09-19</a> (MUS-2008-L-79923)</span><span class="title">Employment Relations Act 2008 (Act No. 32 of 2008).</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Amending text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=65391">2003-06-16</a> (MUS-2003-L-65391)</span><span class="title">Industrial Relations (Amendment) Act 2003 (No. 13 of 2003).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=13449">1977-11-17</a> (MUS-1977-L-13449)</span><span class="title">Industrial Relations (Amendment) Act 1977.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=13648">1976-07-30</a> (MUS-1976-L-13648)</span><span class="title">An Act to amend the Industrial Relations Act 1973. No. 35.</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Implementing text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=101491">2014-04-16</a> (MUS-2014-R-101491)</span><span class="title">Printing Industry (Remuneration) Regulations 2014 (G.N. No. 78 of 2014).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=101494">2013-11-21</a> (MUS-2013-R-101494)</span><span class="title">Office Attendants (Remuneration) Regulations 2013 (GN No. 326 of 2013).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=98448">2008-08-07</a> (MUS-2008-R-98448)</span><span class="title">Livestock Workers (Remuneration Order) Regulations 
+2008 (GN No. 141 of 2008).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=80329">2008-04-29</a> (MUS-2008-R-80329)</span><span class="title">Public Transport (Buses) Workers (Remuneration Order) Regulations 2008 (GN No. 76 of 2008).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=80327">2008-03-11</a> (MUS-2008-R-80327)</span><span class="title">Field-crop and Orchard Workers (Remuneration Order) Regulations 2008 (G.N. No. 48 of 2008).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=76287">2006-10-03</a> (MUS-2006-R-76287)</span><span class="title">Attorneys' and Notaries' Employees (Remuneration Order) (Amendment) Regulations 2006.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=72390">2005-09-30</a> (MUS-2005-M-72390)</span><span class="title">Cinema Employees (Remuneration Order) Regulations 2005 (Government Notice No. 171 of 2005)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=80324">2004-10-09</a> (MUS-2004-R-80324)</span><span class="title">Distributive Trades (Remuneration Order) Regulations 2004 (G.N. No. 172 of 2004).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=80333">2003-08-13</a> (MUS-2003-R-80333)</span><span class="title">Baking Industry (Remuneration Order) Regulations 2003 (GN No. 130 of 2003).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=66127">2003-05-30</a> (MUS-2003-R-66127)</span><span class="title">Blockmaking, Construction, Stone Crushing and Related Industries (Remuneration) Order Regulations, 2003 (GN No. 70 of 2003).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=66135">2002-05-28</a> (MUS-2002-R-66135)</span><span class="title">Light Metal and Wooden Furniture Workshops (Remuneration Order) Regulation 2002 (No. 67 of 2002).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=101497">2001-06-01</a> (MUS-2001-R-101497)</span><span class="title">Newspapers and Periodicals Employees (Remuneration Order) Regulations 2001 (GN No. 55 of 2001).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=66132">2000-07-10</a> (MUS-2000-R-66132)</span><span class="title">Pre-Primary School Employees (Remuneration Order) Regulations 2000 (G.N. No. 101 of 2000).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=43301">1995-09-28</a> (MUS-1995-R-43301)</span><span class="title">Cleaning Enterprises (Remuneration Order) Regulations 1995 (Government Notice No. 150 of 1995).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=41930">1995-01-20</a> (MUS-1995-R-41930)</span><span class="title">Sugar Industry (Agricultural Workers) (Remuneration Order) (Amendment) Regulations 1995 (Government Notice No. 8 of 1995).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=41931">1995-01-20</a> (MUS-1995-R-41931)</span><span class="title">Sugar Industry (Agricultural Workers) (Remuneration Order) (Amendment No. 2) Regulations 1995 (Government Notice No. 9 of 1995).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=41932">1995-01-20</a> (MUS-1995-R-41932)</span><span class="title">Sugar Industry (Non-Agricultural Workers) (Remuneration Order) (Amendment) Regulations 1995 (Government Notice No. 10 of 1995).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=41933">1995-01-20</a> (MUS-1995-R-41933)</span><span class="title">Sugar Industry (Non-Agricultural Workers) (Remuneration Order) (Amendment No. 2) Regulations 1995 (Government Notice No. 11 of 1995).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=34174">1993-05-31</a> (MUS-1993-R-34174)</span><span class="title">Light Metal and Wooden Furniture Workshops (Remuneration Order) (Amendment) Regulations 1993 (G.N. No. 90 of 1993)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=33770">1993-01-29</a> (MUS-1993-R-33770)</span><span class="title">Baking Industry (Remuneration Order) Regulations 1993 (G.N. No. 15 of 1993)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26538">1990-12-12</a> (MUS-1990-R-26538)</span><span class="title">Security Guards (Remuneration Order)(Amendment No. 2) Regulations 1990 (Government Notice No. 246 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26542">1990-07-31</a> (MUS-1990-R-26542)</span><span class="title">Animal Farming (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 127 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26543">1990-07-31</a> (MUS-1990-R-26543)</span><span class="title">Attorneys' and Notaries' Clerks' (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 128 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26544">1990-07-31</a> (MUS-1990-R-26544)</span><span class="title">Baking Industry (Remuneration Order)(Amendment) Regulations 1983 (Government Notice No. 129 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26545">1990-07-31</a> (MUS-1990-R-26545)</span><span class="title">Blockmaking, Stone Crushing and Other Related Industries (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 130 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26546">1990-07-31</a> (MUS-1990-R-26546)</span><span class="title">Catering Industry (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 131 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26547">1990-07-31</a> (MUS-1990-R-26547)</span><span class="title">Cinema Workers (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 132 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26548">1990-07-31</a> (MUS-1990-R-26548)</span><span class="title">Construction Industry (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 133 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26549">1990-07-31</a> (MUS-1990-R-26549)</span><span class="title">Distributive Trades (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 134 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26550">1990-07-31</a> (MUS-1990-R-26550)</span><span class="title">Domestic Workers' (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 135 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26551">1990-07-31</a> (MUS-1990-R-26551)</span><span class="title">Electrical, Engineering and Mechanical Workshops (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 136 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26552">1990-07-31</a> (MUS-1990-R-26552)</span><span class="title">Export Enterprises (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 137 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26553">1990-07-31</a> (MUS-1990-R-26553)</span><span class="title">Factory Workers (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 138 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26554">1990-07-31</a> (MUS-1990-R-26554)</span><span class="title">Light Metal and Wooden Furniture Workshops (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 139 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26555">1990-07-31</a> (MUS-1990-R-26555)</span><span class="title">Messengers (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 140 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26556">1990-07-31</a> (MUS-1990-R-26556)</span><span class="title">Road Haulage (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 141 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26557">1990-07-31</a> (MUS-1990-R-26557)</span><span class="title">Road Passenger Transport Industry (Buses)(Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 142 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26558">1990-07-31</a> (MUS-1990-R-26558)</span><span class="title">Salt Manufacturing Industry (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 143 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26559">1990-07-31</a> (MUS-1990-R-26559)</span><span class="title">Security Guards (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 144 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26560">1990-07-31</a> (MUS-1990-R-26560)</span><span class="title">Sugar Industry (Agricultural Workers)(Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 145 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26561">1990-07-31</a> (MUS-1990-R-26561)</span><span class="title">Sugar Industry (Non-Agricultural Workers)(Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 146 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26562">1990-07-31</a> (MUS-1990-R-26562)</span><span class="title">Tailoring Trade (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 147 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26563">1990-07-31</a> (MUS-1990-R-26563)</span><span class="title">Tea Industry Workers (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 148 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26564">1990-07-31</a> (MUS-1990-R-26564)</span><span class="title">Tobacco and Vegetables Cultivation (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 149 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26539">1990-06-28</a> (MUS-1990-R-26539)</span><span class="title">Newspapers and Periodicals Workers (Remuneration Order) Regulations 1990 (Government Notice No. 103 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26540">1990-06-28</a> (MUS-1990-R-26540)</span><span class="title">Printing Industry (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 104 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=26541">1990-06-28</a> (MUS-1990-R-26541)</span><span class="title">Nursing Homes (Remuneration Order)(Amendment) Regulations 1990 (Government Notice No. 105 of 1990)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=98426">1985-10-23</a> (MUS-1985-R-98426)</span><span class="title">Sugar Industry (Non-Agricultural Workers) (Remuneration Order) Regulations 1985 (G.N. 129 of 1985)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=98441">1984-12-01</a> (MUS-1984-R-98441)</span><span class="title">Private Secondary School Employees (Remuneration 
+Order) Regulations 1984 (G.N. No. 181 of 1984).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=98445">1983-12-01</a> (MUS-1983-R-98445)</span><span class="title">Nursing Homes (Remuneration Order) Regulations 
+1984 (G.N. No. 34 of 1983).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=98428">1983-10-01</a> (MUS-1983-R-98428)</span><span class="title">Sugar Industry (Agricultural Workers) (Remuneration Order) Regulations 1983 (GN No. 214 of 1983).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=98430">1983-05-24</a> (MUS-1983-R-98430)</span><span class="title">Salt-Manufacturing Industry (Remuneration Order) Regulations 1983 (GN No. 77 of 1983).</span></li></ul>
+        </td>
+     </tr>
+							</table>
+						
+							<br class="clearfix">
+				
+							<div class="horizontalBar"></div> 
+							<!--<div class="clearfix last"></div>-->
+						</div> <!-- end of colMain  -->			
+					</div> <!-- end of container575 -->
+					<div class="clearfix last"></div>
+				</div> <!-- end of container780 -->
+			</div> <!-- end of containerBody -->
+		</div> <!-- end of bodyWrapper -->	
+		<div class="clearBoth"></div>
+		<div id="containerFooter">
+			
+<!--start include ILOfooter.htm-->
+        <div id="endFooter">
+            &copy; <a target="" href="http://www.ilo.org/global/copyright/lang--en/index.htm">Copyright and permissions</a> 1996-2014 International Labour Organization (ILO) | <a href="http://www.ilo.org/global/privacy-policy/lang--en/index.htm" target="">Privacy policy</a> | <a target="" href="http://www.ilo.org/global/disclaimer/lang--en/index.htm">Disclaimer</a><br>&nbsp;
+        </div>
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    </script>
+        
+
+<!--end include ILOfooter.htm-->
+
+			
+<!--start include script-search.htm-->
+
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    
+    </script>
+
+<!--end include script-search.htm-->
+
+		</div>	<!-- end of containerFooter -->
+	</div>
+<!-- begin analytics tracking -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4747079-1");
+pageTracker._trackPageview();
+</script>
+<!-- end analytics tracking -->
+
+</body>
+
+</html>
