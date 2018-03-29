@@ -1,0 +1,272 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html dir="ltr">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="type">
+	<meta NAME="description" content="NATLEX, the ILO's database featuring national laws on: labour, social security and related human rights">
+	<meta name="keywords" content="">
+	<title>South Africa - Occupational Health and Safety Act, 1993 (No. 85 of 1993)</title>
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global-normlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex-print.css" rel="stylesheet" type="text/css">
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie.css">
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie-normlex.css">
+	<![endif]-->
+	<link  href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.min.css" rel="stylesheet" type="text/css">
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/jquery-1.7.2.min.js"type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/newWin.js" type="text/javascript"></script>
+                       <script language="JavaScript" src="/webcommon/dyn/images/natlex/newin.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.jquery.min.js" type="text/javascript"></script>
+</head>
+
+<body> 
+	<a name="top"></a>
+	<div id="ieHack" class="global-settings"> 
+		
+<!--start include ILOsupplementary.htm-->
+<div id="supplementaryMenu">
+    <div id="miniLanguages"><a href="/dyn/natlex/natlex4.home">English</a> | <a href="/dyn/natlex/natlex4.home?p_lang=fr">Fran&ccedil;ais</a> | <a href="/dyn/natlex/natlex4.home?p_lang=es">Espa&ntilde;ol</a></div>
+    <div id="un"><strong>ILO is a </strong><a target="_blank" href="http://www.un.org/en/aboutun/structure/index.shtml" class="externalLink"><strong>United Nations Agency</strong><span id="externalLink"></span></a></div>
+    <div id="miniTools"><img alt="rss11" src="http://www.ilo.org/webcommon/dyn/images/normlex/resources/images/rss11.png">&nbsp;<a target="" href="http://www.ilo.org/global/rss-feeds/lang--en/index.htm">RSS Feed</a> | <a href="http://www.ilo.org/global/about-the-ilo/press-and-media-centre/lang--en/index.htm" target="">Media centre</a> | <a target="" href="http://www.ilo.org/global/contact-us/lang--en/index.htm">Contact us</a></div>
+    <div class="clearfix"></div>
+</div>
+
+<!--end include ILOsupplementary.htm-->
+
+		<div id="bodyWrapper" class="language">  <!-- id to define width and left/right reading languages -->
+			<div id="containerHeader">
+				
+<!--start include ILOhead.htm-->
+<div class="clearfix"></div>
+                <div id="headerWrapper">
+                    <span id="logo"><a href="http://www.ilo.org/global/lang--en/index.htm"><img alt="International Labour Organization" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046345.gif" /></a></span>
+                    <span id="strapline"><img alt="Promoting jobs, protecting people" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046346.gif" /></span>
+                    <span id="searchGlobal">
+                    <!-- <form name="searchFast_up" action="http://www.ilo.org/Search3/search.do" method="post" class="forms">
+                    <input type="hidden" id="sitelang" name="sitelang" value="en" />  <input type="hidden" name="consumercode" value="ILOHQ_STELLENT_PUBLIC" /><input id="search" class="search1" type="text" name="query" rel="Search ilo.org" value="Search ilo.org"> <input type="submit" name="searchbuttop" class="buttflex" onclick="javascript:document.searchFast_up.submit();" />
+                    </form> -->
+
+                    <script type="text/javascript">
+                    var srch_default_value = 'Search ilo.org'; // default value
+                    if (document.getElementById("search")){
+                    if (!document.getElementById("search").value) {
+                    document.getElementById("search").value = srch_default_value;
+                    }
+                    document.getElementById("search").onfocus = function() {
+                    if (this.value == srch_default_value) {
+                    this.value = '';
+                    }
+                    this.onblur = function() {
+                    if (this.value == '') {
+                    this.value = srch_default_value;
+                    }
+                    }
+                    }
+                    }
+                    </script>
+                    </span> 
+                </div>
+                <div class="clearfix"></div>
+                <div id="navMainWrapper">                   
+                    <ol><li class="listItemStart first"><a href="http://www.ilo.org/global/about-the-ilo/lang--en/index.htm" class="">About the ILO</a></li><li><a href="http://www.ilo.org/global/topics/lang--en/index.htm" class="">Topics</a></li><li><a href="http://www.ilo.org/global/regions/lang--en/index.htm" class="">Regions</a></li><li><a href="http://www.ilo.org/global/meetings-and-events/lang--en/index.htm" class="">Meetings and events</a></li><li><a href="http://www.ilo.org/global/publications/lang--en/index.htm" class="">Publications</a></li><li><a href="http://www.ilo.org/global/research/lang--en/index.htm" class="">Research</a></li><li><a href="http://www.ilo.org/global/standards/lang--en/index.htm" class="selected">Labour standards</a></li><li class="listItemEnd"><a href="http://www.ilo.org/global/statistics-and-databases/lang--en/index.htm" class="">Statistics and databases</a></li></ol>
+                </div>
+                <div class="clearfix"></div>
+<!--end include ILOhead.htm-->
+
+			</div> <!-- end of containerHeader -->
+			<div id="containerBody">
+			
+			 <div id="regions">
+				<span><a href="http://www.ilo.org/webcommon/dyn/images/natlex4/home.htm">NATLEX</a></span>
+				<div id="offices">Database of national labour, social security and related human rights legislation</div>
+		      </div>
+				
+				<!-- ************* LEFT COLUMN ******************* -->
+				<div class="container145 floatLeft">
+					<div id="colLeft">
+						
+<!--start include mainMenu-country.htm-->
+                        <div id="contextMenu">
+                            <dl>
+                                <dt class="contextMenu-2"><a href="natlex4.home?p_lang=en">NATLEX home</a></dt>
+                                <dt class="contextMenu-focus-2"><a href="natlex4.byCountry?p_lang=en">Browse by country</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.bySubject?p_lang=en">Browse by subject</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.recent?p_lang=en">Recent important additions to NATLEX</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.search?p_lang=en">Search</a></dt>
+                            </dl>
+                        </div> <!-- end of contextMenu -->
+<!--end include mainMenu-country.htm-->
+					
+					</div> <!-- end of colLeft -->	
+				</div> <!-- end of containerLeft -->
+				
+				<!-- ************* MAIN COLUMN ******************* -->
+				<div class="container780">
+				<div class="horizontalBar content"></div>
+					
+					<!-- *** Title type breadcrumb *** -->
+					<div id="heading">
+						<h1 id="page-title">South Africa <em></em></a> &gt;  <em></em></a></h1>
+					</div>
+					
+					<!-- *** RIGHT COLUMN *** -->
+					<div class="container190 floatRight">
+						<div id="colRight">
+							
+
+							
+						</div> <!-- end of colRight -->
+					</div> <!-- end of container190 -->
+					
+					<!-- *** CENTRAL COLUMN *** -->
+					<div class="container575">
+						<div id="colMain">
+						
+							<table class="page" cellspacing="0">
+							<!-- #BeginEditable "DATA-ORIGINAL-NAME" --><!-- #EndEditable -->
+							<tr>
+                <td class="label">Name:</td>
+                <td>Occupational Health and Safety Act, 1993 (No. 85 of 1993)</td>
+               </tr>
+							<tr>
+                <td class="label">Country:</td>
+                <td><strong>South Africa</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Subject(s):</td>
+                <td><strong>Occupational safety and health</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Type of legislation:</td>
+                <td>Law, Act</td>
+               </tr>
+							<tr>
+                <td class="label">Adopted on:</td>
+                <td>1993-06-23</td>
+               </tr>
+							<tr>
+								<td class="label"><!-- #BeginEditable "LABEL-ENTRY-FORCE-DATE" -->Entry into force<!-- #EndEditable -->:</td>
+								<td><!-- #BeginEditable "DATA-ENTRY-FORCE-DATE" --> <!-- #EndEditable --></td>
+							</tr>
+							<tr>
+                <td class="label">Published on:</td>
+                <td>Government Gazette, 1993-07-02, Vol. 337, No. 14918, pp. 1-53<br></td>
+               </tr>
+							<tr>
+                <td class="label">ISN:</td>
+                <td>ZAF-1993-L-34695</td>
+               </tr>
+							<tr>
+                <td class="label">Bibliography:</td>
+                <td>Government Gazette, 1993-07-02, Vol. 337, No. 14918, pp. 1-53<br>Occupational Health and Safety Act and Regulations, 2005, Department of Labour, LexisNexis Butterworths, Republic of South Africa, Fourth Edition, ISBN: 0 409 01540 7<br><a href="http://www.labour.gov.za/act/index.jsp?legislationId=7336&actId=6872" onclick="return popup(this, 'notes')" title="OHS Act (as amended)">OHS Act (as amended) <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="OHS Act (as amended)"></a> Department of Labour, South Africa <font size="1">(consulted on 2005-05-18)</font><br> <a href="http://www.info.gov.za/" onclick="return popup(this, 'notes')" title="Act online">Act online <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="Act online"></a> South African Government Information, Government of South Africa <a href="docs/ELECTRONIC/34695/69800/F-82129282/ZAF34695.pdf" onclick="return popup(this, 'notes')" title="PDF">PDF <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="PDF" /></a> <font size="1">(consulted on 2012-03-30)</font><br></td>
+               </tr>
+							<tr>
+                <td class="label">Abstract/Citation:</td>
+                <td>Provides for the health and safety of persons at work as well as of those persons connected with the use of plant and machinery. Protects persons other than persons at work against hazards to health and safety arising out of or in connection with the activities of persons at work, and establishes an advisory council for occupational health and safety.  Establishes inspection services, and grants powers to inspectors to investigate and obtain information.  Specifies the matters in respect of which the Minister may make regulations.  Repeals the Machinery and Occupational Safety Act, 1983; the Machinery and Occupational Safety Amendment Act, 1991; and the Machinery and Occupational Safety Amendment Act, 1989. The Act is applicable to migrant workers. Updates available in: South African Labour Law, eds. Clive Thompson, Paul Benjamin (Kenwyn: Juta & Co.).</td>
+               </tr>
+							</tr>
+<tr>
+        <td class="label"><strong>Repealed text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=20518">1989-04-12</a> (ZAF-1989-L-20518)</span><span class="title">Machinery and Occupational Safety Amendment Act 1989. No. 40.</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Amending text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=36228">1993-12-14</a> (ZAF-1993-L-36228)</span><span class="title">Occupational Health and Safety Amendment Act, 1993 (No. 181 of 1993)</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Implementing text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=100405">2015-06-24</a> (ZAF-2015-R-100405)</span><span class="title">Occupational Health and Safety Act 1993: Driven Machinery Regulations (No. R.  540).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=100406">2015-06-24</a> (ZAF-2015-R-100406)</span><span class="title">Occupational Health and Safety Act 1993: Incorporation of Safety Standards Regulations (No. R. 542).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=100407">2015-06-24</a> (ZAF-2015-R-100407)</span><span class="title">Occupational Health and Safety Act: Regulations: Driven machinery: Incorporation of health and safety standards (No. R. 539).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=97085">2014-02-07</a> (ZAF-2014-R-97085)</span><span class="title">Occupational Health and Safety Act (85/1993): Construction Regulations, 2014 (G.N. No. R 84).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=89778">2010-01-15</a> (ZAF-2010-R-89778)</span><span class="title">Health and Safety of Children at Work Regulations (R No. 7 of 2010).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=97068">2009-07-15</a> (ZAF-2009-R-97068)</span><span class="title">Occupational Health and Safety Act: Regulations: Pressure equipment (G 32395 RG 9119 GoN 734).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=74072">2005-09-02</a> (ZAF-2005-M-74072)</span><span class="title">Occupational Health and Safety Act: Written policy: Employers in Class XIII classification of industries: Iron, steel, artificial limbs, galvanising, garages, metal (No. R 859).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=72334">2005-03-04</a> (ZAF-2005-R-72334)</span><span class="title">Electrical Machinery Regulations (No. R 183).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=74096">2004-08-03</a> (ZAF-2004-R-74096)</span><span class="title">Occupational Safety and Health Facilities Regulations (No. R. 924).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=65393">2003-07-25</a> (ZAF-2003-R-65393)</span><span class="title">Occupational Health and Safety Act, 1993: General Amendment (No. R. 930).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=66195">2003-07-18</a> (ZAF-2003-R-66195)</span><span class="title">Construction Regulations, 2003 (No. R. 1010).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=65394">2003-06-25</a> (ZAF-2003-R-65394)</span><span class="title">General Administrative Regulations, 2003 (No. R. 929).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=68429">2003-06-25</a> (ZAF-2003-R-68429)</span><span class="title">Occupational Health and Safety Act, 1993: general amendment (No. R. 928 of 2003).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70306">2003-03-07</a> (ZAF-2003-R-70306)</span><span class="title">Noise Induced Hearing Loss Regulations 2003(Government Notice, R. 307).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=64037">2003-01-17</a> (ZAF-2003-R-64037)</span><span class="title">Explosives Regulations (Government Notice R. 109).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=61838">2002-02-28</a> (ZAF-2002-R-61838)</span><span class="title">Lead Regulations, 2001 (No. R. 236).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=67565">2002-02-10</a> (ZAF-2002-R-67565)</span><span class="title">Asbestos Regulations, 2001 (Government Notice No. R.155)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=61276">2002-01-11</a> (ZAF-2002-R-61276)</span><span class="title">Diving Regulations, 2001 (No. R. 10).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=61275">2001-12-27</a> (ZAF-2001-R-61275)</span><span class="title">Regulations for Hazardous Biological Agents, 2001 (No. R. 1390).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=60182">2001-07-30</a> (ZAF-2001-R-60182)</span><span class="title">Major Hazard Installation Regulations (Government Notice R. 692).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=45356">1996-10-04</a> (ZAF-1996-R-45356)</span><span class="title">Vessels under Pressure Regulations (No. R. 1591 of 1996).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=45310">1996-09-06</a> (ZAF-1996-R-45310)</span><span class="title">General Administrative Regulations 1996 (Government Notice R. 1449).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=41854">1995-08-25</a> (ZAF-1995-R-41854)</span><span class="title">Hazardous Chemical Substances Regulations, 1995 (Government Notice R. 1179).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=41855">1995-08-25</a> (ZAF-1995-M-41855)</span><span class="title">Withdrawal of restriction as to employment in certain processes, issued in terms of section 24(3) of the Factories, Machinery and Building Work Act, 1941 (No. R. 1180).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=41871">1995-04-28</a> (ZAF-1995-R-41871)</span><span class="title">Regulations for the Integration of the Occupational Health and Safety Act (No. R. 639).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=76400">1994-04-20</a> (ZAF-1994-R-76400)</span><span class="title">Lift, Escalator and Passenger Conveyor Regulations (GNR.797).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=32342">1992-10-23</a> (ZAF-1992-R-32342)</span><span class="title">Electrical Installation Regulations (No. R. 2920 of 1992)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=31279">1992-09-04</a> (ZAF-1992-R-31279)</span><span class="title">Driven Machinery Regulations (No. R. 2483 of 1992)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=76401">1990-03-16</a> (ZAF-1990-R-76401)</span><span class="title">Regulations Concerning the Certificate of Competency (GNR.533).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=7000">1988-08-12</a> (ZAF-1988-R-7000)</span><span class="title">Electrical Machinery Regulations, 1988 (Government Notice R. 1593).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70305">1988-08-12</a> (ZAF-1988-R-70305)</span><span class="title">Facilities Regulations 1988 (Government Notice R. 1593)</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=6767">1988-08-05</a> (ZAF-1988-R-6767)</span><span class="title">General Machinery Regulations 1988.  Government Notice No. R. 1521.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=4641">1987-10-16</a> (ZAF-1987-R-4641)</span><span class="title">Environmental Regulations for Workplaces 1987 (Government Notice No. R. 2281).</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=70304">1986-05-30</a> (ZAF-1986-R-70304)</span><span class="title">General Safety Regulations 1986 (Government Notice R. 1031).</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Related text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=74747">2006</a> (ZAF-2006-M-74747)</span><span class="title">Labour Relations Act (66/1995): Code of Good Practice: Who is an Employee (No. 1774 of 2006)</span></li></ul>
+        </td>
+     </tr>
+							</table>
+						
+							<br class="clearfix">
+				
+							<div class="horizontalBar"></div> 
+							<!--<div class="clearfix last"></div>-->
+						</div> <!-- end of colMain  -->			
+					</div> <!-- end of container575 -->
+					<div class="clearfix last"></div>
+				</div> <!-- end of container780 -->
+			</div> <!-- end of containerBody -->
+		</div> <!-- end of bodyWrapper -->	
+		<div class="clearBoth"></div>
+		<div id="containerFooter">
+			
+<!--start include ILOfooter.htm-->
+        <div id="endFooter">
+            &copy; <a target="" href="http://www.ilo.org/global/copyright/lang--en/index.htm">Copyright and permissions</a> 1996-2014 International Labour Organization (ILO) | <a href="http://www.ilo.org/global/privacy-policy/lang--en/index.htm" target="">Privacy policy</a> | <a target="" href="http://www.ilo.org/global/disclaimer/lang--en/index.htm">Disclaimer</a><br>&nbsp;
+        </div>
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    </script>
+        
+
+<!--end include ILOfooter.htm-->
+
+			
+<!--start include script-search.htm-->
+
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    
+    </script>
+
+<!--end include script-search.htm-->
+
+		</div>	<!-- end of containerFooter -->
+	</div>
+<!-- begin analytics tracking -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4747079-1");
+pageTracker._trackPageview();
+</script>
+<!-- end analytics tracking -->
+
+</body>
+
+</html>
