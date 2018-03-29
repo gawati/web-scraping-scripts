@@ -1,0 +1,264 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html dir="ltr">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<meta http-equiv="Content-Script-Type" content="type">
+	<meta NAME="description" content="NATLEX, the ILO's database featuring national laws on: labour, social security and related human rights">
+	<meta name="keywords" content="">
+	<title>Burkina Faso - Loi n° 028-2008-AN du 13 mai 2008 portant Code du Travail.</title>
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/global-normlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.css" rel="stylesheet" type="text/css">
+	<link href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex-print.css" rel="stylesheet" type="text/css">
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie.css">
+	<link rel="stylesheet" type="text/css" href="http://www.ilo.org/webcommon/dyn/images/normlex/resources/stylesheets/all-ie-normlex.css">
+	<![endif]-->
+	<link  href="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.min.css" rel="stylesheet" type="text/css">
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/jquery-1.7.2.min.js"type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/natlex.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/newWin.js" type="text/javascript"></script>
+                       <script language="JavaScript" src="/webcommon/dyn/images/natlex/newin.js" type="text/javascript"></script>
+	<script src="http://www.ilo.org/webcommon/dyn/images/natlex4/stylesheets/chosen.jquery.min.js" type="text/javascript"></script>
+</head>
+
+<body> 
+	<a name="top"></a>
+	<div id="ieHack" class="global-settings"> 
+		
+<!--start include ILOsupplementary.htm-->
+<div id="supplementaryMenu">
+    <div id="miniLanguages"><a href="/dyn/natlex/natlex4.home">English</a> | <a href="/dyn/natlex/natlex4.home?p_lang=fr">Fran&ccedil;ais</a> | <a href="/dyn/natlex/natlex4.home?p_lang=es">Espa&ntilde;ol</a></div>
+    <div id="un"><strong>ILO is a </strong><a target="_blank" href="http://www.un.org/en/aboutun/structure/index.shtml" class="externalLink"><strong>United Nations Agency</strong><span id="externalLink"></span></a></div>
+    <div id="miniTools"><img alt="rss11" src="http://www.ilo.org/webcommon/dyn/images/normlex/resources/images/rss11.png">&nbsp;<a target="" href="http://www.ilo.org/global/rss-feeds/lang--en/index.htm">RSS Feed</a> | <a href="http://www.ilo.org/global/about-the-ilo/press-and-media-centre/lang--en/index.htm" target="">Media centre</a> | <a target="" href="http://www.ilo.org/global/contact-us/lang--en/index.htm">Contact us</a></div>
+    <div class="clearfix"></div>
+</div>
+
+<!--end include ILOsupplementary.htm-->
+
+		<div id="bodyWrapper" class="language">  <!-- id to define width and left/right reading languages -->
+			<div id="containerHeader">
+				
+<!--start include ILOhead.htm-->
+<div class="clearfix"></div>
+                <div id="headerWrapper">
+                    <span id="logo"><a href="http://www.ilo.org/global/lang--en/index.htm"><img alt="International Labour Organization" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046345.gif" /></a></span>
+                    <span id="strapline"><img alt="Promoting jobs, protecting people" src="http://www.ilo.org/wcmsp5/groups/public/---sitestudio/documents/sitestudioasset/d4wcms_046346.gif" /></span>
+                    <span id="searchGlobal">
+                    <!-- <form name="searchFast_up" action="http://www.ilo.org/Search3/search.do" method="post" class="forms">
+                    <input type="hidden" id="sitelang" name="sitelang" value="en" />  <input type="hidden" name="consumercode" value="ILOHQ_STELLENT_PUBLIC" /><input id="search" class="search1" type="text" name="query" rel="Search ilo.org" value="Search ilo.org"> <input type="submit" name="searchbuttop" class="buttflex" onclick="javascript:document.searchFast_up.submit();" />
+                    </form> -->
+
+                    <script type="text/javascript">
+                    var srch_default_value = 'Search ilo.org'; // default value
+                    if (document.getElementById("search")){
+                    if (!document.getElementById("search").value) {
+                    document.getElementById("search").value = srch_default_value;
+                    }
+                    document.getElementById("search").onfocus = function() {
+                    if (this.value == srch_default_value) {
+                    this.value = '';
+                    }
+                    this.onblur = function() {
+                    if (this.value == '') {
+                    this.value = srch_default_value;
+                    }
+                    }
+                    }
+                    }
+                    </script>
+                    </span> 
+                </div>
+                <div class="clearfix"></div>
+                <div id="navMainWrapper">                   
+                    <ol><li class="listItemStart first"><a href="http://www.ilo.org/global/about-the-ilo/lang--en/index.htm" class="">About the ILO</a></li><li><a href="http://www.ilo.org/global/topics/lang--en/index.htm" class="">Topics</a></li><li><a href="http://www.ilo.org/global/regions/lang--en/index.htm" class="">Regions</a></li><li><a href="http://www.ilo.org/global/meetings-and-events/lang--en/index.htm" class="">Meetings and events</a></li><li><a href="http://www.ilo.org/global/publications/lang--en/index.htm" class="">Publications</a></li><li><a href="http://www.ilo.org/global/research/lang--en/index.htm" class="">Research</a></li><li><a href="http://www.ilo.org/global/standards/lang--en/index.htm" class="selected">Labour standards</a></li><li class="listItemEnd"><a href="http://www.ilo.org/global/statistics-and-databases/lang--en/index.htm" class="">Statistics and databases</a></li></ol>
+                </div>
+                <div class="clearfix"></div>
+<!--end include ILOhead.htm-->
+
+			</div> <!-- end of containerHeader -->
+			<div id="containerBody">
+			
+			 <div id="regions">
+				<span><a href="http://www.ilo.org/webcommon/dyn/images/natlex4/home.htm">NATLEX</a></span>
+				<div id="offices">Database of national labour, social security and related human rights legislation</div>
+		      </div>
+				
+				<!-- ************* LEFT COLUMN ******************* -->
+				<div class="container145 floatLeft">
+					<div id="colLeft">
+						
+<!--start include mainMenu-country.htm-->
+                        <div id="contextMenu">
+                            <dl>
+                                <dt class="contextMenu-2"><a href="natlex4.home?p_lang=en">NATLEX home</a></dt>
+                                <dt class="contextMenu-focus-2"><a href="natlex4.byCountry?p_lang=en">Browse by country</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.bySubject?p_lang=en">Browse by subject</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.recent?p_lang=en">Recent important additions to NATLEX</a></dt>
+                                <dt class="contextMenu-2"><a href="natlex4.search?p_lang=en">Search</a></dt>
+                            </dl>
+                        </div> <!-- end of contextMenu -->
+<!--end include mainMenu-country.htm-->
+					
+					</div> <!-- end of colLeft -->	
+				</div> <!-- end of containerLeft -->
+				
+				<!-- ************* MAIN COLUMN ******************* -->
+				<div class="container780">
+				<div class="horizontalBar content"></div>
+					
+					<!-- *** Title type breadcrumb *** -->
+					<div id="heading">
+						<h1 id="page-title">Burkina Faso <em></em></a> &gt;  <em></em></a></h1>
+					</div>
+					
+					<!-- *** RIGHT COLUMN *** -->
+					<div class="container190 floatRight">
+						<div id="colRight">
+							
+
+							
+						</div> <!-- end of colRight -->
+					</div> <!-- end of container190 -->
+					
+					<!-- *** CENTRAL COLUMN *** -->
+					<div class="container575">
+						<div id="colMain">
+						
+							<table class="page" cellspacing="0">
+							<!-- #BeginEditable "DATA-ORIGINAL-NAME" --><!-- #EndEditable -->
+							<tr>
+                <td class="label">Name:</td>
+                <td>Loi n° 028-2008-AN du 13 mai 2008 portant Code du Travail.</td>
+               </tr>
+							<tr>
+                <td class="label">Country:</td>
+                <td><strong>Burkina Faso</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Subject(s):</td>
+                <td><strong>Labour codes, general labour and employment acts</strong></td>
+               </tr>
+							<tr>
+                <td class="label">Type of legislation:</td>
+                <td>Law, Act</td>
+               </tr>
+							<tr>
+                <td class="label">Adopted on:</td>
+                <td>2008-05-13</td>
+               </tr>
+							<tr>
+								<td class="label"><!-- #BeginEditable "LABEL-ENTRY-FORCE-DATE" -->Entry into force<!-- #EndEditable -->:</td>
+								<td><!-- #BeginEditable "DATA-ENTRY-FORCE-DATE" --> <!-- #EndEditable --></td>
+							</tr>
+							<!-- #BeginEditable "DATA-PUBLICATION-DATE" --><!-- #EndEditable -->
+							<tr>
+                <td class="label">ISN:</td>
+                <td>BFA-2008-L-79332</td>
+               </tr>
+							<tr>
+                <td class="label">Bibliography:</td>
+                <td>Tiré à part, Assemblée nationale, Burkina Faso, pp. 1-110<br>Official English Translation, Ministère du Travail et de la Sécurité Sociale, Burkina Faso<br><a href="http://www.legiburkina.bf/codes/Code du Travail 2008.doc" onclick="return popup(this, 'notes')" title="Code du travail">Code du travail <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="Code du travail"></a> Légiburkina, Burkina-Faso <a href="docs/ELECTRONIC/79332/89013/F1149843613/BFA-79332.pdf" onclick="return popup(this, 'notes')" title="PDF">PDF <img src="http://www.ilo.org/webcommon/dyn/images/natlex4/images/externalLink.gif" width="17" height="14" alt="PDF" /></a> <font size="1">(consulted on 2009-08-03)</font><br></td>
+               </tr>
+							<tr>
+                <td class="label">Abstract/Citation:</td>
+                <td>Titre I: Dispositions générales (arts. 1 à 6)<br>Titre II: Emploi, formation et orientation professionnelles, placement et activité de travail temporaire (arts. 7 à 28)<br>Titre III: Relations professionnelles (arts. 29 à 136)<br>Titre IV: Conditions générales de travail (arts. 137 à 234)<br>Titre V: Sécurité et santé au travail, services sociaux d'entreprise (arts. 235 à 274)<br>Titre VI: Institutions professionnelles (arts. 275 à 317)<br>Titre VII: Différends du travail (arts. 318 à 390)<br>Titre VIII: Organismes et moyens d'exécution (arts. 391 à 419)<br>Titre IX: Pénalités (arts. 420 à 428)<br>Titre X: Dispositions transitoires et finales (arts. 429 à 433)<br><br>Prévoit que les règlements pris en application du Code de 2004 demeurent en vigueur dans tout ce qui n'est pas contraire à cette loi.<br><br>Est promulguée par le décret n° 2008-351/PRES du 19 juin 2008.</td>
+               </tr>
+							</tr>
+<tr>
+        <td class="label"><strong>Repealed text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=68990">2004-09-14</a> (BFA-2004-L-68990)</span><span class="title">Loi n° 33-2004/AN du 14 septembre 2004 portant Code du Travail.</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Implementing text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96320">2013-04-11</a> (BFA-2013-R-96320)</span><span class="title">Arrêté conjoint n° 2013-010/MFPTSS/MS du 11 avril 2013 portant modalités et conditions de réalisation des visites médicales et examens complémentaires.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=97892">2012-02-16</a> (BFA-2012-R-97892)</span><span class="title">Décret n° 2012-099/PRES/PM/MFPTSS/MS du 16 février 2012 portant organisation et fonctionnement de l'Inspection médicale du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96321">2011-12-30</a> (BFA-2011-R-96321)</span><span class="title">Décret n° 2011-1052/PRES/PM/MS/MEF du 30 décembre 2011 portant interdiction de fumer dans les lieux publics clos et les transports en commun.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96319">2011-12-28</a> (BFA-2011-R-96319)</span><span class="title">Arrêté n° 2011-1556/MFPTSS/SG/DGPS/DSST du 28 décembre 2011 fixant la liste des équipements soumis à vérification périodique.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96317">2011-11-24</a> (BFA-2011-R-96317)</span><span class="title">Décret n° 2011-928/PRES/PM/MFPTSS/MS/MATDS du 24 novembre 2011 fixant les mesures générales d'hygiène et de sécurité sur les lieux de travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96335">2011-11-08</a> (BFA-2011-R-96335)</span><span class="title">Décret n° 2011-883/PRES/PM/MFPTSS/MICA/MAH/MEDD portant mesures du 8 novembre 2011 relatives à la distribution et à l'utilisation de substances ou préparations à usage industriel présentant des dangers pour les travailleurs.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=87561">2010-12-31</a> (BFA-2010-R-87561)</span><span class="title">Décret n° 2010-810/PRES/PM/MTSS du 31 décembre 2010 fixant la prime d'ancienneté.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=87563">2010-12-31</a> (BFA-2010-R-87563)</span><span class="title">Décret n° 2010-811/PRES/PM/MTSS du 31 décembre 2010 fixant la prime de rendement.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=87564">2010-12-31</a> (BFA-2010-R-87564)</span><span class="title">Décret n° 2010-812/PRES/PM/MTSS du 31 décembre 2010 portant conditions de travail des travailleurs des professions et branches d'activités non régies par une convention collective.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=93413">2010-12-13</a> (BFA-2010-R-93413)</span><span class="title">Arrêté conjoint n° 2010-024/MTSS/MJE du 13 décembre 2010 portant conditions de délivrance de la carte de travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=93417">2010-12-13</a> (BFA-2010-R-93417)</span><span class="title">Arrêté conjoint n° 2010-023/MTSS/MJE du 13 décembre 2010 relatif au contrat d'apprentissage.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96318">2010-06-25</a> (BFA-2010-R-96318)</span><span class="title">Décret n° 2010-356/PRES/PM/MTSS/MS du 25 juin 2010 portant détermination de la nature des travaux dangereux interdits aux femmes et aux femmes enceintes.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=93412">2010-05-18</a> (BFA-2010-R-93412)</span><span class="title">Arrêté conjoint n° 2010-12/MTSS/MJE/SG/DGT du 18 mai 2010 relatif au contrat de stage.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=93586">2009-12-18</a> (BFA-2009-R-93586)</span><span class="title">Arrêté n° 2009-022/MTSS/SG/DGT/DER du 18 décembre 2009 déterminant les emplois réquisitionnés et les conditions et modalités de réquisition en cas de grève.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96330">2009-12-18</a> (BFA-2009-R-96330)</span><span class="title">Arrêté n° 2009-019/MTSS/SG/DGT/DER du 18 décembre 2009 déterminant les conditions de fourniture du logement au travailleur déplacé et ses modalités de remboursement.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=82383">2009-07-17</a> (BFA-2009-R-82383)</span><span class="title">Décret n° 2009-530/PRES/PM/MTSS/MASSN/MS du 17 juillet 2009  fixant les conditions d'emploi et de formation des personnes handicapées.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96332">2009-01-06</a> (BFA-2009-R-96332)</span><span class="title">Arrêté conjoint n° 2008-002/MTSS/MS/SG/DGSST du 6 janvier 2009 portant création, attributions, composition  et fonctionnement des comités de sécurité et de santé au travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96329">2008-12-26</a> (BFA-2008-R-96329)</span><span class="title">Arrêté n° 2008-027/MTSS/SG/DGSST du 26 décembre 2008 portant dérogation de l'âge d'admission à l'emploi.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=80658">2008-11-17</a> (BFA-2008-R-80658)</span><span class="title">Décret n° 2008-739/PRES/PM/MTSS/MCPEA/MEF du 17 novembre 2008 portant augmentation des salaires des travailleurs régis par le Code du travail.</span></li></ul>
+        </td>
+     </tr><tr>
+        <td class="label"><strong>Related text(s)</strong>:</td>
+        <td>
+            <ul class="related"><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=96333">2012-07-24</a> (BFA-2012-R-96333)</span><span class="title">Décret n° 2012-633/PRES/PM/MEF/MFPTSS du 24 juillet 2012 portant relèvement des salaires minima des travailleurs du secteur privé régis par le Code du travail.</span></li><li><span class="date"><a onclick="return popup(this, 'notes')" href="natlex4.detail?p_lang=en&p_isn=82240">2009-05-28</a> (BFA-2009-R-82240)</span><span class="title">Décret n° 2009-365/PRES/PM/MTSS/MS/MASSN du 28 mai 2009 portant détermination de la liste des travaux dangereux interdits aux enfants au Burkina Faso.</span></li></ul>
+        </td>
+     </tr>
+							</table>
+						
+							<br class="clearfix">
+				
+							<div class="horizontalBar"></div> 
+							<!--<div class="clearfix last"></div>-->
+						</div> <!-- end of colMain  -->			
+					</div> <!-- end of container575 -->
+					<div class="clearfix last"></div>
+				</div> <!-- end of container780 -->
+			</div> <!-- end of containerBody -->
+		</div> <!-- end of bodyWrapper -->	
+		<div class="clearBoth"></div>
+		<div id="containerFooter">
+			
+<!--start include ILOfooter.htm-->
+        <div id="endFooter">
+            &copy; <a target="" href="http://www.ilo.org/global/copyright/lang--en/index.htm">Copyright and permissions</a> 1996-2014 International Labour Organization (ILO) | <a href="http://www.ilo.org/global/privacy-policy/lang--en/index.htm" target="">Privacy policy</a> | <a target="" href="http://www.ilo.org/global/disclaimer/lang--en/index.htm">Disclaimer</a><br>&nbsp;
+        </div>
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    </script>
+        
+
+<!--end include ILOfooter.htm-->
+
+			
+<!--start include script-search.htm-->
+
+    <script type="text/javascript">
+      var config = {
+        '.chosen-select'           : {},
+        '.chosen-select-nosearch'  : {disable_search:true},
+        '.chosen-select-deselect'  : {allow_single_deselect:true},
+        '.chosen-select-no-single' : {disable_search_threshold:10},
+        '.chosen-select-no-results': {no_results_text:'Oops, nothing found!'},
+        '.chosen-select-width'     : {width:"95%"}
+      }
+      for (var selector in config) {
+        $(selector).chosen(config[selector]);
+      }
+     $(document).ready(function() {
+        $('#mainMenuLegpol li form').css('display', 'none')
+    });
+    
+    </script>
+
+<!--end include script-search.htm-->
+
+		</div>	<!-- end of containerFooter -->
+	</div>
+<!-- begin analytics tracking -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4747079-1");
+pageTracker._trackPageview();
+</script>
+<!-- end analytics tracking -->
+
+</body>
+
+</html>
