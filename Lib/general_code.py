@@ -151,12 +151,22 @@ def download_provider_source_file(pdf_link,pdf_name):
             if chunk:
                 pdf.write(chunk)
 
+
+
+def get_html_page(url_or_path):
+    if (url_or_path.startsWith("http") or url_or_path.starts_with("file:")) :
+        response_page = requests.get(url_or_path)
+        return response_page.text
+    else:
+        with open(url_or_path, mode="r", encoding="utf-8") as f:
+	    return f.read()
+
+
 def main(url, output_xml):
     # grab the data and store it in a .csv file.
     print(" Getting metadata from url...")
 
-    response_page = requests.get(url)
-    html_page = response_page.text
+    html_page = get_html_page(url)
 
     values = get_html_from_url(html_page)
 
