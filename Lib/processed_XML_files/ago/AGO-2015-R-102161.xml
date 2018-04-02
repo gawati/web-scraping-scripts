@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\102161.txt" identifier="AGO-2015-R-102161" iri="/akn/AO/act/2015-03-23/AGO-2015-R-102161/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Decreto Presidencial núm. 74/2015, de 23 de marzo, que aprueba el Reglamento de las Organizaciones No Gubernamentales</name>
+     <subjects>General provisions</subjects>
+     <docTypes>
+            <docType>Decreto Presidencial núm. 74/2015, de 23 de marzo, que aprueba el Reglamento de las Organizaciones No Gubernamentales</docType>
+     </docTypes>
+     <adoptedOn>2015-03-23</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.imprensanacional.gov.ao/"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/102161/123419/F-182935326/Decreto_Presidencial_74_15_ANGOLA.pdf" file="akn_AO_act_2015-03-23_AGO-2015-R-102161_spa_main.pdf">
+	 <providerDocName> Angola </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

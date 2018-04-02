@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\101213.txt" identifier="AGO-2010-R-101213" iri="/akn/AO/act/2010-12-14/AGO-2010-R-101213/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Decreto Ejecutivo Conjunto núm. 171/10, de 14 de diciembre, que aprueba la lista de trabajos prohibidos o condicionados a los menores</name>
+     <subjects>Hazardous child labour</subjects>
+     <docTypes>
+            <docType>Decreto Ejecutivo Conjunto núm. 171/10, de 14 de diciembre, que aprueba la lista de trabajos prohibidos o condicionados a los menores</docType>
+     </docTypes>
+     <adoptedOn>2010-12-14</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.imprensanacional.gov.ao/"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/101213/121820/F-209596021/DECRETO EJECUTIVO CONJUNTO 171_10 ANGOLA.pdf" file="akn_AO_act_2010-12-14_AGO-2010-R-101213_spa_main.pdf">
+	 <providerDocName> Angola </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

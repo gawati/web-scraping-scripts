@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\98893.txt" identifier="AGO-2014-R-98893" iri="/akn/AO/act/2014-02-27/AGO-2014-R-98893/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Decreto Presidencial núm. 66/14,que aprueba el Estatuto Orgánico del Instituto Nacional de Seguridad Social.</name>
+     <subjects>Social security (general standards); Administration and financing</subjects>
+     <docTypes>
+            <docType>Decreto Presidencial núm. 66/14,que aprueba el Estatuto Orgánico del Instituto Nacional de Seguridad Social.</docType>
+     </docTypes>
+     <adoptedOn>2014-02-27</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.inss.gv.ao/portal/"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/98893/117847/F2118230516/Dec_pres_66_14_Estatuto_Organico_do_Inst_Nac_Seg_Social.pdf" file="akn_AO_act_2014-02-27_AGO-2014-R-98893_spa_main.pdf">
+	 <providerDocName> Angola </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

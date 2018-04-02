@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\101212.txt" identifier="AGO-2011-R-101212" iri="/akn/AO/act/2011-04-14/AGO-2011-R-101212/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Decreto Ejecutivo núm 62/11, de 14 de abril, que aprueba el Reglamento sobre la Bioseguridad</name>
+     <subjects>Occupational safety and health</subjects>
+     <docTypes>
+            <docType>Decreto Ejecutivo núm 62/11, de 14 de abril, que aprueba el Reglamento sobre la Bioseguridad</docType>
+     </docTypes>
+     <adoptedOn>2011-04-14</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.imprensanacional.gov.ao/"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/101212/121818/F981539102/DECR EJECUT 62_11 ANGOLA.pdf" file="akn_AO_act_2011-04-14_AGO-2011-R-101212_spa_main.pdf">
+	 <providerDocName> Angola </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

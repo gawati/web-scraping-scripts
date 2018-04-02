@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\101409.txt" identifier="AGO-2014-R-101409" iri="/akn/AO/act/2014-11-23/AGO-2014-R-101409/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Decreto Ejecutivo núm. 128/04, de 23 de noviembre, que aprueba el Reglamento General de Señalización de Seguridad y Salud en el Trabajo</name>
+     <subjects>Occupational safety and health</subjects>
+     <docTypes>
+            <docType>Decreto Ejecutivo núm. 128/04, de 23 de noviembre, que aprueba el Reglamento General de Señalización de Seguridad y Salud en el Trabajo</docType>
+     </docTypes>
+     <adoptedOn>2014-11-23</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.lexlink.eu/"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/101409/122165/F-1400121738/Dec_exec_128_04 ANGOLA.pdf" file="akn_AO_act_2014-11-23_AGO-2014-R-101409_spa_main.pdf">
+	 <providerDocName> Angola </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

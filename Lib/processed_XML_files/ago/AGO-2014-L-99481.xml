@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\99481.txt" identifier="AGO-2014-L-99481" iri="/akn/AO/act/2014-10-22/AGO-2014-L-99481/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Ley núm. 18/14, de 22 de octubre, que aprueba el Código de Impuesto al Salario, revocando el Código de Impuesto al Salario aprobado por la Ley núm. 10/99, de 29 de octubre, el Decreto Ejecutivo núm. 80/09, de 7 de agosto, y toda la legislación que contraríe lo dispuesto en ella.</name>
+     <subjects>Labour codes, general labour and employment acts</subjects>
+     <docTypes>
+            <docType>Ley núm. 18/14, de 22 de octubre, que aprueba el Código de Impuesto al Salario, revocando el Código de Impuesto al Salario aprobado por la Ley núm. 10/99, de 29 de octubre, el Decreto Ejecutivo núm. 80/09, de 7 de agosto, y toda la legislación que contraríe lo dispuesto en ella.</docType>
+     </docTypes>
+     <adoptedOn>2014-10-22</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://inss.gv.ao/Legislacao/"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/99481/118776/F1310901721/Lei-18.14 - ANGOLA.pdf" file="akn_AO_act_2014-10-22_AGO-2014-L-99481_spa_main.pdf">
+	 <providerDocName> Angola </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

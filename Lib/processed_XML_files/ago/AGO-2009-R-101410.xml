@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\101410.txt" identifier="AGO-2009-R-101410" iri="/akn/AO/act/2009-08-14/AGO-2009-R-101410/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Decreto núm. 38/09, de 14 de agosto, que aprueba el Reglamento de Seguridad, Higiene y Salud en las Operaciones Petroleras</name>
+     <subjects>Protection in certain sectors of economic activity</subjects>
+     <docTypes>
+            <docType>Decreto núm. 38/09, de 14 de agosto, que aprueba el Reglamento de Seguridad, Higiene y Salud en las Operaciones Petroleras</docType>
+     </docTypes>
+     <adoptedOn>2009-08-14</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.lexlink.eu/"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/101410/122167/F1981350926/Decreto_38.09 ANGOLA.pdf" file="akn_AO_act_2009-08-14_AGO-2009-R-101410_spa_main.pdf">
+	 <providerDocName> Angola </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

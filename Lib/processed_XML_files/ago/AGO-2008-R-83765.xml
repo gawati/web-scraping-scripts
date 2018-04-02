@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\83765.txt" identifier="AGO-2008-R-83765" iri="/akn/AO/act/2008-06-19/AGO-2008-R-83765/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Decreto núm. 38/08 que establece el régimen jurídico de vinculación y de contribución de la Protección social obligatoria.</name>
+     <subjects>Administration and financing</subjects>
+     <docTypes>
+            <docType>Decreto núm. 38/08 que establece el régimen jurídico de vinculación y de contribución de la Protección social obligatoria.</docType>
+     </docTypes>
+     <adoptedOn>2008-06-19</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.inss.gv.ao/portal/"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/83765/92753/F1248797853/AGO83765.pdf" file="akn_AO_act_2008-06-19_AGO-2008-R-83765_spa_main.pdf">
+	 <providerDocName> Angola, 14 págs. </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

@@ -1,0 +1,21 @@
+<doc source="unprocessed_outputs\ago\56677.txt" identifier="AGO-1999-L-56677" iri="/akn/AO/act/2000-02-11/AGO-1999-L-56677/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Ley General del Trabajo núm. 2/00.</name>
+     <subjects>Labour codes, general labour and employment acts</subjects>
+     <docTypes>
+            <docType>Ley General del Trabajo núm. 2/00.</docType>
+     </docTypes>
+     <adoptedOn>2000-02-11</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="docs/SERIAL/56677/63274/F1623262147/56677.pdf"/>
+	 <originSource href="http://www.casadeangola.com.pt/coimbra/index.php"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/56677/92625/F1091394660/AGO56677.pdf" file="akn_AO_act_2000-02-11_AGO-1999-L-56677_spa_main.pdf">
+	 <providerDocName> Angola </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

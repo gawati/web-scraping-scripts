@@ -1,0 +1,17 @@
+<doc source="unprocessed_outputs\ago\71828.txt" identifier="AGO-1993-L-71828" iri="/akn/AO/act/1993-03-26/AGO-1993-L-71828/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Ley General del Servicio Militar.</name>
+     <subjects>General provisions</subjects>
+     <docTypes>
+            <docType>Ley General del Servicio Militar.</docType>
+     </docTypes>
+     <adoptedOn>1993-03-26</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <providerSource filetype="pdf" href="http://www.botschaftangola.de/regierung/beschluesse_gesetze/servico_militar.pdf" file="akn_AO_act_1993-03-26_AGO-1993-L-71828_spa_main.pdf">
+	 <providerDocName>None</providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

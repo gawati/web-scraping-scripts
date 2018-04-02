@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\101660.txt" identifier="AGO-2004-L-101660" iri="/akn/AO/act/2004-11-01/AGO-2004-L-101660/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Ley núm. 8/04, de 1 de noviembre, sobre el Virus de Inmunodeficiencia Humana-VIH y el Síndrome de Inmunodeficiencia-SIDA</name>
+     <subjects>General provisions</subjects>
+     <docTypes>
+            <docType>Ley núm. 8/04, de 1 de noviembre, sobre el Virus de Inmunodeficiencia Humana-VIH y el Síndrome de Inmunodeficiencia-SIDA</docType>
+     </docTypes>
+     <adoptedOn>2004-11-01</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="www.imprensanacional.gov.ao"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/101660/122596/F-1497560251/Lei 8.04 ANGOLA.pdf" file="akn_AO_act_2004-11-01_AGO-2004-L-101660_spa_main.pdf">
+	 <providerDocName> Angola </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

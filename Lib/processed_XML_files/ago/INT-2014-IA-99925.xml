@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\99925.txt" identifier="INT-2014-IA-99925" iri="/akn/AO/act/2014-04-29/INT-2014-IA-99925/fra@/!main">
+     <country code="AO">Angola
+        <relatedCountries>  
+            <country code="FR" />
+        </relatedCountries>
+	  </country>
+     <language code="fra" />
+     <name>Accord de coopération entre le Gouvernement de la République française et le Gouvernement de la République d'Angola dans le domaine de l'enseignement supérieur et de la formation des cadres, signé à Paris le 29 avril 2014.</name>
+     <subjects>Other international agreements</subjects>
+     <docTypes>
+            <docType>Accord de coopération entre le Gouvernement de la République française et le Gouvernement de la République d&#x27;Angola dans le domaine de l&#x27;enseignement supérieur et de la formation des cadres, signé à Paris le 29 avril 2014.</docType>
+     </docTypes>
+     <adoptedOn>2014-04-29</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <providerSource filetype="pdf" href="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031131363&amp;dateTexte=&amp;categorieLien=id" file="akn_AO_act_2014-04-29_INT-2014-IA-99925_fra_main.pdf">
+	 <providerDocName>&lt;br/&gt;</providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\91980.txt" identifier="AGO-2012-L-91980" iri="/akn/AO/act/2012-08-28/AGO-2012-L-91980/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Ley núm. 27/12 de la Marina Mercante, Puertos y Actividades Conexas.</name>
+     <subjects>Seafarers; Dock workers</subjects>
+     <docTypes>
+            <docType>Ley núm. 27/12 de la Marina Mercante, Puertos y Actividades Conexas.</docType>
+     </docTypes>
+     <adoptedOn>2012-08-28</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://faolex.fao.org/"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/91980/106905/F-450948495/AGO91980.pdf" file="akn_AO_act_2012-08-28_AGO-2012-L-91980_spa_main.pdf">
+	 <providerDocName> Faolex </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

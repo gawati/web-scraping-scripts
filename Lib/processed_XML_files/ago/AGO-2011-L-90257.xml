@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\90257.txt" identifier="AGO-2011-L-90257" iri="/akn/AO/act/2011-09-13/AGO-2011-L-90257/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Ley núm. 30/11 de las micro, pequeñas y medianas empresas.</name>
+     <subjects>Economic and social policy</subjects>
+     <docTypes>
+            <docType>Ley núm. 30/11 de las micro, pequeñas y medianas empresas.</docType>
+     </docTypes>
+     <adoptedOn>2011-09-13</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.governo.gov.ao/TodasLegislacoes.aspx"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/90257/103934/F-944312592/AGO90257.pdf" file="akn_AO_act_2011-09-13_AGO-2011-L-90257_spa_main.pdf">
+	 <providerDocName> Angola </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

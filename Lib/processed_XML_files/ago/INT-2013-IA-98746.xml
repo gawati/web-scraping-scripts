@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\98746.txt" identifier="INT-2013-IA-98746" iri="/akn/AO/act/2013-02-06/INT-2013-IA-98746/fra@/!main">
+     <country code="AO">Angola
+        <relatedCountries>  
+            <country code="CH" />
+        </relatedCountries>
+	  </country>
+     <language code="fra" />
+     <name>Accord de coopération en matière de migration entre le Conseil fédéral suisse et l'exécutif de la République d'Angola, conclu le 6 février 2013.</name>
+     <subjects>Other international agreements</subjects>
+     <docTypes>
+            <docType>Accord de coopération en matière de migration entre le Conseil fédéral suisse et l&#x27;exécutif de la République d&#x27;Angola, conclu le 6 février 2013.</docType>
+     </docTypes>
+     <adoptedOn>2013-02-06</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <providerSource filetype="pdf" href="http://www.admin.ch/opc/fr/official-compilation/2015/1053.pdf" file="akn_AO_act_2013-02-06_INT-2013-IA-98746_fra_main.pdf">
+	 <providerDocName>&lt;br/&gt;</providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

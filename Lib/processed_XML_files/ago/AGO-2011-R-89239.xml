@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\89239.txt" identifier="AGO-2011-R-89239" iri="/akn/AO/act/2011-01-07/AGO-2011-R-89239/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Decreto Presidencial núm. 8/11 que define y reglamenta el régimen jurídico de las prestaciones familiares.</name>
+     <subjects>Maternity protection</subjects>
+     <docTypes>
+            <docType>Decreto Presidencial núm. 8/11 que define y reglamenta el régimen jurídico de las prestaciones familiares.</docType>
+     </docTypes>
+     <adoptedOn>2011-01-07</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.inss.gv.ao/portal/"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/89239/102431/F2084984597/AGO89239.pdf" file="akn_AO_act_2011-01-07_AGO-2011-R-89239_spa_main.pdf">
+	 <providerDocName> Angola, 11 págs. </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

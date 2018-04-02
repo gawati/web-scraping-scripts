@@ -1,0 +1,23 @@
+<doc source="unprocessed_outputs\ago\103690.txt" identifier="INT-2015-IA-103690" iri="/akn/AO/act/2015-03-31/INT-2015-IA-103690/fra@/!main">
+     <country code="AO">Angola
+        <relatedCountries>  
+            <country code="CG" />
+        </relatedCountries>
+	  </country>
+     <language code="fra" />
+     <name>Accord de coopération du 31 mars 2015 entre le Gouvernement de la République du Congo et le Gouvernement de la République d'Angola dans le domaine de la marine marchande.</name>
+     <subjects>Other international agreements</subjects>
+     <docTypes>
+            <docType>Accord de coopération du 31 mars 2015 entre le Gouvernement de la République du Congo et le Gouvernement de la République d&#x27;Angola dans le domaine de la marine marchande.</docType>
+     </docTypes>
+     <adoptedOn>2015-03-31</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.sgg.cg/les_derniers_jo.asp"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/103690/126099/F1521279843/INT-103690.pdf" file="akn_AO_act_2015-03-31_INT-2015-IA-103690_fra_main.pdf">
+	 <providerDocName> Journal officiel - Les derniers JO parus, Congo </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

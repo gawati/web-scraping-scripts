@@ -1,0 +1,23 @@
+<doc source="unprocessed_outputs\ago\100572.txt" identifier="INT-2014-IA-100572" iri="/akn/AO/act/2014-12-18/INT-2014-IA-100572/fra@/!main">
+     <country code="AO">Angola
+        <relatedCountries>  
+            <country code="FR" />
+        </relatedCountries>
+	  </country>
+     <language code="fra" />
+     <name>Accord entre le Gouvernement de la République française et le Gouvernement de la République d'Angola relatif à la facilitation des visas et des séjours des professionnels et des stagiaires (ensemble deux annexes), signé à Paris le 18 décembre 2014.</name>
+     <subjects>Other international agreements</subjects>
+     <docTypes>
+            <docType>Accord entre le Gouvernement de la République française et le Gouvernement de la République d&#x27;Angola relatif à la facilitation des visas et des séjours des professionnels et des stagiaires (ensemble deux annexes), signé à Paris le 18 décembre 2014.</docType>
+     </docTypes>
+     <adoptedOn>2014-12-18</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031535756&amp;dateTexte=&amp;categorieLien=id"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/100572/120694/F-1160157320/INT-100572.pdf" file="akn_AO_act_2014-12-18_INT-2014-IA-100572_fra_main.pdf">
+	 <providerDocName> Legifrance </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

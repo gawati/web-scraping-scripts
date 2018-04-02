@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\70590.txt" identifier="AGO-2004-L-70590" iri="/akn/AO/act/2004-10-15/AGO-2004-L-70590/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Ley núm. 7/04, de 15 de octubre de 2004, sobre las Bases de la Protección Social.</name>
+     <subjects>Social security (general standards)</subjects>
+     <docTypes>
+            <docType>Ley núm. 7/04, de 15 de octubre de 2004, sobre las Bases de la Protección Social.</docType>
+     </docTypes>
+     <adoptedOn>2004-10-15</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.inss.gv.ao/portal/"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/70590/92741/F1593621880/AGO70590.pdf" file="akn_AO_act_2004-10-15_AGO-2004-L-70590_spa_main.pdf">
+	 <providerDocName> Angola </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

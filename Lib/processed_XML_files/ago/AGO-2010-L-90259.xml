@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ago\90259.txt" identifier="AGO-2010-L-90259" iri="/akn/AO/act/2010-09-07/AGO-2010-L-90259/spa@/!main">
+     <country code="AO">Angola
+	  </country>
+     <language code="spa" />
+     <name>Ley núm. 20/10 de contratación pública.</name>
+     <subjects>Public and civil servants</subjects>
+     <docTypes>
+            <docType>Ley núm. 20/10 de contratación pública.</docType>
+     </docTypes>
+     <adoptedOn>2010-09-07</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.governo.gov.ao/TodasLegislacoes.aspx"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/90259/103977/F-515407712/AGO90259.pdf" file="akn_AO_act_2010-09-07_AGO-2010-L-90259_spa_main.pdf">
+	 <providerDocName> Angola </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>
