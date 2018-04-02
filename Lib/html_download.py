@@ -60,7 +60,6 @@ def main(country_code):
         else:
             print("File %d for url %s already exists, ignoring" % (idx+1, url))
 
-
 '''
 Function takes one parameter: country_code
 The parameter must be in quotes.
