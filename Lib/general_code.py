@@ -9,6 +9,7 @@ from langdetect import detect
 from bs4 import BeautifulSoup
 import requests
 
+
 def __delete_file(file_name):
     """
     Deletes a file
@@ -20,6 +21,7 @@ def __delete_file(file_name):
     except OSError:
         pass
 
+
 def __load_template(template_name):
     """
     Loads the template from the file system './templates' folder
@@ -28,6 +30,7 @@ def __load_template(template_name):
     """
     with open(os.path.join("templates", template_name)) as tmpl_file:
         return tmpl_file.read()
+
 
 def get_html_from_url(html_page):
     """
@@ -65,6 +68,7 @@ def get_html_from_url(html_page):
 
     return data_list
 
+
 def get_country_code(country_name):
     with open("countryCodes.json", encoding="utf-8") as countryCode:
         codes = json.load(countryCode)
@@ -74,6 +78,7 @@ def get_country_code(country_name):
             if item["name"] == country_name:
                 country_code = (item["alpha-2"])
         return country_code
+
 
 def get_language_code(detected_language):
     with open("languageCodes.json", encoding="utf-8") as langCode:
@@ -85,10 +90,12 @@ def get_language_code(detected_language):
                 found_lang = (item["alpha3b"])
         return found_lang
 
+
 '''def get_doc_types(document_types):
     doc_types = []
     doc_types  = [ {"name": document_type} for document_type in document_types]
     return doc_types'''
+
 
 def get_related_country_codes(country_names):
     with open("countryCodes.json", encoding="utf-8") as countryCode:
@@ -99,21 +106,25 @@ def get_related_country_codes(country_names):
         while i < len(country_names):
             for item in codeList:
                 if item["name"] == country_names[i]:
-                    country_codes.insert(i,(item["alpha-2"]))
+                    country_codes.insert(i, (item["alpha-2"]))
             i = i + 1
 
     related_country_codes = [{"code": country_code} for country_code in country_codes]
     return related_country_codes
 
+
 def get_bibliography_text(html_page):
     soup = BeautifulSoup(html_page, "html5lib")
 
     bibliography_links = soup.find("td", text="Bibliography:").find_next_sibling("td").find_all("a")
-    last_bibliography_link = bibliography_links[-1]
-    text = last_bibliography_link.previous_sibling
-    bibliography_text = str(text)
+    if len(bibliography_links) != 0:
+        last_bibliography_link = bibliography_links[-1]
+        text = last_bibliography_link.previous_sibling
+        bibliography_text = str(text)
+        return bibliography_text
+    else:
+        return None
 
-    return bibliography_text
 
 def get_origin_source_links(html_page):
     soup = BeautifulSoup(html_page, "html5lib")
@@ -125,10 +136,12 @@ def get_origin_source_links(html_page):
         list_of_bibliography_links.insert(i, (link["href"]))
         i = i + 1
 
-    del list_of_bibliography_links[-1]
-
-    list_of_origin_source_links = [{"link": link} for link in list_of_bibliography_links]
-    return list_of_origin_source_links
+    if len(list_of_bibliography_links) != 0:
+        del list_of_bibliography_links[-1]
+        list_of_origin_source_links = [{"link": link} for link in list_of_bibliography_links]
+        return list_of_origin_source_links
+    else:
+        return None
 
 def get_provider_source_link(html_page):
     soup = BeautifulSoup(html_page, "html5lib")
@@ -140,29 +153,31 @@ def get_provider_source_link(html_page):
         list_of_bibliography_links.insert(i, (link["href"]))
         i = i + 1
 
-    provider_source_link = list_of_bibliography_links[-1]
-    return provider_source_link
+    if len(list_of_bibliography_links) != 0:
+        provider_source_link = list_of_bibliography_links[-1]
+        return provider_source_link
+    else:
+        return None
 
-def download_provider_source_file(pdf_link,pdf_name):
+def download_provider_source_file(pdf_link, pdf_name, path):
     r = requests.get(pdf_link, stream=True)
-    with open(pdf_name, "wb") as pdf:
+    with open(path + pdf_name, "wb") as pdf:
         for chunk in r.iter_content(chunk_size=1024):
             # writing one chunk at a time to pdf file
             if chunk:
                 pdf.write(chunk)
 
 
-
 def get_html_page(url_or_path):
-    if (url_or_path.startswith("http") or url_or_path.startswith("file:")) :
+    if (url_or_path.startswith("http") or url_or_path.startswith("file:")):
         response_page = requests.get(url_or_path)
         return response_page.text
     else:
         with open(url_or_path, mode="r", encoding="utf-8") as f:
-	    return f.read()
+            return f.read()
 
 
-def main(url, output_xml):
+def main(url):
     # grab the data and store it in a .csv file.
     print(" Getting metadata from url...")
 
@@ -174,7 +189,7 @@ def main(url, output_xml):
     origin_source_links = get_origin_source_links(html_page)
     bibliography_text = get_bibliography_text(html_page)
 
-    if "docs" in provider_source_link:
+    if provider_source_link is not None:
         country_list = [value.strip() for value in values[1].split(",")]
         country_names = country_list[1:]
 
@@ -187,17 +202,18 @@ def main(url, output_xml):
 
         lang = get_language_code(detected_language)
 
-        #document_types = [aType.strip() for aType in values[5].split(",")]
+        # document_types = [aType.strip() for aType in values[5].split(",")]
         country_names = [aType.strip() for aType in country_names]
 
-        #document_types_for_template = get_doc_types(document_types)
+        # document_types_for_template = get_doc_types(document_types)
         related_country_codes_for_template = get_related_country_codes(country_names)
 
         pdf_link = "http://www.ilo.org/dyn/natlex/" + provider_source_link
         pdf_name = "akn_" + country_code + "_act_" + values[4] + "_" + values[0] + "_" + lang + "_main.pdf"
-        download_provider_source_file(pdf_link, pdf_name)
 
-        print(" Generating XML... ", output_xml)
+        output_xml_file = values[0] + ".xml"
+
+        print(" Generating XML... ", output_xml_file)
 
         # Converting to XML
         dict_for_template = {"name": values[2],
@@ -210,10 +226,10 @@ def main(url, output_xml):
                              "languagecode": lang,
                              "docTypes": values[5],
                              "relatedCountries": related_country_codes_for_template,
-                             "providerSource":provider_source_link,
-                             "providerDocName":bibliography_text,
-                             "originSources":origin_source_links,
-                             "fileName":pdf_name}
+                             "providerSource": provider_source_link,
+                             "providerDocName": bibliography_text,
+                             "originSources": origin_source_links,
+                             "fileName": pdf_name}
 
         if (len(related_country_codes_for_template) > 0):
             dict_for_template["hasRelatedCountries"] = True
@@ -228,18 +244,22 @@ def main(url, output_xml):
         # apply the mustache template on dict_for_template
         generated_xml_file = pystache.render(doc_template, dict_for_template)
 
-        with open(output_xml, "w+", encoding="UTF-8") as output_file:
+        path = os.path.join("processed_XML_files", country_code, values[0], output_xml_file)
+        directory = os.path.dirname(path)
+        if not os.path.exists(directory):
+            os.makedirs(directory)
+        with open(path, "w+", encoding="UTF-8") as output_file:
             output_file.write(generated_xml_file)
+
+        download_provider_source_file(pdf_link, pdf_name, path)
 
     else:
         print("Unnecessary document. Move on to the next.")
 
+
 '''
-Script takes 2 arguments:
-Argument 1 (url): URL of the webpage
-Argument 2 (xmlFile) : Name of the XML file to store the metadata.
-Both arguments must be within double quotes.
-python general_code.py <url> <xml_file_name>
+Script takes a single argument: URL of the webpage or the path to the file.
+python general_code.py <url_or_file_path>
 '''
 if __name__ == '__main__':
-    main(sys.argv[1], sys.argv[2])
+    main(sys.argv[1])
