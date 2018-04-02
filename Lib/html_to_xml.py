@@ -163,9 +163,13 @@ def get_provider_source_link(html_page):
         return None
 
 
-def download_provider_source_file(pdf_link, pdf_name, path):
+def download_provider_source_file(pdf_link, pdf_name, alpha_three_country_code):
     r = requests.get(pdf_link, stream=True)
-    with open(path + pdf_name, "wb") as pdf:
+    path = os.path.join("processed_XML_files", alpha_three_country_code, pdf_name)
+    directory = os.path.dirname(path)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+    with open(path, "wb") as pdf:
         for chunk in r.iter_content(chunk_size=1024):
             # writing one chunk at a time to pdf file
             if chunk:
@@ -259,7 +263,7 @@ def main(alpha_three_country_code):
             with open(path, "w+", encoding="UTF-8") as output_file:
                 output_file.write(generated_xml_file)
 
-            download_provider_source_file(pdf_link, pdf_name, path)
+            download_provider_source_file(pdf_link, pdf_name, alpha_three_country_code)
 
         else:
             print("Unnecessary document. Moving on to the next.")
