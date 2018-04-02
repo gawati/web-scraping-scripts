@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\94843.txt" identifier="BEN-2009-M-94843" iri="/akn/BJ/act/2009/BEN-2009-M-94843/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Politique nationale de promotion du genre.</name>
+     <subjects>Non-discrimination</subjects>
+     <docTypes>
+            <docType>Politique nationale de promotion du genre.</docType>
+     </docTypes>
+     <adoptedOn>2009</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://offebenin.org/documents/politique_nationale_promotion_du_genre.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/94843/111460/F-2036080000/BEN-94843.pdf" file="akn_BJ_act_2009_BEN-2009-M-94843_fra_main.pdf">
+	 <providerDocName> Observatoire de la famille, de la femme et de l&#x27;enfant, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

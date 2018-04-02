@@ -1,0 +1,34 @@
+<doc source="unprocessed_outputs\ben\39591.txt" identifier="INT-1993-IA-39591" iri="/akn//act/1993-07-24/INT-1993-IA-39591/fra@/!main">
+     <country code="">International Organizations
+        <relatedCountries>  
+            <country code="CI" />
+            <country code="SN" />
+            <country code="BJ" />
+            <country code="LR" />
+            <country code="BF" />
+            <country code="ML" />
+            <country code="MR" />
+            <country code="NE" />
+            <country code="GM" />
+            <country code="NG" />
+            <country code="GN" />
+            <country code="SL" />
+            <country code="GW" />
+            <country code="GH" />
+            <country code="TG" />
+        </relatedCountries>
+	  </country>
+     <language code="fra" />
+     <name>Traité révisé de la Communauté économique des Etats de l'Afrique de l'Ouest (CEDEAO), fait à Cotonou le 24 juillet 1993.</name>
+     <subjects>Economic and social policy</subjects>
+     <docTypes>
+            <docType>Traité révisé de la Communauté économique des Etats de l&#x27;Afrique de l&#x27;Ouest (CEDEAO), fait à Cotonou le 24 juillet 1993.</docType>
+     </docTypes>
+     <adoptedOn>1993-07-24</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <providerSource filetype="pdf" href="http://www.ecowas.int/wp-content/uploads/2015/02/Traite-Revise.pdf" file="akn__act_1993-07-24_INT-1993-IA-39591_fra_main.pdf">
+	 <providerDocName>None</providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

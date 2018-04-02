@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\99954.txt" identifier="BEN-2008-M-99954" iri="/akn/BJ/act/2008-03/BEN-2008-M-99954/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Politique nationale de promotion du Genre.</name>
+     <subjects>Non-discrimination</subjects>
+     <docTypes>
+            <docType>Politique nationale de promotion du Genre.</docType>
+     </docTypes>
+     <adoptedOn>2008-03</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.inpf.bj/IMG/pdf/politique_nationale_promo_genrebenin.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/99954/119623/F1346197097/BEN-99954.pdf" file="akn_BJ_act_2008-03_BEN-2008-M-99954_fra_main.pdf">
+	 <providerDocName> Institut national pour la promotion de la femme, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

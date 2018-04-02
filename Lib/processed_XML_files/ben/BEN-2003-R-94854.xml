@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\94854.txt" identifier="BEN-2003-R-94854" iri="/akn/BJ/act/2003-07-07/BEN-2003-R-94854/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Décret n° 2003-224 du 7 juillet 2003 portant approbation des statuts de l'Agence nationale pour l'emploi (ANPE).</name>
+     <subjects>Employment policy, promotion of employment and employment services</subjects>
+     <docTypes>
+            <docType>Décret n° 2003-224 du 7 juillet 2003 portant approbation des statuts de l&#x27;Agence nationale pour l&#x27;emploi (ANPE).</docType>
+     </docTypes>
+     <adoptedOn>2003-07-07</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.gouv.bj/sites/default/files/Decret_Num_2003-224_du_07-07-2003.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/94854/111474/F305298589/BEN-94854.pdf" file="akn_BJ_act_2003-07-07_BEN-2003-R-94854_fra_main.pdf">
+	 <providerDocName> Portail officiel du Gouvernement - Tout sur le Bénin - Textes de lois, Ministère de la Microfinance, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

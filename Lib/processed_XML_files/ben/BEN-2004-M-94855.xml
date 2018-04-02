@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\94855.txt" identifier="BEN-2004-M-94855" iri="/akn/BJ/act/2004-11-04/BEN-2004-M-94855/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Règlement intérieur de l'Agence nationale pour l'emploi (ANPE) du 4 novembre 2004.</name>
+     <subjects>Employment policy, promotion of employment and employment services</subjects>
+     <docTypes>
+            <docType>Règlement intérieur de l&#x27;Agence nationale pour l&#x27;emploi (ANPE) du 4 novembre 2004.</docType>
+     </docTypes>
+     <adoptedOn>2004-11-04</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.gouv.bj/sites/default/files/Reglement-Int%C3%A9rieur-ANPE.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/94855/111475/F99428258/BEN-94855.pdf" file="akn_BJ_act_2004-11-04_BEN-2004-M-94855_fra_main.pdf">
+	 <providerDocName> Portail officiel du Gouvernement - Tout sur le Bénin - Textes de lois, Ministère de la Microfinance, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

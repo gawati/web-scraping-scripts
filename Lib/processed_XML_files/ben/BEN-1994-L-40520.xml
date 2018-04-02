@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\40520.txt" identifier="BEN-1994-L-40520" iri="/akn/BJ/act/1994-07-28/BEN-1994-L-40520/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 94-009 du 28 juillet 1994 portant création, organisation et fonctionnement des offices à caractères social, culturel et scientifique.</name>
+     <subjects>Economic and social policy</subjects>
+     <docTypes>
+            <docType>Loi n° 94-009 du 28 juillet 1994 portant création, organisation et fonctionnement des offices à caractères social, culturel et scientifique.</docType>
+     </docTypes>
+     <adoptedOn>1994-07-28</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.gouv.bj/sites/default/files/Loi_Num_94_009_du_28_Juillet_1994.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/40520/111470/F607911731/BEN-40520.pdf" file="akn_BJ_act_1994-07-28_BEN-1994-L-40520_fra_main.pdf">
+	 <providerDocName> Portail officiel du Gouvernement - Tout sur le Bénin - Textes de lois, Ministère du Travail et de la Fonction publique, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\90866.txt" identifier="INT-2010-IA-90866" iri="/akn/BJ/act/2010-10-22/INT-2010-IA-90866/fra@/!main">
+     <country code="BJ">Benin
+        <relatedCountries>  
+            <country code="CH" />
+        </relatedCountries>
+	  </country>
+     <language code="fra" />
+     <name>Accord du 22 octobre 2010 entre le Conseil fédéral suisse et le Gouvernement de la République du Bénin sur l'entrée, le séjour et le retour de personnes.</name>
+     <subjects>Migrant workers</subjects>
+     <docTypes>
+            <docType>Accord du 22 octobre 2010 entre le Conseil fédéral suisse et le Gouvernement de la République du Bénin sur l&#x27;entrée, le séjour et le retour de personnes.</docType>
+     </docTypes>
+     <adoptedOn>2010-10-22</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <providerSource filetype="pdf" href="http://www.admin.ch/ch/f/as/2012/4193.pdf" file="akn_BJ_act_2010-10-22_INT-2010-IA-90866_fra_main.pdf">
+	 <providerDocName>&lt;br/&gt;</providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

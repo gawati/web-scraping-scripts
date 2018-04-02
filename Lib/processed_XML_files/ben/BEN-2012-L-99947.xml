@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\99947.txt" identifier="BEN-2012-L-99947" iri="/akn/BJ/act/2012-01-09/BEN-2012-L-99947/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 2011-26 du 9 janvier 2012 portant prévention et répression des violences faites aux femmes.</name>
+     <subjects>Non-discrimination</subjects>
+     <docTypes>
+            <docType>Loi n° 2011-26 du 9 janvier 2012 portant prévention et répression des violences faites aux femmes.</docType>
+     </docTypes>
+     <adoptedOn>2012-01-09</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.bj.undp.org/content/dam/benin/docs/emancipationdesfemes/violences-faites-aux-femmes.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/99947/119610/F517199896/BEN-99947.pdf" file="akn_BJ_act_2012-01-09_BEN-2012-L-99947_fra_main.pdf">
+	 <providerDocName> Programme des Nations-unies pour le développement, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

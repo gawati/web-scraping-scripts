@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\66839.txt" identifier="BEN-2002-L-66839" iri="/akn/BJ/act/2002-06-21/BEN-2002-L-66839/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 2001-09 du 21 juin 2002 portant exercice du droit de grève.</name>
+     <subjects>Freedom of association, collective bargaining and industrial relations</subjects>
+     <docTypes>
+            <docType>Loi n° 2001-09 du 21 juin 2002 portant exercice du droit de grève.</docType>
+     </docTypes>
+     <adoptedOn>2002-06-21</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.assembleebenin.org/lois/IMG/pdf/2001-09.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/66839/83589/F1303104469/BEN-66839.pdf" file="akn_BJ_act_2002-06-21_BEN-2002-L-66839_fra_main.pdf">
+	 <providerDocName> Assemblée nationale, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

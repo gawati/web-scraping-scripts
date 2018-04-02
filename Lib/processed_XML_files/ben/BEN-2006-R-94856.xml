@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\94856.txt" identifier="BEN-2006-R-94856" iri="/akn/BJ/act/2006-06-27/BEN-2006-R-94856/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Décret n° 2006-310 du 27 juin 2006 portant création du Fonds national de la Microfinance (FNM).</name>
+     <subjects>Employment policy, promotion of employment and employment services</subjects>
+     <docTypes>
+            <docType>Décret n° 2006-310 du 27 juin 2006 portant création du Fonds national de la Microfinance (FNM).</docType>
+     </docTypes>
+     <adoptedOn>2006-06-27</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.gouv.bj/sites/default/files/Decret_Num_2006-301_du_27-06-2006.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/94856/111476/F1925815288/BEN-94856.pdf" file="akn_BJ_act_2006-06-27_BEN-2006-R-94856_fra_main.pdf">
+	 <providerDocName> Portail officiel du Gouvernement - Tout sur le Bénin - Textes de lois, Ministère de la Microfinance, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

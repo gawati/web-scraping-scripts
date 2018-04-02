@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\75298.txt" identifier="BEN-2004-L-75298" iri="/akn/BJ/act/2004-06-14/BEN-2004-L-75298/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 2002-07 du 14 juin 2004 portant Code des personnes et de la famille.</name>
+     <subjects>Civil, commercial and family law</subjects>
+     <docTypes>
+            <docType>Loi n° 2002-07 du 14 juin 2004 portant Code des personnes et de la famille.</docType>
+     </docTypes>
+     <adoptedOn>2004-06-14</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.law.yale.edu/rcw/rcw/jurisdictions/afw/benin/Benin_Family_Code.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="http://www.inpf.bj/IMG/pdf/code_des_personnes_et_de_la_famille.pdf" file="akn_BJ_act_2004-06-14_BEN-2004-L-75298_fra_main.pdf">
+	 <providerDocName> </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

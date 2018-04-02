@@ -1,0 +1,23 @@
+<doc source="unprocessed_outputs\ben\94847.txt" identifier="INT-2011-IA-94847" iri="/akn/BJ/act/2011-09-20/INT-2011-IA-94847/fra@/!main">
+     <country code="BJ">Benin
+        <relatedCountries>  
+            <country code="CG" />
+        </relatedCountries>
+	  </country>
+     <language code="fra" />
+     <name>Accord de coopération entre le Gouvernement de la République du Bénin et le Gouvernement de la République du Congo sur la lutte contre la traite des enfants, signé à Pointe-Noire le 20 septembre 2011.</name>
+     <subjects>Elimination of child labour, protection of children and young persons; Other international agreements</subjects>
+     <docTypes>
+            <docType>Accord de coopération entre le Gouvernement de la République du Bénin et le Gouvernement de la République du Congo sur la lutte contre la traite des enfants, signé à Pointe-Noire le 20 septembre 2011.</docType>
+     </docTypes>
+     <adoptedOn>2011-09-20</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://offebenin.org/documents/textesdelois/Accord%20de%20Cooperation%20Benin-TOGO%20sur%20la%20traite%20des%20enfants.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/94847/111463/F806745361/INT-94847.pdf" file="akn_BJ_act_2011-09-20_INT-2011-IA-94847_fra_main.pdf">
+	 <providerDocName> Bénin: Observatoire de la famille, de la femme et de l&#x27;enfant </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

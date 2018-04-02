@@ -1,0 +1,23 @@
+<doc source="unprocessed_outputs\ben\99939.txt" identifier="INT-1992-IA-99939" iri="/akn/FR/act/1992-12-21/INT-1992-IA-99939/fra@/!main">
+     <country code="FR">France
+        <relatedCountries>  
+            <country code="BJ" />
+        </relatedCountries>
+	  </country>
+     <language code="fra" />
+     <name>Convention relative à la circulation et au séjour des personnes entre la République française et la République du Bénin, fait à Cotonou, le 21 décembre 1992.</name>
+     <subjects>Other international agreements</subjects>
+     <docTypes>
+            <docType>Convention relative à la circulation et au séjour des personnes entre la République française et la République du Bénin, fait à Cotonou, le 21 décembre 1992.</docType>
+     </docTypes>
+     <adoptedOn>1992-12-21</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.info-droits-etrangers.org/menu-cote1/textes-lois/textes-statuts-particuliers/convention-france-benin.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/99939/119601/F-1675313543/INT-99939.pdf" file="akn_FR_act_1992-12-21_INT-1992-IA-99939_fra_main.pdf">
+	 <providerDocName> Info droits étrangers </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

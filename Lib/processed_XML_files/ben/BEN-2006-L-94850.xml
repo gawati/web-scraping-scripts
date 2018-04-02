@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\94850.txt" identifier="BEN-2006-L-94850" iri="/akn/BJ/act/2006-07-17/BEN-2006-L-94850/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 2006-19 du 17 juillet 2006 portant répression du harcèlement sexuel et protection des victimes en République du Bénin.</name>
+     <subjects>Non-discrimination</subjects>
+     <docTypes>
+            <docType>Loi n° 2006-19 du 17 juillet 2006 portant répression du harcèlement sexuel et protection des victimes en République du Bénin.</docType>
+     </docTypes>
+     <adoptedOn>2006-07-17</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.gouv.bj/sites/default/files/Loi_Num_2006_19_du_17_Juillet_2006.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/94850/111466/F-1905608255/BEN-94850.pdf" file="akn_BJ_act_2006-07-17_BEN-2006-L-94850_fra_main.pdf">
+	 <providerDocName> Portail officiel du Gouvernement - Tout sur le Bénin - Textes de lois, Ministère du Travail et de la Fonction publique, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

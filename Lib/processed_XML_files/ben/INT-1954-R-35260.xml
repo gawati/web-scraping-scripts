@@ -1,0 +1,26 @@
+<doc source="unprocessed_outputs\ben\35260.txt" identifier="INT-1954-R-35260" iri="/akn/BF/act/1954-07-19/INT-1954-R-35260/fra@/!main">
+     <country code="BF">Burkina Faso
+        <relatedCountries>  
+            <country code="BJ" />
+            <country code="SN" />
+            <country code="GN" />
+            <country code="ML" />
+            <country code="MR" />
+            <country code="CI" />
+            <country code="NE" />
+        </relatedCountries>
+	  </country>
+     <language code="fra" />
+     <name>Arrêté n° 5254 IGTLS/AOF du 19 juillet 1954 relatif au travail des femmes et des femmes enceintes.</name>
+     <subjects>Equality of opportunity and treatment</subjects>
+     <docTypes>
+            <docType>Arrêté n° 5254 IGTLS/AOF du 19 juillet 1954 relatif au travail des femmes et des femmes enceintes.</docType>
+     </docTypes>
+     <adoptedOn>1954-07-19</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <providerSource filetype="pdf" href="docs/SERIAL/35260/30016/F1055521484/INT-35260.pdf" file="akn_BF_act_1954-07-19_INT-1954-R-35260_fra_main.pdf">
+	 <providerDocName>Journal officiel de l&#x27;Afrique occidentale française, 1954-07-31, no 2722, p. 1337 </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

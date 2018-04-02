@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\99940.txt" identifier="BEN-2012-L-99940" iri="/akn/BJ/act/2012-12-17/BEN-2012-L-99940/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 2012-36 du 17 décembre 2012 portant création de la Commission béninoise des droits de l'Homme.</name>
+     <subjects>Human rights</subjects>
+     <docTypes>
+            <docType>Loi n° 2012-36 du 17 décembre 2012 portant création de la Commission béninoise des droits de l&#x27;Homme.</docType>
+     </docTypes>
+     <adoptedOn>2012-12-17</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://assemblee-nationale.bj/fr/dernieres-lois-votees"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/99940/119602/F1780638004/BEN-99940.pdf" file="akn_BJ_act_2012-12-17_BEN-2012-L-99940_fra_main.pdf">
+	 <providerDocName> Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

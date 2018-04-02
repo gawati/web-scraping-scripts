@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\78867.txt" identifier="BEN-1990-L-78867" iri="/akn/BJ/act/1990-07-27/BEN-1990-L-78867/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 90-019 du 27 juillet 1990 fixant les fêtes légales en République du Bénin.</name>
+     <subjects>Hours of work, weekly rest and paid leave</subjects>
+     <docTypes>
+            <docType>Loi n° 90-019 du 27 juillet 1990 fixant les fêtes légales en République du Bénin.</docType>
+     </docTypes>
+     <adoptedOn>1990-07-27</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.gouv.bj/sites/default/files/Loi_Num_90_019_du_27_Juillet_1990.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/78867/111471/F1813351393/BEN-78867.pdf" file="akn_BJ_act_1990-07-27_BEN-1990-L-78867_fra_main.pdf">
+	 <providerDocName> Portail officiel du Gouvernement - Tout sur le Bénin - Textes de lois, Ministère du Travail et de la Fonction publique, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

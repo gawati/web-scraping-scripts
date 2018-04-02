@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\94882.txt" identifier="BEN-2003-L-94882" iri="/akn/BJ/act/2003-02-21/BEN-2003-L-94882/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 2001-35 du 21 février 2003 portant Statut de la magistrature en Republique du Benin.</name>
+     <subjects>Public and civil servants</subjects>
+     <docTypes>
+            <docType>Loi n° 2001-35 du 21 février 2003 portant Statut de la magistrature en Republique du Benin.</docType>
+     </docTypes>
+     <adoptedOn>2003-02-21</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.gouv.bj/sites/default/files/Loi_Num_2001_35_du_21_Fevrier_2003.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/94882/111510/F423325312/BEN-94882.pdf" file="akn_BJ_act_2003-02-21_BEN-2003-L-94882_fra_main.pdf">
+	 <providerDocName> Portail officiel du Gouvernement - Tout sur le Bénin - Textes de lois, Ministère du Travail et de la Fonction publique, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

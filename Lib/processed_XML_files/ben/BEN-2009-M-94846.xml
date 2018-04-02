@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\94846.txt" identifier="BEN-2009-M-94846" iri="/akn/BJ/act/2009/BEN-2009-M-94846/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Plan d'action national sur la famille (2009-2016).</name>
+     <subjects>Workers with family responsibilities</subjects>
+     <docTypes>
+            <docType>Plan d&#x27;action national sur la famille (2009-2016).</docType>
+     </docTypes>
+     <adoptedOn>2009</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://offebenin.org/documents/plan_daction_famille_2009_2016.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/94846/111462/F-1360591180/BEN-94846.pdf" file="akn_BJ_act_2009_BEN-2009-M-94846_fra_main.pdf">
+	 <providerDocName> Observatoire de la famille, de la femme et de l&#x27;enfant, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

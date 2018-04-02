@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\99941.txt" identifier="BEN-2015-L-99941" iri="/akn/BJ/act/2015-01-23/BEN-2015-L-99941/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 2015-08 du 23 janvier 2015 portant Code de l'enfant en République du Bénin.</name>
+     <subjects>Elimination of child labour, protection of children and young persons</subjects>
+     <docTypes>
+            <docType>Loi n° 2015-08 du 23 janvier 2015 portant Code de l&#x27;enfant en République du Bénin.</docType>
+     </docTypes>
+     <adoptedOn>2015-01-23</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://assemblee-nationale.bj/fr/dernieres-lois-votees"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/99941/119603/F-860169827/BEN-99941.pdf" file="akn_BJ_act_2015-01-23_BEN-2015-L-99941_fra_main.pdf">
+	 <providerDocName> Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

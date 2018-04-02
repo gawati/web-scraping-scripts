@@ -1,0 +1,30 @@
+<doc source="unprocessed_outputs\ben\94657.txt" identifier="INT-2005-IA-94657" iri="/akn/BJ/act/2005-07-27/INT-2005-IA-94657/fra@/!main">
+     <country code="BJ">Benin
+        <relatedCountries>  
+            <country code="BF" />
+            <country code="CI" />
+            <country code="GN" />
+            <country code="ML" />
+            <country code="LR" />
+            <country code="NE" />
+            <country code="NG" />
+            <country code="TG" />
+        </relatedCountries>
+	  </country>
+     <language code="fra" />
+     <name>Accord multilatéral de coopération en matière de lutte contre la traite des enfants en Afrique de l'Ouest, signé à Abidjan le 27 juillet 2005.</name>
+     <subjects>Elimination of forced labour</subjects>
+     <docTypes>
+            <docType>Accord multilatéral de coopération en matière de lutte contre la traite des enfants en Afrique de l&#x27;Ouest, signé à Abidjan le 27 juillet 2005.</docType>
+     </docTypes>
+     <adoptedOn>2005-07-27</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.childsrights.org/html/site_en/law_download.php?id=397"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/94657/111124/F1554153934/INT-94657.pdf" file="akn_BJ_act_2005-07-27_INT-2005-IA-94657_fra_main.pdf">
+	 <providerDocName> Institut international des droits de l&#x27;enfant </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

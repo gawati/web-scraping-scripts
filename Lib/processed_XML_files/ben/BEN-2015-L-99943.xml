@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\99943.txt" identifier="BEN-2015-L-99943" iri="/akn/BJ/act/2015-04-02/BEN-2015-L-99943/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 2015-19 du 2 avril 2015 modifiant et complétant la loi n° 86-014 du 26 septembre 1986 portant code des pensions civiles et militaires de retraite.</name>
+     <subjects>Public and civil servants</subjects>
+     <docTypes>
+            <docType>Loi n° 2015-19 du 2 avril 2015 modifiant et complétant la loi n° 86-014 du 26 septembre 1986 portant code des pensions civiles et militaires de retraite.</docType>
+     </docTypes>
+     <adoptedOn>2015-04-02</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://assemblee-nationale.bj/fr/dernieres-lois-votees"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/99943/119606/F863473342/BEN-99943.pdf" file="akn_BJ_act_2015-04-02_BEN-2015-L-99943_fra_main.pdf">
+	 <providerDocName> Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

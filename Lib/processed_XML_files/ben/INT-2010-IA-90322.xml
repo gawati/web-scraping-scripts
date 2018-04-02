@@ -1,0 +1,35 @@
+<doc source="unprocessed_outputs\ben\90322.txt" identifier="INT-2010-IA-90322" iri="/akn/SN/act/2010-12-15/INT-2010-IA-90322/fra@/!main">
+     <country code="SN">Senegal
+        <relatedCountries>  
+            <country code="TD" />
+            <country code="TG" />
+            <country code="NE" />
+            <country code="ML" />
+            <country code="GQ" />
+            <country code="GW" />
+            <country code="GA" />
+            <country code="CG" />
+            <country code="KM" />
+            <country code="BJ" />
+            <country code="BF" />
+            <country code="CM" />
+            <country code="CF" />
+        </relatedCountries>
+	  </country>
+     <language code="fra" />
+     <name>Acte uniforme du 15 décembre 2010 relatif au Droit des sociétés coopératives, adopté à Lomé.</name>
+     <subjects>Cooperatives</subjects>
+     <docTypes>
+            <docType>Acte uniforme du 15 décembre 2010 relatif au Droit des sociétés coopératives, adopté à Lomé.</docType>
+     </docTypes>
+     <adoptedOn>2010-12-15</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.jo.gouv.sn/spip.php?article9116"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/90322/104051/F2083074823/SEN-90322.pdf" file="akn_SN_act_2010-12-15_INT-2010-IA-90322_fra_main.pdf">
+	 <providerDocName> Secrétariat général du gouvernement - Journal officiel </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

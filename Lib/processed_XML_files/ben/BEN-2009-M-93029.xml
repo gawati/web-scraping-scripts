@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\93029.txt" identifier="BEN-2009-M-93029" iri="/akn/BJ/act/2009-10-20/BEN-2009-M-93029/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Statuts du 20 octobre 2009 de la Mutuelle de sécurité sociale du Bénin (MSSB).</name>
+     <subjects>Social security (general standards)</subjects>
+     <docTypes>
+            <docType>Statuts du 20 octobre 2009 de la Mutuelle de sécurité sociale du Bénin (MSSB).</docType>
+     </docTypes>
+     <adoptedOn>2009-10-20</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://benin.eregulations.org/media/statut%20mutuelle.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/93029/108639/F1861882929/BEN- 93029.pdf" file="akn_BJ_act_2009-10-20_BEN-2009-M-93029_fra_main.pdf">
+	 <providerDocName> eRegulations Bénin, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

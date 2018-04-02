@@ -1,0 +1,26 @@
+<doc source="unprocessed_outputs\ben\33892.txt" identifier="INT-1954-R-33892" iri="/akn/BF/act/1954-07-19/INT-1954-R-33892/fra@/!main">
+     <country code="BF">Burkina Faso
+        <relatedCountries>  
+            <country code="SN" />
+            <country code="ML" />
+            <country code="GN" />
+            <country code="CI" />
+            <country code="NE" />
+            <country code="MR" />
+            <country code="BJ" />
+        </relatedCountries>
+	  </country>
+     <language code="fra" />
+     <name>Arrêté n° 5253/IGTLS/AOF du 19 juillet 1954 sur les obligations des employeurs en matière d'hygiène et de sécurité.</name>
+     <subjects>Occupational safety and health</subjects>
+     <docTypes>
+            <docType>Arrêté n° 5253/IGTLS/AOF du 19 juillet 1954 sur les obligations des employeurs en matière d&#x27;hygiène et de sécurité.</docType>
+     </docTypes>
+     <adoptedOn>1954-07-19</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <providerSource filetype="pdf" href="docs/MONOGRAPH/33892/57834/F-1111899150/INT-33892.pdf" file="akn_BF_act_1954-07-19_INT-1954-R-33892_fra_main.pdf">
+	 <providerDocName>Recueil annoté des textes applicables au droit du travail au Burkina Faso, 1990, R. COPPIETERS&#x27;t WALLANT et K. OUATTARA, Chambre de commerce, d&#x27;industrie et d&#x27;artisanat du Burkina Faso, Ouagadougou, Burkina Faso, pp. 295-296 </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

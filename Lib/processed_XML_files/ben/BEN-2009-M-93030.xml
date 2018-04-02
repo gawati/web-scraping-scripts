@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\93030.txt" identifier="BEN-2009-M-93030" iri="/akn/BJ/act/2009-11-20/BEN-2009-M-93030/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Règlement intérieur du 20 novembre 2009 de la Mutuelle de sécurité sociale du Bénin.</name>
+     <subjects>Social security (general standards)</subjects>
+     <docTypes>
+            <docType>Règlement intérieur du 20 novembre 2009 de la Mutuelle de sécurité sociale du Bénin.</docType>
+     </docTypes>
+     <adoptedOn>2009-11-20</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://benin.eregulations.org/media/r%C3%A8glement%20mutuelle.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/93030/108640/F1364310200/BEN-93030.pdf" file="akn_BJ_act_2009-11-20_BEN-2009-M-93030_fra_main.pdf">
+	 <providerDocName> eRegulation Bénin, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

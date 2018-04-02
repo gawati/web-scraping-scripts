@@ -1,0 +1,21 @@
+<doc source="unprocessed_outputs\ben\22390.txt" identifier="BEN-1990-C-22390" iri="/akn/BJ/act/1990-12-11/BEN-1990-C-22390/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 90-32 du 11 décembre 1990 portant Constitution de la République du Bénin.</name>
+     <subjects>Constitutional law</subjects>
+     <docTypes>
+            <docType>Loi n° 90-32 du 11 décembre 1990 portant Constitution de la République du Bénin.</docType>
+     </docTypes>
+     <adoptedOn>1990-12-11</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.chr.up.ac.za/images/files/documents/ahrdd/benin/benin_constitution_french.pdf"/>
+	 <originSource href="docs/ELECTRONIC/22390/73759/F431278577/BEN-22390.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="http://www.chr.up.ac.za/images/files/documents/ahrdd/benin/benin_constitution_english.pdf" file="akn_BJ_act_1990-12-11_BEN-1990-C-22390_fra_main.pdf">
+	 <providerDocName> </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\99942.txt" identifier="BEN-2015-L-99942" iri="/akn/BJ/act/2015-04-02/BEN-2015-L-99942/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 2015-18 du 2 avril 2015 portant Statut général de la Fonction publique.</name>
+     <subjects>Public and civil servants</subjects>
+     <docTypes>
+            <docType>Loi n° 2015-18 du 2 avril 2015 portant Statut général de la Fonction publique.</docType>
+     </docTypes>
+     <adoptedOn>2015-04-02</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://assemblee-nationale.bj/fr/dernieres-lois-votees"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/99942/119604/F489062085/BEN-99942.pdf" file="akn_BJ_act_2015-04-02_BEN-2015-L-99942_fra_main.pdf">
+	 <providerDocName> Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

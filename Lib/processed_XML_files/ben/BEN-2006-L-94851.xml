@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\94851.txt" identifier="BEN-2006-L-94851" iri="/akn/BJ/act/2006-06-26/BEN-2006-L-94851/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 2005-43 du 26 juin 2006 portant Statut général des personnels militaires des forces armées béninoises.</name>
+     <subjects>Public and civil servants</subjects>
+     <docTypes>
+            <docType>Loi n° 2005-43 du 26 juin 2006 portant Statut général des personnels militaires des forces armées béninoises.</docType>
+     </docTypes>
+     <adoptedOn>2006-06-26</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.gouv.bj/sites/default/files/LOI%20N%C2%B0%202005-43%20DU%2026%20JUIN%202006_statut_gene_personnels_militaire_forces_armees_beninoises.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/94851/111467/F-404511779/BEN-94851.pdf" file="akn_BJ_act_2006-06-26_BEN-2006-L-94851_fra_main.pdf">
+	 <providerDocName> Portail officiel du Gouvernement - Tout sur le Bénin - Textes de lois, Ministère du Travail et de la Fonction publique, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

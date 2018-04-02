@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\94844.txt" identifier="BEN-2008-M-94844" iri="/akn/BJ/act/2008-01/BEN-2008-M-94844/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Plan d'action national de lutte contre la traite des enfants à des fins d'exploitation de leur travail.</name>
+     <subjects>Elimination of child labour, protection of children and young persons</subjects>
+     <docTypes>
+            <docType>Plan d&#x27;action national de lutte contre la traite des enfants à des fins d&#x27;exploitation de leur travail.</docType>
+     </docTypes>
+     <adoptedOn>2008-01</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://offebenin.org/documents/politique/Plan%20d&#x27;action%20national%20lutte%20contre%20traite%20enfants.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/94844/111459/F-732519422/BEN-94844.pdf" file="akn_BJ_act_2008-01_BEN-2008-M-94844_fra_main.pdf">
+	 <providerDocName> Observatoire de la famille, de la femme et de l&#x27;enfant, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

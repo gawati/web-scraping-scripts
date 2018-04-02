@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\99956.txt" identifier="BEN-2012-M-99956" iri="/akn/BJ/act/2012-06/BEN-2012-M-99956/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Plan stratégique (2013-2017).</name>
+     <subjects>Non-discrimination</subjects>
+     <docTypes>
+            <docType>Plan stratégique (2013-2017).</docType>
+     </docTypes>
+     <adoptedOn>2012-06</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://famillebenin.org/fichiers/docs/documents-orientation/plan-strategique-mfassnhpta-version-finale.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/99956/119628/F1231146326/BEN-99956.pdf" file="akn_BJ_act_2012-06_BEN-2012-M-99956_fra_main.pdf">
+	 <providerDocName> MFASSNHPTA, Documentation - Documentation d&#x27;orientation </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

@@ -1,0 +1,21 @@
+<doc source="unprocessed_outputs\ben\80676.txt" identifier="BEN-2006-R-80676" iri="/akn/BJ/act/2006-08-10/BEN-2006-R-80676/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Décret n° 2006-408 du 10 août 2006 portant attributions, organisation et fonctionnement du Ministère du Travail et de la Fonction Publique.</name>
+     <subjects>Labour administration</subjects>
+     <docTypes>
+            <docType>Décret n° 2006-408 du 10 août 2006 portant attributions, organisation et fonctionnement du Ministère du Travail et de la Fonction Publique.</docType>
+     </docTypes>
+     <adoptedOn>2006-08-10</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.gouv.bj/IMG/pdf/decret_AOF_ISEP-SGM_Ver_PDF.pdf"/>
+	 <originSource href="http://www.gouv.bj/sites/default/files/Decret_Num_2006-408_du_10_aout_2006.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/80676/111472/F1639740149/BEN-80676.pdf" file="akn_BJ_act_2006-08-10_BEN-2006-R-80676_fra_main.pdf">
+	 <providerDocName> Portail officiel du Gouvernement - Tout sur le Bénin - Textes de lois, Ministère du Travail et de la Fonction publique, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

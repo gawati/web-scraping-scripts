@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\49604.txt" identifier="BEN-1998-L-49604" iri="/akn/BJ/act/1998-01-27/BEN-1998-L-49604/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 98-004 du 27 janvier 1998 portant Code du Travail.</name>
+     <subjects>Labour codes, general labour and employment acts</subjects>
+     <docTypes>
+            <docType>Loi n° 98-004 du 27 janvier 1998 portant Code du Travail.</docType>
+     </docTypes>
+     <adoptedOn>1998-01-27</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.droit-afrique.com/images/textes/Benin/B%e9nin%20-%20Code%20du%20travail.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/49604/77451/F89020835/BEN-49604.pdf" file="akn_BJ_act_1998-01-27_BEN-1998-L-49604_fra_main.pdf">
+	 <providerDocName> Droit-afrique.com, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

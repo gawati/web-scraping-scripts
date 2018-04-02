@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\99946.txt" identifier="BEN-2011-L-99946" iri="/akn/BJ/act/2011-09-26/BEN-2011-L-99946/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 2011-25 du 26 septembre 2011 portant règles générales applicables aux personnels militaires des forces de sécurité publique et assimilés en République du Benin.</name>
+     <subjects>Public and civil servants</subjects>
+     <docTypes>
+            <docType>Loi n° 2011-25 du 26 septembre 2011 portant règles générales applicables aux personnels militaires des forces de sécurité publique et assimilés en République du Benin.</docType>
+     </docTypes>
+     <adoptedOn>2011-09-26</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://assemblee-nationale.bj/fr/dernieres-lois-votees"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/99946/119609/F878721059/BEN-99946.pdf" file="akn_BJ_act_2011-09-26_BEN-2011-L-99946_fra_main.pdf">
+	 <providerDocName> Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

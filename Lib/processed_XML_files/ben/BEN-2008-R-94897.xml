@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\ben\94897.txt" identifier="BEN-2008-R-94897" iri="/akn/BJ/act/2008-09-08/BEN-2008-R-94897/fra@/!main">
+     <country code="BJ">Benin
+	  </country>
+     <language code="fra" />
+     <name>Décret n° 2008-514 du 8 septembre 2008 portant création, attributions, organisation et fonctionnement de l'Agence nationale des petites et moyennes entreprises (ANPME).</name>
+     <subjects>Economic and social policy</subjects>
+     <docTypes>
+            <docType>Décret n° 2008-514 du 8 septembre 2008 portant création, attributions, organisation et fonctionnement de l&#x27;Agence nationale des petites et moyennes entreprises (ANPME).</docType>
+     </docTypes>
+     <adoptedOn>2008-09-08</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.gouv.bj/sites/default/files/Decret_Num_2008-514_du_08-09-2008.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/94897/111526/F-1400104380/BEN-94897.pdf" file="akn_BJ_act_2008-09-08_BEN-2008-R-94897_fra_main.pdf">
+	 <providerDocName> Portail officiel du Gouvernement - Tout sur le Bénin - Textes de lois, Ministère des petites et moyennes entreprises, Bénin </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>
