@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\com\96298.txt" identifier="COM-2004-M-96298" iri="/akn/KM/act/2004-10/COM-2004-M-96298/fra@/!main">
+     <country code="KM">Comoros
+	  </country>
+     <language code="fra" />
+     <name>Stratégie nationale sur la protection des enfants les plus vulnérables aux Comores.</name>
+     <subjects>Elimination of child labour, protection of children and young persons</subjects>
+     <docTypes>
+            <docType>Stratégie nationale sur la protection des enfants les plus vulnérables aux Comores.</docType>
+     </docTypes>
+     <adoptedOn>2004-10</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://comoresdroit.comores-droit.com/wp-content/dossier/politique/La%20SNPEVC.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/96298/113758/F-1976911261/COM-96298.pdf" file="akn_KM_act_2004-10_COM-2004-M-96298_fra_main.pdf">
+	 <providerDocName> Comores-Droit, Union des Comores </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

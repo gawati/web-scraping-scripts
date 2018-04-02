@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\com\96303.txt" identifier="COM-2001-L-96303" iri="/akn/KM/act/2001-06-19/COM-2001-L-96303/fra@/!main">
+     <country code="KM">Comoros
+	  </country>
+     <language code="fra" />
+     <name>Ordonnance n° 01-011/CE du 19 juin 2001 portant Nouveau Code de procédure civile.</name>
+     <subjects>Civil, commercial and family law</subjects>
+     <docTypes>
+            <docType>Ordonnance n° 01-011/CE du 19 juin 2001 portant Nouveau Code de procédure civile.</docType>
+     </docTypes>
+     <adoptedOn>2001-06-19</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://comoresdroit.comores-droit.com/wp-content/dossier/code/procedurecivile.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/96303/113763/F126745212/COM-96303.pdf" file="akn_KM_act_2001-06-19_COM-2001-L-96303_fra_main.pdf">
+	 <providerDocName> Comores-Droit, Union des Comores </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

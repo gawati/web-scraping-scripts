@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\com\96301.txt" identifier="COM-2005-M-96301" iri="/akn/KM/act/2005-02/COM-2005-M-96301/fra@/!main">
+     <country code="KM">Comoros
+	  </country>
+     <language code="fra" />
+     <name>Politique nationale de santé (PNS).</name>
+     <subjects>Non-discrimination</subjects>
+     <docTypes>
+            <docType>Politique nationale de santé (PNS).</docType>
+     </docTypes>
+     <adoptedOn>2005-02</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://comoresdroit.comores-droit.com/wp-content/dossier/politique/PNS.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/96301/113761/F-1336523857/COM-96301.pdf" file="akn_KM_act_2005-02_COM-2005-M-96301_fra_main.pdf">
+	 <providerDocName> Comores-Droit, Union des Comores </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

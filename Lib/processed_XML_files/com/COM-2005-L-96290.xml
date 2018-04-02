@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\com\96290.txt" identifier="COM-2005-L-96290" iri="/akn/KM/act/2005-06-03/COM-2005-L-96290/fra@/!main">
+     <country code="KM">Comoros
+	  </country>
+     <language code="fra" />
+     <name>Code de la famille.</name>
+     <subjects>Civil, commercial and family law</subjects>
+     <docTypes>
+            <docType>Code de la famille.</docType>
+     </docTypes>
+     <adoptedOn>2005-06-03</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://comoresdroit.comores-droit.com/wp-content/dossier/code/famille.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/96290/113750/F-1388962001/COM-96290.pdf" file="akn_KM_act_2005-06-03_COM-2005-L-96290_fra_main.pdf">
+	 <providerDocName> Comores-Droit, Union des Comores </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

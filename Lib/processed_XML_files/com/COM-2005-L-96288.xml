@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\com\96288.txt" identifier="COM-2005-L-96288" iri="/akn/KM/act/2005-03-01/COM-2005-L-96288/fra@/!main">
+     <country code="KM">Comoros
+	  </country>
+     <language code="fra" />
+     <name>Loi organique n° 05-003/AU du 1er mars 2005, portant modalités d'application de l'article 9 de la Constitution de l'Union des Comores.</name>
+     <subjects>Constitutional law</subjects>
+     <docTypes>
+            <docType>Loi organique n° 05-003/AU du 1er mars 2005, portant modalités d&#x27;application de l&#x27;article 9 de la Constitution de l&#x27;Union des Comores.</docType>
+     </docTypes>
+     <adoptedOn>2005-03-01</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://comoresdroit.comores-droit.com/wp-content/dossier/constitutions/loiorganiquedu1ermars2005.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/96288/113748/F-1688892730/COM-96288.pdf" file="akn_KM_act_2005-03-01_COM-2005-L-96288_fra_main.pdf">
+	 <providerDocName> Comores-Droit, Union des Comores </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

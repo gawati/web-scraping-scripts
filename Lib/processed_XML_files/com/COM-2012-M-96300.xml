@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\com\96300.txt" identifier="COM-2012-M-96300" iri="/akn/KM/act/2012-05/COM-2012-M-96300/fra@/!main">
+     <country code="KM">Comoros
+	  </country>
+     <language code="fra" />
+     <name>Politique nationale de la solidarité.</name>
+     <subjects>Social security (general standards)</subjects>
+     <docTypes>
+            <docType>Politique nationale de la solidarité.</docType>
+     </docTypes>
+     <adoptedOn>2012-05</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://comoresdroit.comores-droit.com/wp-content/dossier/politique/PSN%20finale.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/96300/113760/F1232603763/COM-96300.pdf" file="akn_KM_act_2012-05_COM-2012-M-96300_fra_main.pdf">
+	 <providerDocName> Comores-Droit, Union des Comores </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

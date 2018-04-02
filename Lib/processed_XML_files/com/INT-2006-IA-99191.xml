@@ -1,0 +1,35 @@
+<doc source="unprocessed_outputs\com\99191.txt" identifier="INT-2006-IA-99191" iri="/akn/BJ/act/2006-02-27/INT-2006-IA-99191/fra@/!main">
+     <country code="BJ">Benin
+        <relatedCountries>  
+            <country code="BF" />
+            <country code="CM" />
+            <country code="CF" />
+            <country code="KM" />
+            <country code="CG" />
+            <country code="CI" />
+            <country code="GA" />
+            <country code="GN" />
+            <country code="ML" />
+            <country code="NE" />
+            <country code="SN" />
+            <country code="TD" />
+            <country code="TG" />
+        </relatedCountries>
+	  </country>
+     <language code="fra" />
+     <name>Convention multilatérale de sécurité sociale de la Conférence interafricaine de prévoyance sociaIe (CIPRES), adoptée le 27 février 2006 à Dakar.</name>
+     <subjects>International social security agreements</subjects>
+     <docTypes>
+            <docType>Convention multilatérale de sécurité sociale de la Conférence interafricaine de prévoyance sociaIe (CIPRES), adoptée le 27 février 2006 à Dakar.</docType>
+     </docTypes>
+     <adoptedOn>2006-02-27</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.lacipres.org/IMG/pdf/Convention_Multilaterale_de_Securite_Sociale.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/99191/118290/F-151911049/INT-99191.pdf" file="akn_BJ_act_2006-02-27_INT-2006-IA-99191_fra_main.pdf">
+	 <providerDocName> Conférence interafricaine de la prévoyance sociale </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\com\96297.txt" identifier="COM-1995-L-96297" iri="/akn/KM/act/1995-09-18/COM-1995-L-96297/fra@/!main">
+     <country code="KM">Comoros
+	  </country>
+     <language code="fra" />
+     <name>Code pénal (crimes et délits).</name>
+     <subjects>Criminal and penal law</subjects>
+     <docTypes>
+            <docType>Code pénal (crimes et délits).</docType>
+     </docTypes>
+     <adoptedOn>1995-09-18</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://comoresdroit.comores-droit.com/wp-content/dossier/code/penal.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/96297/113757/F-978102708/COM-96297.pdf" file="akn_KM_act_1995-09-18_COM-1995-L-96297_fra_main.pdf">
+	 <providerDocName> Comores-Droit, Union des Comores </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

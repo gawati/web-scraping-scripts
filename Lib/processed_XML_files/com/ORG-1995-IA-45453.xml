@@ -1,0 +1,32 @@
+<doc source="unprocessed_outputs\com\45453.txt" identifier="ORG-1995-IA-45453" iri="/akn/BJ/act/1995-10-10/ORG-1995-IA-45453/fra@/!main">
+     <country code="BJ">Benin
+        <relatedCountries>  
+            <country code="BF" />
+            <country code="CF" />
+            <country code="CI" />
+            <country code="CM" />
+            <country code="CG" />
+            <country code="KM" />
+            <country code="GA" />
+            <country code="GQ" />
+            <country code="ML" />
+            <country code="NE" />
+            <country code="SN" />
+            <country code="TD" />
+            <country code="TG" />
+        </relatedCountries>
+	  </country>
+     <language code="fra" />
+     <name>Statuts de l'Inspection régionale de la prévoyance sociale, fait à Bamako le 10 octobre 1995.</name>
+     <subjects>International social security agreements</subjects>
+     <docTypes>
+            <docType>Statuts de l&#x27;Inspection régionale de la prévoyance sociale, fait à Bamako le 10 octobre 1995.</docType>
+     </docTypes>
+     <adoptedOn>1995-10-10</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <providerSource filetype="pdf" href="http://www.lacipres.org/doc/E155.pdf" file="akn_BJ_act_1995-10-10_ORG-1995-IA-45453_fra_main.pdf">
+	 <providerDocName>&lt;br/&gt;</providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

@@ -1,0 +1,36 @@
+<doc source="unprocessed_outputs\com\45452.txt" identifier="ORG-1993-IA-45452" iri="/akn/BJ/act/1993-09-21/ORG-1993-IA-45452/fra@/!main">
+     <country code="BJ">Benin
+        <relatedCountries>  
+            <country code="CF" />
+            <country code="CI" />
+            <country code="CM" />
+            <country code="CG" />
+            <country code="KM" />
+            <country code="GA" />
+            <country code="GQ" />
+            <country code="ML" />
+            <country code="NE" />
+            <country code="SN" />
+            <country code="TD" />
+            <country code="TG" />
+            <country code="BF" />
+            <country code="CG" />
+        </relatedCountries>
+	  </country>
+     <language code="fra" />
+     <name>Traité instituant une Conférence interafricaine de la prévoyance sociale (CIPRES), fait à Abidjan, le 21 septembre 1993.</name>
+     <subjects>International social security agreements</subjects>
+     <docTypes>
+            <docType>Traité instituant une Conférence interafricaine de la prévoyance sociale (CIPRES), fait à Abidjan, le 21 septembre 1993.</docType>
+     </docTypes>
+     <adoptedOn>1993-09-21</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://www.lacipres.org/presentation/article/traite"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/45452/83836/F1204724855/ORG-45452.pdf" file="akn_BJ_act_1993-09-21_ORG-1993-IA-45452_fra_main.pdf">
+	 <providerDocName> Conférence interafricaine de la prévoyance sociale </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\com\96291.txt" identifier="COM-2004-L-96291" iri="/akn/KM/act/2004-11-10/COM-2004-L-96291/fra@/!main">
+     <country code="KM">Comoros
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 04-006/AU du 10 novembre 2004, portant Statut général des fonctionnaires de l'Union des Comores.</name>
+     <subjects>Public and civil servants</subjects>
+     <docTypes>
+            <docType>Loi n° 04-006/AU du 10 novembre 2004, portant Statut général des fonctionnaires de l&#x27;Union des Comores.</docType>
+     </docTypes>
+     <adoptedOn>2004-11-10</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://comoresdroit.comores-droit.com/wp-content/dossier/legislatifs/Loistatutdesfonctionnaires.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/96291/113751/F-513638975/COM-96291.pdf" file="akn_KM_act_2004-11-10_COM-2004-L-96291_fra_main.pdf">
+	 <providerDocName> Comores-Droit, Union des Comores </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\com\96292.txt" identifier="COM-1997-L-96292" iri="/akn/KM/act/1997-07-21/COM-1997-L-96292/fra@/!main">
+     <country code="KM">Comoros
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 97-006/AF du 21 juillet 1997 portant Statut des personnels militaires de la République Fédérale Islamique des Comores.</name>
+     <subjects>Public and civil servants</subjects>
+     <docTypes>
+            <docType>Loi n° 97-006/AF du 21 juillet 1997 portant Statut des personnels militaires de la République Fédérale Islamique des Comores.</docType>
+     </docTypes>
+     <adoptedOn>1997-07-21</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://comoresdroit.comores-droit.com/wp-content/dossier/legislatifs/Loi%20du%20statut%20pmilitaire.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/96292/113752/F-1302867631/COM-96292.pdf" file="akn_KM_act_1997-07-21_COM-1997-L-96292_fra_main.pdf">
+	 <providerDocName> Comores-Droit, Union des Comores </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

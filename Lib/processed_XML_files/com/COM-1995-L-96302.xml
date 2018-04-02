@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\com\96302.txt" identifier="COM-1995-L-96302" iri="/akn/KM/act/1995-06-24/COM-1995-L-96302/fra@/!main">
+     <country code="KM">Comoros
+	  </country>
+     <language code="fra" />
+     <name>Loi n° 95-013/A/F du 24 juin 1995 portant Code de la santé publique et de l'action sociale pour le bien être de la population.</name>
+     <subjects>Occupational safety and health</subjects>
+     <docTypes>
+            <docType>Loi n° 95-013/A/F du 24 juin 1995 portant Code de la santé publique et de l&#x27;action sociale pour le bien être de la population.</docType>
+     </docTypes>
+     <adoptedOn>1995-06-24</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://comoresdroit.comores-droit.com/wp-content/dossier/code/santepublique.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/96302/113762/F-159063164/COM-96302.pdf" file="akn_KM_act_1995-06-24_COM-1995-L-96302_fra_main.pdf">
+	 <providerDocName> Comores-Droit, Union des Comores </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>

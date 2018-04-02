@@ -1,0 +1,20 @@
+<doc source="unprocessed_outputs\com\72696.txt" identifier="COM-2001-C-72696" iri="/akn/KM/act/2001-12-23/COM-2001-C-72696/fra@/!main">
+     <country code="KM">Comoros
+	  </country>
+     <language code="fra" />
+     <name>Constitution de l'Union des Comores du 23 décembre 2001.</name>
+     <subjects>Constitutional law</subjects>
+     <docTypes>
+            <docType>Constitution de l&#x27;Union des Comores du 23 décembre 2001.</docType>
+     </docTypes>
+     <adoptedOn>2001-12-23</adoptedOn>
+	 <bibliography>
+	 <provider name="ILO" database="NATLEX"/>
+	 <originSources>
+	 <originSource href="http://democratie.francophonie.org/IMG/pdf/Comores.pdf"/>
+	 </originSources>
+	 <providerSource filetype="pdf" href="docs/ELECTRONIC/72696/74026/F-92095240/COM-72696.pdf" file="akn_KM_act_2001-12-23_COM-2001-C-72696_fra_main.pdf">
+	 <providerDocName> démocratie.francophonie.org, Espace francophone des Droits de l&#x27;Homme, de la Démocratie et de la Paix, Union des comores, 9 p. </providerDocName>
+	 </providerSource>
+	 </bibliography>
+</doc>
