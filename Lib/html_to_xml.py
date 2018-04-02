@@ -1,6 +1,8 @@
 import sys
 import json
 import os
+from os import listdir
+from os.path import isfile, join
 import uuid
 from csv import DictReader
 import pystache
@@ -143,6 +145,7 @@ def get_origin_source_links(html_page):
     else:
         return None
 
+
 def get_provider_source_link(html_page):
     soup = BeautifulSoup(html_page, "html5lib")
 
@@ -158,6 +161,7 @@ def get_provider_source_link(html_page):
         return provider_source_link
     else:
         return None
+
 
 def download_provider_source_file(pdf_link, pdf_name, path):
     r = requests.get(pdf_link, stream=True)
@@ -177,89 +181,93 @@ def get_html_page(url_or_path):
             return f.read()
 
 
-def main(url):
+def main(alpha_three_country_code):
     # grab the data and store it in a .csv file.
     print(" Getting metadata from url...")
 
-    html_page = get_html_page(url)
+    raw_data_file_path = os.path.join("unprocessed_outputs", alpha_three_country_code)
+    raw_data_files = [file for file in listdir(raw_data_file_path) if isfile(join(raw_data_file_path, file))]
+    for file in raw_data_files:
+        url = os.path.join("unprocessed_outputs", alpha_three_country_code, file)
+        html_page = get_html_page(url)
 
-    values = get_html_from_url(html_page)
+        values = get_html_from_url(html_page)
 
-    provider_source_link = get_provider_source_link(html_page)
-    origin_source_links = get_origin_source_links(html_page)
-    bibliography_text = get_bibliography_text(html_page)
+        provider_source_link = get_provider_source_link(html_page)
+        origin_source_links = get_origin_source_links(html_page)
+        bibliography_text = get_bibliography_text(html_page)
 
-    if provider_source_link is not None:
-        country_list = [value.strip() for value in values[1].split(",")]
-        country_names = country_list[1:]
+        if provider_source_link is not None:
+            country_list = [value.strip() for value in values[1].split(",")]
+            country_names = country_list[1:]
 
-        # fetch country's code.
-        print(" Getting country and language info...")
-        country_code = get_country_code(country_list[0])
+            # fetch country's code.
+            print(" Getting country and language info...")
+            country_code = get_country_code(country_list[0])
 
-        # detect the document's language from the language of the name field.
-        detected_language = detect(values[2])  # fetch language's code.
+            # detect the document's language from the language of the name field.
+            detected_language = detect(values[2])  # fetch language's code.
 
-        lang = get_language_code(detected_language)
+            lang = get_language_code(detected_language)
 
-        # document_types = [aType.strip() for aType in values[5].split(",")]
-        country_names = [aType.strip() for aType in country_names]
+            # document_types = [aType.strip() for aType in values[5].split(",")]
+            country_names = [aType.strip() for aType in country_names]
 
-        # document_types_for_template = get_doc_types(document_types)
-        related_country_codes_for_template = get_related_country_codes(country_names)
+            # document_types_for_template = get_doc_types(document_types)
+            related_country_codes_for_template = get_related_country_codes(country_names)
 
-        pdf_link = "http://www.ilo.org/dyn/natlex/" + provider_source_link
-        pdf_name = "akn_" + country_code + "_act_" + values[4] + "_" + values[0] + "_" + lang + "_main.pdf"
+            pdf_link = "http://www.ilo.org/dyn/natlex/" + provider_source_link
+            pdf_name = "akn_" + country_code + "_act_" + values[4] + "_" + values[0] + "_" + lang + "_main.pdf"
 
-        output_xml_file = values[0] + ".xml"
+            output_xml_file = values[0] + ".xml"
 
-        print(" Generating XML... ", output_xml_file)
+            print(" Generating XML... ", output_xml_file)
 
-        # Converting to XML
-        dict_for_template = {"name": values[2],
-                             "country": country_list[0],
-                             "subject": values[3],
-                             "adoptedOn": values[4],
-                             "ISN": values[0],
-                             "URL": url,
-                             "countrycode": country_code,
-                             "languagecode": lang,
-                             "docTypes": values[5],
-                             "relatedCountries": related_country_codes_for_template,
-                             "providerSource": provider_source_link,
-                             "providerDocName": bibliography_text,
-                             "originSources": origin_source_links,
-                             "fileName": pdf_name}
+            # Converting to XML
+            dict_for_template = {"name": values[2],
+                                 "country": country_list[0],
+                                 "subject": values[3],
+                                 "adoptedOn": values[4],
+                                 "ISN": values[0],
+                                 "URL": url,
+                                 "countrycode": country_code,
+                                 "languagecode": lang,
+                                 "docTypes": values[5],
+                                 "relatedCountries": related_country_codes_for_template,
+                                 "providerSource": provider_source_link,
+                                 "providerDocName": bibliography_text,
+                                 "originSources": origin_source_links,
+                                 "fileName": pdf_name}
 
-        if (len(related_country_codes_for_template) > 0):
-            dict_for_template["hasRelatedCountries"] = True
-            dict_for_template["relatedCountries"] = related_country_codes_for_template
+            if (len(related_country_codes_for_template) > 0):
+                dict_for_template["hasRelatedCountries"] = True
+                dict_for_template["relatedCountries"] = related_country_codes_for_template
 
-        if (len(origin_source_links) > 0):
-            dict_for_template["hasOriginSourceLinks"] = True
-            dict_for_template["originSources"] = origin_source_links
+            if (len(origin_source_links) > 0):
+                dict_for_template["hasOriginSourceLinks"] = True
+                dict_for_template["originSources"] = origin_source_links
 
-        doc_template = __load_template("doc.mxml")
+            doc_template = __load_template("doc.mxml")
 
-        # apply the mustache template on dict_for_template
-        generated_xml_file = pystache.render(doc_template, dict_for_template)
+            # apply the mustache template on dict_for_template
+            generated_xml_file = pystache.render(doc_template, dict_for_template)
 
-        path = os.path.join("processed_XML_files", country_code, values[0], output_xml_file)
-        directory = os.path.dirname(path)
-        if not os.path.exists(directory):
-            os.makedirs(directory)
-        with open(path, "w+", encoding="UTF-8") as output_file:
-            output_file.write(generated_xml_file)
+            path = os.path.join("processed_XML_files", alpha_three_country_code, output_xml_file)
+            directory = os.path.dirname(path)
+            if not os.path.exists(directory):
+                os.makedirs(directory)
+            with open(path, "w+", encoding="UTF-8") as output_file:
+                output_file.write(generated_xml_file)
 
-        download_provider_source_file(pdf_link, pdf_name, path)
+            download_provider_source_file(pdf_link, pdf_name, path)
 
-    else:
-        print("Unnecessary document. Move on to the next.")
+        else:
+            print("Unnecessary document. Moving on to the next.")
 
 
 '''
-Script takes a single argument: URL of the webpage or the path to the file.
-python general_code.py <url_or_file_path>
+Script takes a single argument: Code (alpha 3) of the country.
+Example: python general_code.py <dza>
 '''
 if __name__ == '__main__':
     main(sys.argv[1])
