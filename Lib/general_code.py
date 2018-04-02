@@ -154,7 +154,7 @@ def download_provider_source_file(pdf_link,pdf_name):
 
 
 def get_html_page(url_or_path):
-    if (url_or_path.startsWith("http") or url_or_path.starts_with("file:")) :
+    if (url_or_path.startswith("http") or url_or_path.startswith("file:")) :
         response_page = requests.get(url_or_path)
         return response_page.text
     else:
